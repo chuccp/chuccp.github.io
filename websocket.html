@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>websocket测试页面</title>
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+
+        <div id="navbar" class="navbar-collapse collapse">
+            <form class="navbar-form">
+                <div class="form-group">
+                    <input type="text" placeholder="连接地址url" id="url" value="ws://127.0.0.1:9090/ws" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    <input type="text" placeholder="UserName"  id="username" value="123456" class="form-control">
+                </div>
+                <div class="form-group">
+                    <input type="password" placeholder="Password"  id="password" value="123456" class="form-control">
+                </div>
+                <button type="button" id="connect" class="btn btn-success">连接</button>
+                <button type="button" id="duankai" class="btn btn-warning">断开</button>
+                <div class="form-group">
+                    <input type="text" placeholder="接收者ID" value="123456" id="revUserId" class="form-control">
+                </div>
+            </form>
+        </div>
+    </div>
+</nav>
+<div class="jumbotron">
+    <div class="container">
+        <div class="row">
+            <h2>消息框</h2>
+            <textarea id="messages" class="form-control" rows="10" cols="10"></textarea>
+        </div>
+        <div class="row">
+            <h2>发送框</h2>
+            <textarea class="form-control" id="sendmsg" rows="5" cols="10"></textarea>
+        </div>
+        <div class="row">
+            <label style="float: left; margin-top: 20px;" >消息状态:</label>
+            <input style="float: left; margin-top: 20px;margin-left: 10px;  width: 200px" type="text" placeholder="消息状态" readonly  id="msgstatus" value="" class="form-control">
+            <button style="float: right; margin-top: 20px;" type="button" id="sendMessage" class="btn btn-success">发送</button>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <footer>
+        <p>&copy; 2018 Company, Inc.</p>
+    </footer>
+</div>
+<script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+<script src="websocket.push.js"></script>
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script type="application/javascript">
+
+
+    var websocket = new WebSocketPush()
+
+    connect.addEventListener("click",function () {
+        websocket.loadConfig(url.value,username.value,password.value)
+        websocket.start()
+    })
+
+    websocket.onOpen = function(){
+        connect.innerText="连接中";
+    }
+    websocket.onClose = function(){
+        connect.innerText="连接中断";
+    }
+    websocket.onError=function(){
+        connect.innerText="连接错误";
+    }
+    websocket.onMessageStatus = function(msgid,ms){
+
+
+
+        msgstatus.value = ms;
+    }
+
+    websocket.onMessage = function (id,msg) {
+        messages.value =messages.value+ id+":"+msg+"\r\n";
+    }
+    sendMessage.addEventListener("click",function () {
+        msgstatus.value="发送中"
+        websocket.sendMessage(revUserId.value,sendmsg.value)
+    })
+    duankai.addEventListener("click",function () {
+        websocket.close()
+    })
+
+
+</script>
+
+</body>
+</html>

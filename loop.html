@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>js轮训测试页面</title>
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+
+        <div id="navbar" class="navbar-collapse collapse">
+            <form class="navbar-form">
+                <div class="form-group">
+                    <input type="text" placeholder="连接地址url" id="url" value="http://127.0.0.1:9092/ex" class="form-control">
+                </div>
+
+                <div class="form-group">
+                    <input type="text" placeholder="UserName"  id="username" value="123456" class="form-control">
+                </div>
+                <div class="form-group">
+                    <input type="password" placeholder="Password"  id="password" value="123456" class="form-control">
+                </div>
+                <button type="button" id="connect" class="btn btn-success">连接</button>
+                <button type="button" id="duankai" class="btn btn-warning">断开</button>
+                <div class="form-group">
+                    <input type="text" placeholder="接收者ID" value="123456" id="revUserId" class="form-control">
+                </div>
+            </form>
+        </div>
+    </div>
+</nav>
+<div class="jumbotron">
+    <div class="container">
+        <div class="row">
+            <h2>消息框</h2>
+            <textarea id="messages" class="form-control" rows="10" cols="10"></textarea>
+        </div>
+        <div class="row">
+            <h2>发送框</h2>
+            <textarea class="form-control" id="sendmsg" rows="5" cols="10"></textarea>
+        </div>
+        <div class="row">
+            <button style="float: right; margin-top: 20px;" type="button" id="sendMessage" class="btn btn-success">发送</button>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <footer>
+        <p>&copy; 2018 Company, Inc.</p>
+    </footer>
+</div>
+<script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+<script src="loop.push.js"></script>
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script type="application/javascript">
+
+    var loopPush = new LoopPush();
+    loopPush.onMessage = function(id, msg){
+        messages.value =messages.value+ id+":"+msg+"\r\n";
+    }
+    duankai.addEventListener("click",function () {
+        loopPush.stop()
+    });
+    connect.addEventListener("click",function () {
+        loopPush.loadConfig(url.value,username.value,password.value)
+        connect.innerText="连接中";
+        loopPush.start({
+            onError:function () {
+                connect.innerText="连接中断";
+            }
+        });
+    });
+
+
+
+    sendMessage.addEventListener("click",function () {
+        loopPush.sendMessage(revUserId.value,sendmsg.value,function (text) {
+            console.log(text)
+        })
+    })
+
+</script>
+
+</body>
+</html>
