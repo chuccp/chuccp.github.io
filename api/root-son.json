@@ -1,0 +1,89 @@
+{
+  "root": "son",
+  "meaning": "声音",
+  "words": [
+    {
+      "word": "sonic",
+      "pronunciation": "/ˈsɒnɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 声音的，音速的",
+      "collocations": [
+        "sonic boom",
+        "sonic wave",
+        "sonic speed",
+        "supersonic"
+      ],
+      "examples": [
+        "The jet broke the sonic barrier.",
+        "Sonic waves travel through air."
+      ],
+      "etymology": "来自拉丁语 sonus（声音）+ -ic 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "声音的，音速的"
+        }
+      ],
+      "suffix": "-ic",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "resonance",
+      "pronunciation": "/ˈrezənəns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 共鸣，共振",
+      "collocations": [
+        "emotional resonance",
+        "resonance of",
+        "magnetic resonance",
+        "resonance frequency"
+      ],
+      "examples": [
+        "The speech had emotional resonance.",
+        "The bridge collapsed due to resonance."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ sonare（发声）+ -ance 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "共鸣，共振"
+        }
+      ],
+      "suffix": "-ance",
+      "prefix": "re-",
+      "prefixMeaning": "回",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "consonant",
+      "pronunciation": "/ˈkɒnsənənt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 辅音，子音 adj. 一致的，和谐的",
+      "collocations": [
+        "consonant sound",
+        "voiceless consonant",
+        "consonant with",
+        "initial consonant"
+      ],
+      "examples": [
+        "B and C are consonants.",
+        "His actions are consonant with his words."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ sonare（发声）+ -ant 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "辅音，子音"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "一致的，和谐的"
+        }
+      ],
+      "suffix": "-ant",
+      "prefix": "con-",
+      "prefixMeaning": "一起",
+      "suffixMeaning": "形容词后缀"
+    }
+  ]
+}

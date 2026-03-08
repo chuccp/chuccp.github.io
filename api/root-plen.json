@@ -1,0 +1,116 @@
+{
+  "root": "plen",
+  "meaning": "满",
+  "words": [
+    {
+      "word": "plenty",
+      "pronunciation": "/ˈplenti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 大量，丰富；充足 adj. 足够的，充分的 adv. 足够地，充分地",
+      "collocations": [
+        "plenty of",
+        "in plenty",
+        "plenty more",
+        "plenty of time"
+      ],
+      "examples": [
+        "There is plenty of food.",
+        "We have plenty of time."
+      ],
+      "etymology": "来自拉丁语 plenus（满）+ -ty 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "大量，丰富；充足"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "足够的，充分的"
+        },
+        {
+          "partOfSpeech": "adv.",
+          "definition": "足够地，充分地"
+        }
+      ],
+      "suffix": "-ty",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "plenary",
+      "pronunciation": "/ˈpliːnəri/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 全体的，完全的",
+      "collocations": [
+        "plenary session",
+        "plenary meeting",
+        "plenary power",
+        "plenary assembly"
+      ],
+      "examples": [
+        "The plenary session begins at 9am.",
+        "All members attended the plenary."
+      ],
+      "etymology": "来自拉丁语 plenus（满）+ -ary 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "全体的，完全的"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "replenish",
+      "pronunciation": "/rɪˈplenɪʃ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 补充，重新装满",
+      "collocations": [
+        "replenish supplies",
+        "replenish the stock",
+        "replenish energy",
+        "replenish nutrients"
+      ],
+      "examples": [
+        "We need to replenish our supplies.",
+        "The river replenishes the lake."
+      ],
+      "etymology": "来自拉丁语 re-（再）+ plenus（满）+ -ish 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "补充，重新装满"
+        }
+      ],
+      "suffix": "-ish",
+      "prefix": "re-",
+      "prefixMeaning": "再",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "plentiful",
+      "pronunciation": "/ˈplentɪfl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 丰富的，充足的",
+      "collocations": [
+        "plentiful supply",
+        "plentiful harvest",
+        "plentiful resources",
+        "plentiful amount"
+      ],
+      "examples": [
+        "Food was plentiful.",
+        "The harvest was plentiful this year."
+      ],
+      "etymology": "来自拉丁语 plenus（满）+ -tiful 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "丰富的，充足的"
+        }
+      ],
+      "suffix": "-ful",
+      "suffixMeaning": "充满…的"
+    }
+  ]
+}

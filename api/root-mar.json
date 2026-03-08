@@ -1,0 +1,85 @@
+{
+  "root": "mar",
+  "meaning": "海",
+  "words": [
+    {
+      "word": "marine",
+      "pronunciation": "/məˈriːn/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 海洋的，海事的；海军的",
+      "collocations": [
+        "marine life",
+        "marine biology",
+        "marine corps",
+        "marine environment"
+      ],
+      "examples": [
+        "The marine life is diverse.",
+        "He joined the Marine Corps."
+      ],
+      "etymology": "来自拉丁语 mare（海）+ -ine 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "海洋的，海事的；海军的"
+        }
+      ],
+      "suffix": "-ine",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "maritime",
+      "pronunciation": "/ˈmærɪtaɪm/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 海事的，海运的；沿海的",
+      "collocations": [
+        "maritime law",
+        "maritime trade",
+        "maritime nation",
+        "maritime history"
+      ],
+      "examples": [
+        "The country has a strong maritime tradition.",
+        "Maritime law governs shipping."
+      ],
+      "etymology": "来自拉丁语 mare（海）+ -time 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "海事的，海运的；沿海的"
+        }
+      ],
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "submarine",
+      "pronunciation": "/ˌsʌbməˈriːn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 潜水艇 adj. 水下的，海底的",
+      "collocations": [
+        "nuclear submarine",
+        "submarine cable",
+        "submarine warfare",
+        "attack submarine"
+      ],
+      "examples": [
+        "The submarine dove deep.",
+        "Submarine cables connect continents."
+      ],
+      "etymology": "来自拉丁语 sub-（下）+ mare（海）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "潜水艇"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "水下的，海底的"
+        }
+      ],
+      "prefix": "sub-",
+      "prefixMeaning": "下"
+    }
+  ]
+}

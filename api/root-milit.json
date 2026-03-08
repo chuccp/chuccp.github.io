@@ -1,0 +1,87 @@
+{
+  "root": "milit",
+  "meaning": "兵",
+  "words": [
+    {
+      "word": "military",
+      "pronunciation": "/ˈmɪlɪtri/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 军事的，军队的；军人的，适于战争的 n. 军队，军方；军人",
+      "collocations": [
+        "military service",
+        "military action",
+        "military base",
+        "military force"
+      ],
+      "examples": [
+        "He joined the military.",
+        "The military intervened."
+      ],
+      "etymology": "来自拉丁语 miles（士兵）+ -ary 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "军事的，军队的；军人的，适于战争的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "军队，军方；军人"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "militia",
+      "pronunciation": "/mɪˈlɪʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 民兵，民兵组织",
+      "collocations": [
+        "armed militia",
+        "militia group",
+        "militia member",
+        "local militia"
+      ],
+      "examples": [
+        "The militia defended the town.",
+        "Armed militia controlled the area."
+      ],
+      "etymology": "来自拉丁语 miles（士兵）+ -itia 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "民兵，民兵组织"
+        }
+      ],
+      "suffix": "-a",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "demilitarize",
+      "pronunciation": "/diːˈmɪlɪtəraɪz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 使非军事化，裁军",
+      "collocations": [
+        "demilitarize the zone",
+        "demilitarize the border",
+        "fully demilitarize",
+        "demilitarize weapons"
+      ],
+      "examples": [
+        "The treaty demilitarized the border.",
+        "They agreed to demilitarize the zone."
+      ],
+      "etymology": "来自拉丁语 de-（去除）+ militaris（军事的）+ -ize 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "使非军事化，裁军"
+        }
+      ],
+      "suffix": "-ize",
+      "prefix": "de-",
+      "prefixMeaning": "去除",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

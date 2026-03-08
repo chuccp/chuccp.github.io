@@ -1,0 +1,96 @@
+{
+  "root": "anim",
+  "meaning": "生命，精神",
+  "words": [
+    {
+      "word": "animal",
+      "pronunciation": "/ˈænɪml/",
+      "partOfSpeech": "n.",
+      "definition": "n. 动物，牲畜",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "动物"
+        }
+      ],
+      "collocations": [
+        "wild animal"
+      ],
+      "examples": [
+        "The zoo has many animals."
+      ],
+      "etymology": "anim（生命）+ -al",
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "animate",
+      "pronunciation": "/ˈænɪmeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 使有生命；使活跃",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "使有生命"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "有生命的"
+        }
+      ],
+      "collocations": [
+        "animate object"
+      ],
+      "examples": [
+        "The story animates the characters."
+      ],
+      "etymology": "anim（生命）+ -ate",
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "animation",
+      "pronunciation": "/ˌænɪˈmeɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 动画，动画片；活力",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "动画；活力"
+        }
+      ],
+      "collocations": [
+        "watch animation"
+      ],
+      "examples": [
+        "She works in animation."
+      ],
+      "etymology": "anim + -ation",
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "unanimous",
+      "pronunciation": "/juˈnænɪməs/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 全体一致的，无异议的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "全体一致的"
+        }
+      ],
+      "collocations": [
+        "unanimous decision"
+      ],
+      "examples": [
+        "The vote was unanimous."
+      ],
+      "etymology": "un-（一）+ anim（精神）+ -ous",
+      "suffix": "-ous",
+      "prefix": "un-",
+      "prefixMeaning": "一",
+      "suffixMeaning": "多…的"
+    }
+  ]
+}

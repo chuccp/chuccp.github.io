@@ -1,0 +1,98 @@
+{
+  "root": "sens",
+  "meaning": "感觉",
+  "words": [
+    {
+      "word": "sense",
+      "pronunciation": "/sens/",
+      "partOfSpeech": "n.",
+      "definition": "n. 感觉，意识；意义",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "感觉；意义"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "感觉到"
+        }
+      ],
+      "collocations": [
+        "make sense",
+        "sense of humor"
+      ],
+      "examples": [
+        "That makes no sense."
+      ],
+      "etymology": "sens（感觉）+ -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "sensible",
+      "pronunciation": "/ˈsensəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 明智的，合理的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "明智的"
+        }
+      ],
+      "collocations": [
+        "sensible decision",
+        "sensible person"
+      ],
+      "examples": [
+        "That is a sensible choice."
+      ],
+      "etymology": "sens（感觉）+ -ible",
+      "suffix": "-ible",
+      "suffixMeaning": "能…的"
+    },
+    {
+      "word": "sensitive",
+      "pronunciation": "/ˈsensətɪv/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 敏感的，灵敏的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "敏感的"
+        }
+      ],
+      "collocations": [
+        "sensitive to",
+        "sensitive skin"
+      ],
+      "examples": [
+        "She is sensitive to criticism."
+      ],
+      "etymology": "sens（感觉）+ -itive",
+      "suffix": "-itive",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "nonsense",
+      "pronunciation": "/ˈnɒnsns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 胡说，废话",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "胡说"
+        }
+      ],
+      "collocations": [
+        "talk nonsense",
+        "make nonsense"
+      ],
+      "examples": [
+        "That is complete nonsense."
+      ],
+      "etymology": "non-（无）+ sense（感觉）",
+      "prefix": "non-",
+      "prefixMeaning": "无"
+    }
+  ]
+}

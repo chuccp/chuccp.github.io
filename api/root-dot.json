@@ -1,0 +1,90 @@
+{
+  "root": "dot",
+  "meaning": "给予",
+  "words": [
+    {
+      "word": "dot",
+      "pronunciation": "/dɒt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 点，小圆点",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "点"
+        }
+      ],
+      "collocations": [
+        "dot matrix"
+      ],
+      "examples": [
+        "Connect the dots."
+      ],
+      "etymology": "dot（给予）+ -，嫁妆的点",
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "dowry",
+      "pronunciation": "/ˈdaʊri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 嫁妆",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "嫁妆"
+        }
+      ],
+      "collocations": [
+        "bring dowry"
+      ],
+      "examples": [
+        "She brought a dowry."
+      ],
+      "etymology": "dot（给予）+ -ry",
+      "suffix": "-ry",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "endow",
+      "pronunciation": "/ɪnˈdaʊ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 捐赠，资助；赋予",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "捐赠；赋予"
+        }
+      ],
+      "collocations": [
+        "endow with"
+      ],
+      "examples": [
+        "Endowed with talent."
+      ],
+      "etymology": "en-（入）+ dow（给予）",
+      "prefix": "en-",
+      "prefixMeaning": "入"
+    },
+    {
+      "word": "dotal",
+      "pronunciation": "/ˈdəʊtl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 嫁妆的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "嫁妆的"
+        }
+      ],
+      "collocations": [
+        "dotal property"
+      ],
+      "examples": [
+        "Dotal assets."
+      ],
+      "etymology": "dot（给予）+ -al",
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    }
+  ]
+}

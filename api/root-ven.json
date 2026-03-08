@@ -1,0 +1,102 @@
+{
+  "root": "ven",
+  "meaning": "来",
+  "words": [
+    {
+      "word": "adventure",
+      "pronunciation": "/ədˈventʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 冒险，奇遇",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "冒险"
+        }
+      ],
+      "collocations": [
+        "go on adventure",
+        "adventure story"
+      ],
+      "examples": [
+        "Life is an adventure."
+      ],
+      "etymology": "ad-（向）+ ven（来）+ -ture",
+      "prefix": "ad-",
+      "prefixMeaning": "向",
+      "suffix": "-ture",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "convention",
+      "pronunciation": "/kənˈvenʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 会议，惯例",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "会议；惯例"
+        }
+      ],
+      "collocations": [
+        "annual convention",
+        "social convention"
+      ],
+      "examples": [
+        "The convention was successful."
+      ],
+      "etymology": "con-（共同）+ ven（来）+ -tion",
+      "suffix": "-tion",
+      "prefix": "con-",
+      "prefixMeaning": "共同",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "invent",
+      "pronunciation": "/ɪnˈvent/",
+      "partOfSpeech": "v.",
+      "definition": "v. 发明，创造",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "发明"
+        }
+      ],
+      "collocations": [
+        "invent a machine",
+        "invent a story"
+      ],
+      "examples": [
+        "Edison invented the light bulb."
+      ],
+      "etymology": "in-（入）+ ven（来）+ -t",
+      "prefix": "in-",
+      "prefixMeaning": "入",
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "prevent",
+      "pronunciation": "/prɪˈvent/",
+      "partOfSpeech": "v.",
+      "definition": "v. 预防，阻止",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "预防，阻止"
+        }
+      ],
+      "collocations": [
+        "prevent disease",
+        "prevent accidents"
+      ],
+      "examples": [
+        "Vaccines prevent diseases."
+      ],
+      "etymology": "pre-（前）+ ven（来）+ -t",
+      "prefix": "pre-",
+      "prefixMeaning": "前",
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

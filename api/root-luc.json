@@ -1,0 +1,85 @@
+{
+  "root": "luc",
+  "meaning": "光，照亮",
+  "words": [
+    {
+      "word": "lucid",
+      "pronunciation": "/ˈluːsɪd/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 清晰的，明白的；神志清醒的；透明的，清澈的",
+      "collocations": [
+        "lucid explanation",
+        "lucid dream",
+        "lucid moment",
+        "lucid thinking"
+      ],
+      "examples": [
+        "She gave a lucid explanation of the problem.",
+        "He had a lucid moment during his illness."
+      ],
+      "etymology": "来自拉丁语 lucere（发光）+ -id 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "清晰的，明白的；神志清醒的；透明的，清澈的"
+        }
+      ],
+      "suffix": "-id",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "elucidate",
+      "pronunciation": "/iˈluːsɪdeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 阐明，说明",
+      "collocations": [
+        "elucidate the meaning",
+        "elucidate the theory",
+        "elucidate the process",
+        "help elucidate"
+      ],
+      "examples": [
+        "The professor elucidated the complex theory.",
+        "This study helps elucidate the mechanism."
+      ],
+      "etymology": "来自拉丁语 e-（出）+ lucidus（明亮的）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "阐明，说明"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "e-",
+      "prefixMeaning": "出",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "translucent",
+      "pronunciation": "/trænzˈluːsnt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 半透明的",
+      "collocations": [
+        "translucent glass",
+        "translucent material",
+        "translucent fabric",
+        "translucent skin"
+      ],
+      "examples": [
+        "The windows are made of translucent glass.",
+        "She has translucent skin."
+      ],
+      "etymology": "来自拉丁语 trans-（穿过）+ lucere（发光）+ -ent 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "半透明的"
+        }
+      ],
+      "suffix": "-ent",
+      "prefix": "trans-",
+      "prefixMeaning": "穿过",
+      "suffixMeaning": "形容词后缀"
+    }
+  ]
+}

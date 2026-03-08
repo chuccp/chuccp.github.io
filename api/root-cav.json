@@ -1,0 +1,92 @@
+{
+  "root": "cav",
+  "meaning": "洞，空",
+  "words": [
+    {
+      "word": "cave",
+      "pronunciation": "/keɪv/",
+      "partOfSpeech": "n.",
+      "definition": "n. 洞穴，山洞",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "洞穴"
+        }
+      ],
+      "collocations": [
+        "explore cave"
+      ],
+      "examples": [
+        "They explored the cave."
+      ],
+      "etymology": "cav（洞）+ -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "cavity",
+      "pronunciation": "/ˈkævəti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 腔，穴；龋洞",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "腔，穴"
+        }
+      ],
+      "collocations": [
+        "body cavity"
+      ],
+      "examples": [
+        "The tooth has a cavity."
+      ],
+      "etymology": "cav（洞）+ -ity",
+      "suffix": "-ity",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "cavern",
+      "pronunciation": "/ˈkævən/",
+      "partOfSpeech": "n.",
+      "definition": "n. 大洞穴，大山洞",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "大洞穴"
+        }
+      ],
+      "collocations": [
+        "dark cavern"
+      ],
+      "examples": [
+        "A vast cavern."
+      ],
+      "etymology": "cav（洞）+ -ern",
+      "suffix": "-ern",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "concave",
+      "pronunciation": "/ˈkɒnkeɪv/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 凹的，凹面的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "凹的"
+        }
+      ],
+      "collocations": [
+        "concave lens"
+      ],
+      "examples": [
+        "A concave mirror."
+      ],
+      "etymology": "con-（加强）+ cav（洞）+ -e",
+      "prefix": "con-",
+      "prefixMeaning": "加强",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

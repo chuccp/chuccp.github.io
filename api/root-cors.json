@@ -1,0 +1,98 @@
+{
+  "root": "cors",
+  "meaning": "心",
+  "words": [
+    {
+      "word": "cordial",
+      "pronunciation": "/ˈkɔːdʒl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 热诚的，诚恳的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "热诚的"
+        }
+      ],
+      "collocations": [
+        "cordial welcome"
+      ],
+      "examples": [
+        "A cordial greeting."
+      ],
+      "etymology": "cord（心）+ -ial",
+      "suffix": "-ial",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "accord",
+      "pronunciation": "/əˈkɔːd/",
+      "partOfSpeech": "n.",
+      "definition": "n. 一致，协议 v. 给予",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "协议"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "给予"
+        }
+      ],
+      "collocations": [
+        "in accord"
+      ],
+      "examples": [
+        "They reached an accord."
+      ],
+      "etymology": "ac-（向）+ cord（心）",
+      "prefix": "ac-",
+      "prefixMeaning": "向"
+    },
+    {
+      "word": "record",
+      "pronunciation": "/ˈrekɔːd/",
+      "partOfSpeech": "n.",
+      "definition": "n. 记录，唱片 v. 录制",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "记录"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "录制"
+        }
+      ],
+      "collocations": [
+        "break record"
+      ],
+      "examples": [
+        "Set a new record."
+      ],
+      "etymology": "re-（回）+ cord（心）+ -，记在心里",
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    },
+    {
+      "word": "discord",
+      "pronunciation": "/ˈdɪskɔːd/",
+      "partOfSpeech": "n.",
+      "definition": "n. 不和，冲突；不协和音",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "不和"
+        }
+      ],
+      "collocations": [
+        "sow discord"
+      ],
+      "examples": [
+        "There was discord among them."
+      ],
+      "etymology": "dis-（分开）+ cord（心）",
+      "prefix": "dis-",
+      "prefixMeaning": "分开"
+    }
+  ]
+}

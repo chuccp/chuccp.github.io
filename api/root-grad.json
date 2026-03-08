@@ -1,0 +1,128 @@
+{
+  "root": "grad",
+  "meaning": "步，级",
+  "words": [
+    {
+      "word": "grade",
+      "pronunciation": "/ɡreɪd/",
+      "partOfSpeech": "n.",
+      "definition": "n. 等级，年级；成绩",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "等级；成绩"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "评分"
+        }
+      ],
+      "collocations": [
+        "first grade",
+        "get good grades"
+      ],
+      "examples": [
+        "She got an A grade."
+      ],
+      "etymology": "grad（步）+ -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "graduate",
+      "pronunciation": "/ˈɡrædʒuət/",
+      "partOfSpeech": "v.",
+      "definition": "v. 毕业 n. 毕业生",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "毕业"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "毕业生"
+        }
+      ],
+      "collocations": [
+        "graduate from",
+        "college graduate"
+      ],
+      "examples": [
+        "She graduated from Harvard."
+      ],
+      "etymology": "grad（步）+ -u + -ate",
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "gradual",
+      "pronunciation": "/ˈɡrædʒuəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 逐渐的，渐进的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "逐渐的"
+        }
+      ],
+      "collocations": [
+        "gradual change",
+        "gradual improvement"
+      ],
+      "examples": [
+        "There was a gradual improvement."
+      ],
+      "etymology": "grad（步）+ -ual",
+      "suffix": "-ual",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "degrade",
+      "pronunciation": "/dɪˈɡreɪd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 降级，贬低；退化",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "降级，贬低"
+        }
+      ],
+      "collocations": [
+        "degrade the environment",
+        "degrade oneself"
+      ],
+      "examples": [
+        "Pollution degrades the environment."
+      ],
+      "etymology": "de-（下）+ grad（步）+ -e",
+      "prefix": "de-",
+      "prefixMeaning": "下",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "upgrade",
+      "pronunciation": "/ˌʌpˈɡreɪd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 升级，提升",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "升级，提升"
+        }
+      ],
+      "collocations": [
+        "upgrade the system",
+        "upgrade to"
+      ],
+      "examples": [
+        "We upgraded to a better model."
+      ],
+      "etymology": "up-（上）+ grad（步）+ -e",
+      "prefix": "up-",
+      "prefixMeaning": "上",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

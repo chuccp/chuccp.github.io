@@ -1,0 +1,81 @@
+{
+  "root": "chron",
+  "meaning": "时间",
+  "words": [
+    {
+      "word": "chronic",
+      "pronunciation": "/ˈkrɒnɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 慢性的，长期的",
+      "collocations": [
+        "chronic disease",
+        "chronic pain",
+        "chronic fatigue",
+        "chronic illness"
+      ],
+      "examples": [
+        "He suffers from chronic back pain.",
+        "Chronic diseases require long-term treatment."
+      ],
+      "etymology": "来自希腊语 chronos（时间）+ -ic 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "慢性的，长期的"
+        }
+      ],
+      "suffix": "-ic",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "synchronize",
+      "pronunciation": "/ˈsɪŋkrənaɪz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 同步，使一致",
+      "collocations": [
+        "synchronize with",
+        "synchronize watches",
+        "synchronize data",
+        "synchronize video"
+      ],
+      "examples": [
+        "Please synchronize your watches.",
+        "The video and audio need to be synchronized."
+      ],
+      "etymology": "来自希腊语 syn（共同）+ chronos（时间）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "同步，使一致"
+        }
+      ],
+      "suffix": "-ize",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "chronology",
+      "pronunciation": "/krəˈnɒlədʒi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 年代学，年表",
+      "collocations": [
+        "historical chronology",
+        "chronology of events",
+        "strict chronology",
+        "reverse chronology"
+      ],
+      "examples": [
+        "The chronology of events is important.",
+        "She created a chronology of her family history."
+      ],
+      "etymology": "来自希腊语 chronos（时间）+ logos（学科）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "年代学，年表"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    }
+  ]
+}

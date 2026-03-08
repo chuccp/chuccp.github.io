@@ -1,0 +1,85 @@
+{
+  "root": "witness",
+  "meaning": "见证",
+  "words": [
+    {
+      "word": "witness",
+      "pronunciation": "/ˈwɪtnəs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 证人，目击者；证据，证明；见证人 v. 目击，见证；作证，证明",
+      "collocations": [
+        "eyewitness",
+        "witness to",
+        "bear witness",
+        "witness the event"
+      ],
+      "examples": [
+        "She witnessed the accident.",
+        "He was a witness to the crime."
+      ],
+      "etymology": "来自古英语 witnes（知识，证明）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "证人，目击者；证据，证明；见证人"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "目击，见证；作证，证明；为...作证"
+        }
+      ],
+      "suffix": "-ness",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "eyewitness",
+      "pronunciation": "/ˈaɪwɪtnəs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 目击者",
+      "collocations": [
+        "eyewitness account",
+        "eyewitness testimony",
+        "eyewitness report",
+        "eyewitness news"
+      ],
+      "examples": [
+        "The eyewitness gave a detailed account.",
+        "Police are seeking eyewitnesses."
+      ],
+      "etymology": "来自 eye（眼）+ witness（见证）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "目击者"
+        }
+      ],
+      "suffix": "-ness",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "witnessed",
+      "pronunciation": "/ˈwɪtnəst/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 被见证的，有证人的",
+      "collocations": [
+        "witnessed event",
+        "witnessed agreement",
+        "officially witnessed",
+        "properly witnessed"
+      ],
+      "examples": [
+        "The witnessed event changed history.",
+        "The document was properly witnessed."
+      ],
+      "etymology": "来自 witness + -ed 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "被见证的，有证人的"
+        }
+      ],
+      "suffix": "-d",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

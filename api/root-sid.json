@@ -1,0 +1,112 @@
+{
+  "root": "sid",
+  "meaning": "坐",
+  "words": [
+    {
+      "word": "preside",
+      "pronunciation": "/prɪˈzaɪd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 主持，负责",
+      "collocations": [
+        "preside over",
+        "preside at",
+        "preside the meeting",
+        "preside the ceremony"
+      ],
+      "examples": [
+        "The judge presided over the trial.",
+        "She presided at the conference."
+      ],
+      "etymology": "来自拉丁语 prae-（前）+ sidere（坐）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "主持，负责"
+        }
+      ],
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "reside",
+      "pronunciation": "/rɪˈzaɪd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 居住，定居",
+      "collocations": [
+        "reside in",
+        "reside at",
+        "reside with",
+        "permanently reside"
+      ],
+      "examples": [
+        "He resides in London.",
+        "They reside abroad."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ sidere（坐）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "居住，定居"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    },
+    {
+      "word": "president",
+      "pronunciation": "/ˈprezɪdənt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 总统，主席；校长；行长",
+      "collocations": [
+        "US president",
+        "company president",
+        "president of",
+        "former president"
+      ],
+      "examples": [
+        "The president gave a speech.",
+        "She is the company president."
+      ],
+      "etymology": "来自拉丁语 prae-（前）+ sidere（坐）+ -ent 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "总统，主席；校长；行长"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "总统的，主席的"
+        }
+      ],
+      "suffix": "-ent",
+      "suffixMeaning": "形容词后缀"
+    },
+    {
+      "word": "residence",
+      "pronunciation": "/ˈrezɪdəns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 居住，住所",
+      "collocations": [
+        "take up residence",
+        "official residence",
+        "permanent residence",
+        "residence hall"
+      ],
+      "examples": [
+        "They took up residence in Paris.",
+        "The ambassador lives in the official residence."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ sidere（坐）+ -ence 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "居住，住所"
+        }
+      ],
+      "suffix": "-ence",
+      "prefix": "re-",
+      "prefixMeaning": "回",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

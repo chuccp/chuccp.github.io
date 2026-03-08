@@ -1,0 +1,89 @@
+{
+  "root": "terr",
+  "meaning": "地",
+  "words": [
+    {
+      "word": "terrain",
+      "pronunciation": "/təˈreɪn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 地形，地势；地带，地区",
+      "collocations": [
+        "rough terrain",
+        "mountain terrain",
+        "difficult terrain",
+        "terrain type"
+      ],
+      "examples": [
+        "The terrain is difficult to cross.",
+        "Military vehicles can handle rough terrain."
+      ],
+      "etymology": "来自拉丁语 terra（土地）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "地形，地势；地带，地区"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "在...上移动"
+        }
+      ],
+      "suffix": "-ain",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "territory",
+      "pronunciation": "/ˈterətri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 领土，版图；领地，地盘；领域，范围",
+      "collocations": [
+        "national territory",
+        "occupied territory",
+        "territory of",
+        "new territory"
+      ],
+      "examples": [
+        "This is disputed territory.",
+        "The salesman covered a large territory."
+      ],
+      "etymology": "来自拉丁语 terra（土地）+ -itory 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "领土，版图；领地，地盘；领域，范围"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "占领，占据"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "terrestrial",
+      "pronunciation": "/təˈrestriəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 陆地的，地球的",
+      "collocations": [
+        "terrestrial planet",
+        "terrestrial life",
+        "terrestrial ecosystem",
+        "terrestrial television"
+      ],
+      "examples": [
+        "Earth is a terrestrial planet.",
+        "Terrestrial life depends on water."
+      ],
+      "etymology": "来自拉丁语 terra（土地）+ -estrial 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "陆地的，地球的"
+        }
+      ],
+      "suffix": "-ial",
+      "suffixMeaning": "…的"
+    }
+  ]
+}

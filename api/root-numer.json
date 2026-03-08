@@ -1,0 +1,91 @@
+{
+  "root": "numer",
+  "meaning": "数，数字",
+  "words": [
+    {
+      "word": "number",
+      "pronunciation": "/ˈnʌmbə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 数字，号码；数量，数目；数，数字；期，号 v. 给...编号；共计，达",
+      "collocations": [
+        "phone number",
+        "large number",
+        "number of",
+        "account number"
+      ],
+      "examples": [
+        "What is your phone number?",
+        "A large number of people attended."
+      ],
+      "etymology": "来自拉丁语 numerus（数字）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "数字，号码；数量，数目；数，数字；期，号"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "给...编号；共计，达"
+        }
+      ],
+      "suffix": "-er",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "numerous",
+      "pronunciation": "/ˈnjuːmərəs/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 众多的，许多的；无数的",
+      "collocations": [
+        "numerous studies",
+        "numerous occasions",
+        "numerous attempts",
+        "numerous benefits"
+      ],
+      "examples": [
+        "Numerous studies have confirmed this.",
+        "She has visited Japan on numerous occasions."
+      ],
+      "etymology": "来自拉丁语 numerus（数字）+ -ous 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "众多的，许多的；无数的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "众多，许多"
+        }
+      ],
+      "suffix": "-ous",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "enumerate",
+      "pronunciation": "/ɪˈnjuːməreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 列举，枚举；计算",
+      "collocations": [
+        "enumerate the reasons",
+        "enumerate the items",
+        "enumerate the benefits",
+        "enumerate the steps"
+      ],
+      "examples": [
+        "Let me enumerate the main points.",
+        "The report enumerates the key findings."
+      ],
+      "etymology": "来自拉丁语 e-（出）+ numerus（数字）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "列举，枚举；计算"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "e-",
+      "prefixMeaning": "出",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "root": "ciner",
+  "meaning": "灰",
+  "words": [
+    {
+      "word": "cinder",
+      "pronunciation": "/ˈsɪndə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 煤渣，灰烬",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "煤渣"
+        }
+      ],
+      "collocations": [
+        "hot cinder"
+      ],
+      "examples": [
+        "The cinders were hot."
+      ],
+      "etymology": "ciner（灰）+ -",
+      "suffix": "-er",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "incinerate",
+      "pronunciation": "/ɪnˈsɪnəreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 焚化，火化",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "焚化"
+        }
+      ],
+      "collocations": [
+        "incinerate waste"
+      ],
+      "examples": [
+        "The waste was incinerated."
+      ],
+      "etymology": "in-（入）+ ciner（灰）+ -ate",
+      "suffix": "-ate",
+      "prefix": "in-",
+      "prefixMeaning": "入",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "incinerator",
+      "pronunciation": "/ɪnˈsɪnəreɪtə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 焚化炉",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "焚化炉"
+        }
+      ],
+      "collocations": [
+        "waste incinerator"
+      ],
+      "examples": [
+        "The incinerator burns waste."
+      ],
+      "etymology": "in- + ciner + -ator",
+      "prefix": "in-",
+      "suffix": "-ator",
+      "suffixMeaning": "后缀",
+      "prefixMeaning": "入，内"
+    }
+  ]
+}

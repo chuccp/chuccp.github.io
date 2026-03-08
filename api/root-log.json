@@ -1,0 +1,110 @@
+{
+  "root": "log",
+  "meaning": "说",
+  "words": [
+    {
+      "word": "dialogue",
+      "pronunciation": "/ˈdaɪəlɒɡ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 对话，对白；意见交流；会谈，谈判 v. 对话，交谈",
+      "collocations": [
+        "open dialogue",
+        "political dialogue",
+        "dialogue between",
+        "constructive dialogue"
+      ],
+      "examples": [
+        "The two leaders held a dialogue.",
+        "The play has witty dialogue."
+      ],
+      "etymology": "来自希腊语 dia-（穿过）+ logos（说话）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "对话，对白；意见交流；会谈，谈判"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "对话，交谈"
+        }
+      ],
+      "prefix": "dia-",
+      "prefixMeaning": "穿过"
+    },
+    {
+      "word": "monologue",
+      "pronunciation": "/ˈmɒnəlɒɡ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 独白，独角戏",
+      "collocations": [
+        "dramatic monologue",
+        "comic monologue",
+        "deliver a monologue",
+        "interior monologue"
+      ],
+      "examples": [
+        "The actor performed a monologue.",
+        "She gave a long monologue about her trip."
+      ],
+      "etymology": "来自希腊语 mono-（单一）+ logos（说话）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "独白，独角戏"
+        }
+      ],
+      "prefix": "mono-",
+      "prefixMeaning": "单一"
+    },
+    {
+      "word": "apology",
+      "pronunciation": "/əˈpɒlədʒi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 道歉，认错",
+      "collocations": [
+        "make an apology",
+        "sincere apology",
+        "public apology",
+        "accept apology"
+      ],
+      "examples": [
+        "He offered a sincere apology.",
+        "She demanded an apology."
+      ],
+      "etymology": "来自希腊语 apo-（离开）+ logos（说话）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "道歉，认错"
+        }
+      ],
+      "prefix": "apo-",
+      "prefixMeaning": "离开"
+    },
+    {
+      "word": "catalog",
+      "pronunciation": "/ˈkætəlɒɡ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 目录，名录 v. 编目",
+      "collocations": [
+        "product catalog",
+        "library catalog",
+        "catalog of",
+        "catalog the collection"
+      ],
+      "examples": [
+        "The library has an online catalog.",
+        "She cataloged all the books."
+      ],
+      "etymology": "来自希腊语 kata-（向下）+ logos（说话）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "目录，名录 v. 编目"
+        }
+      ],
+      "prefix": "a-",
+      "prefixMeaning": "无"
+    }
+  ]
+}

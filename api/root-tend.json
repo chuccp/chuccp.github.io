@@ -1,0 +1,106 @@
+{
+  "root": "tend",
+  "meaning": "伸展",
+  "words": [
+    {
+      "word": "tend",
+      "pronunciation": "/tend/",
+      "partOfSpeech": "v.",
+      "definition": "v. 倾向，趋向；照料，照顾；照管，管理",
+      "collocations": [
+        "tend to",
+        "tend garden",
+        "tend the sick",
+        "tend toward"
+      ],
+      "examples": [
+        "Prices tend to rise over time.",
+        "She tends the garden daily."
+      ],
+      "etymology": "来自拉丁语 tendere（伸展）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "倾向，趋向；照料，照顾；照管，管理"
+        }
+      ],
+      "suffix": "-end",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "extend",
+      "pronunciation": "/ɪkˈstend/",
+      "partOfSpeech": "v.",
+      "definition": "v. 扩展，延伸；给予",
+      "collocations": [
+        "extend the deadline",
+        "extend an invitation",
+        "extend the building",
+        "extend help"
+      ],
+      "examples": [
+        "Can you extend the deadline?",
+        "The road extends to the coast."
+      ],
+      "etymology": "来自拉丁语 ex-（出）+ tendere（伸展）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "扩展，延伸；给予"
+        }
+      ],
+      "prefix": "ex-",
+      "prefixMeaning": "出"
+    },
+    {
+      "word": "attend",
+      "pronunciation": "/əˈtend/",
+      "partOfSpeech": "v.",
+      "definition": "v. 出席，参加；照料，看护；注意，专心",
+      "collocations": [
+        "attend a meeting",
+        "attend school",
+        "attend to",
+        "attend class"
+      ],
+      "examples": [
+        "Did you attend the conference?",
+        "The nurse attended to the patient."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ tendere（伸展）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "出席，参加；照料，看护；注意，专心"
+        }
+      ],
+      "prefix": "ad-",
+      "prefixMeaning": "向"
+    },
+    {
+      "word": "tendency",
+      "pronunciation": "/ˈtendənsi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 倾向，趋势",
+      "collocations": [
+        "have a tendency",
+        "upward tendency",
+        "natural tendency",
+        "tendency to"
+      ],
+      "examples": [
+        "He has a tendency to procrastinate.",
+        "There is a tendency toward inflation."
+      ],
+      "etymology": "来自拉丁语 tendere（伸展）+ -ency 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "倾向，趋势"
+        }
+      ],
+      "suffix": "-ency",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

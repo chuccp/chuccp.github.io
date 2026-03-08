@@ -1,0 +1,69 @@
+{
+  "root": "fam",
+  "meaning": "饥饿",
+  "words": [
+    {
+      "word": "famine",
+      "pronunciation": "/ˈfæmɪn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 饥荒，饥饿",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "饥荒"
+        }
+      ],
+      "collocations": [
+        "severe famine"
+      ],
+      "examples": [
+        "The famine killed many."
+      ],
+      "etymology": "fam（饥饿）+ -ine",
+      "suffix": "-ine",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "famish",
+      "pronunciation": "/ˈfæmɪʃ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 使挨饿，挨饿",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "挨饿"
+        }
+      ],
+      "collocations": [
+        "famish from hunger"
+      ],
+      "examples": [
+        "He was famished."
+      ],
+      "etymology": "fam（饥饿）+ -ish",
+      "suffix": "-ish",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "famished",
+      "pronunciation": "/ˈfæmɪʃt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 饥饿的，极饿的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "饥饿的"
+        }
+      ],
+      "collocations": [
+        "famished wolf"
+      ],
+      "examples": [
+        "I am famished."
+      ],
+      "etymology": "fam（饥饿）+ -ish + -ed",
+      "suffix": "-ish",
+      "suffixMeaning": "…的"
+    }
+  ]
+}

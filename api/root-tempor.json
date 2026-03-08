@@ -1,0 +1,64 @@
+{
+  "root": "tempor",
+  "meaning": "时间",
+  "words": [
+    {
+      "word": "temporary",
+      "pronunciation": "/ˈtemprəri/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 暂时的，临时的；短暂的 n. 临时工，临时人员",
+      "collocations": [
+        "temporary solution",
+        "temporary job",
+        "temporary measure",
+        "temporary storage"
+      ],
+      "examples": [
+        "This is a temporary arrangement.",
+        "She found a temporary job."
+      ],
+      "etymology": "来自拉丁语 tempus（时间）+ -ary 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "暂时的，临时的；短暂的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "临时工，临时人员"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "contemporary",
+      "pronunciation": "/kənˈtemprəri/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 当代的，同时代的；现代的 n. 同代人，同龄人；同时期的事物",
+      "collocations": [
+        "contemporary art",
+        "contemporary society",
+        "contemporary of",
+        "contemporary music"
+      ],
+      "examples": [
+        "She studies contemporary literature.",
+        "Shakespeare was contemporary with Cervantes."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ tempus（时间）+ -ary 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "当代的，同时代的；现代的，当代风格的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "同代人，同龄人；同时期的事物"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "一起"
+    }
+  ]
+}

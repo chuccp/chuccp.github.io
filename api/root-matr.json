@@ -1,0 +1,74 @@
+{
+  "root": "matr",
+  "meaning": "母",
+  "words": [
+    {
+      "word": "maternal",
+      "pronunciation": "/məˈtɜːnl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 母亲的，母系的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "母亲的"
+        }
+      ],
+      "collocations": [
+        "maternal love",
+        "maternal grandmother"
+      ],
+      "examples": [
+        "She has maternal instincts."
+      ],
+      "etymology": "matr（母）+ -nal",
+      "suffix": "-nal",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "matriarch",
+      "pronunciation": "/ˈmeɪtriɑːk/",
+      "partOfSpeech": "n.",
+      "definition": "n. 女家长，女族长",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "女族长"
+        }
+      ],
+      "collocations": [
+        "family matriarch",
+        "matriarch of"
+      ],
+      "examples": [
+        "She is the matriarch of the family."
+      ],
+      "etymology": "matri（母）+ -arch（统治）",
+      "prefix": "matri-",
+      "prefixMeaning": "母"
+    },
+    {
+      "word": "matrimony",
+      "pronunciation": "/ˈmætrɪməni/",
+      "partOfSpeech": "n.",
+      "definition": "n. 婚姻，结婚",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "婚姻"
+        }
+      ],
+      "collocations": [
+        "holy matrimony",
+        "enter matrimony"
+      ],
+      "examples": [
+        "They entered into matrimony."
+      ],
+      "etymology": "matri（母）+ -mony，母亲状态",
+      "suffix": "-mony",
+      "prefix": "matri-",
+      "prefixMeaning": "母",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

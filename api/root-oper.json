@@ -1,0 +1,118 @@
+{
+  "root": "oper",
+  "meaning": "工作",
+  "words": [
+    {
+      "word": "operate",
+      "pronunciation": "/ˈɒpəreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 操作，运转；动手术；经营，管理",
+      "collocations": [
+        "operate a machine",
+        "operate on",
+        "operate smoothly",
+        "operate a business"
+      ],
+      "examples": [
+        "The machine operates automatically.",
+        "The surgeon operated on the patient."
+      ],
+      "etymology": "来自拉丁语 operari（工作）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "操作，运转；动手术；经营，管理"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "操作，运转"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "operation",
+      "pronunciation": "/ˌɒpəˈreɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 操作，运营；手术；军事行动",
+      "collocations": [
+        "surgical operation",
+        "in operation",
+        "business operation",
+        "military operation"
+      ],
+      "examples": [
+        "The operation was successful.",
+        "The factory is in operation."
+      ],
+      "etymology": "来自拉丁语 operari（工作）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "操作，运营；手术；军事行动"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "操作的，运营的"
+        }
+      ],
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "operator",
+      "pronunciation": "/ˈɒpəreɪtə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 操作员，接线员；经营者；运算符",
+      "collocations": [
+        "machine operator",
+        "tour operator",
+        "telephone operator",
+        "skilled operator"
+      ],
+      "examples": [
+        "The machine operator is trained.",
+        "Call the telephone operator."
+      ],
+      "etymology": "来自拉丁语 operari（工作）+ -or 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "操作员，接线员；经营者；运算符"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "操作，经营"
+        }
+      ],
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "cooperate",
+      "pronunciation": "/kəʊˈɒpəreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 合作，协作",
+      "collocations": [
+        "cooperate with",
+        "cooperate fully",
+        "willing to cooperate",
+        "cooperate on"
+      ],
+      "examples": [
+        "We must cooperate to succeed.",
+        "He cooperated with the police."
+      ],
+      "etymology": "来自拉丁语 co-（一起）+ operari（工作）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "合作，协作"
+        }
+      ],
+      "prefix": "co-",
+      "prefixMeaning": "一起"
+    }
+  ]
+}

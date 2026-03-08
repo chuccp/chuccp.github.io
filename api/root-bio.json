@@ -1,0 +1,81 @@
+{
+  "root": "bio",
+  "meaning": "生命",
+  "words": [
+    {
+      "word": "biology",
+      "pronunciation": "/baɪˈɒlədʒi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 生物学",
+      "collocations": [
+        "study biology",
+        "biology department",
+        "molecular biology",
+        "marine biology"
+      ],
+      "examples": [
+        "She studied biology in university.",
+        "Biology is the study of living organisms."
+      ],
+      "etymology": "来自希腊语 bios（生命）+ logos（学科）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "生物学"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "biography",
+      "pronunciation": "/baɪˈɒɡrəfi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 传记",
+      "collocations": [
+        "write biography",
+        "authorized biography",
+        "biography of",
+        "famous biography"
+      ],
+      "examples": [
+        "She wrote a biography of the famous actor.",
+        "This biography reveals his hidden life."
+      ],
+      "etymology": "来自希腊语 bios（生命）+ graphein（写）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "传记"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "biosphere",
+      "pronunciation": "/ˈbaɪəsfɪər/",
+      "partOfSpeech": "n.",
+      "definition": "n. 生物圈",
+      "collocations": [
+        "global biosphere",
+        "biosphere reserve",
+        "biosphere protection",
+        "terrestrial biosphere"
+      ],
+      "examples": [
+        "The biosphere includes all living things on Earth.",
+        "Human activities affect the biosphere."
+      ],
+      "etymology": "来自希腊语 bios（生命）+ sphaira（球体）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "生物圈"
+        }
+      ],
+      "suffix": "-re",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

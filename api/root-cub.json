@@ -1,0 +1,73 @@
+{
+  "root": "cub",
+  "meaning": "躺",
+  "words": [
+    {
+      "word": "cubit",
+      "pronunciation": "/ˈkjuːbɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 肘，前臂（古长度单位）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "肘"
+        }
+      ],
+      "collocations": [
+        "ancient cubit"
+      ],
+      "examples": [
+        "A cubit is about 18 inches."
+      ],
+      "etymology": "cub（躺）+ -it，弯曲的手臂",
+      "suffix": "-it",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "incubate",
+      "pronunciation": "/ˈɪŋkjubeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 孵化，培育",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "孵化"
+        }
+      ],
+      "collocations": [
+        "incubate eggs"
+      ],
+      "examples": [
+        "The hen incubates eggs."
+      ],
+      "etymology": "in-（上）+ cub（躺）+ -ate",
+      "suffix": "-ate",
+      "prefix": "in-",
+      "prefixMeaning": "上",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "recumbent",
+      "pronunciation": "/rɪˈkʌmbənt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 躺着的，斜倚的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "躺着的"
+        }
+      ],
+      "collocations": [
+        "recumbent position"
+      ],
+      "examples": [
+        "A recumbent figure."
+      ],
+      "etymology": "re-（回）+ cub（躺）+ -ent",
+      "suffix": "-ent",
+      "prefix": "re-",
+      "prefixMeaning": "回",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

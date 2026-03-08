@@ -1,0 +1,132 @@
+{
+  "root": "hypo",
+  "meaning": "在下，不足",
+  "words": [
+    {
+      "word": "hypothermia",
+      "pronunciation": "/ˌhaɪpəˈθɜːmiə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 体温过低",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "体温过低"
+        }
+      ],
+      "collocations": [
+        "suffer hypothermia"
+      ],
+      "examples": [
+        "He suffered from hypothermia."
+      ],
+      "etymology": "hypo-（不足）+ therm（热）",
+      "prefix": "hypo-",
+      "prefixMeaning": "不足"
+    },
+    {
+      "word": "hypodermic",
+      "pronunciation": "/ˌhaɪpəˈdɜːmɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 皮下的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "皮下的"
+        }
+      ],
+      "collocations": [
+        "hypodermic needle"
+      ],
+      "examples": [
+        "The hypodermic needle is sterile."
+      ],
+      "etymology": "hypo-（在下）+ derm（皮肤）",
+      "prefix": "hypo-",
+      "prefixMeaning": "在下"
+    },
+    {
+      "word": "hypoglycemia",
+      "pronunciation": "/ˌhaɪpəɡlaɪˈsiːmiə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 低血糖症",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "低血糖症"
+        }
+      ],
+      "collocations": [
+        "suffer hypoglycemia"
+      ],
+      "examples": [
+        "Diabetics may experience hypoglycemia."
+      ],
+      "etymology": "hypo-（不足）+ glyc（糖）",
+      "prefix": "hypo-",
+      "prefixMeaning": "不足"
+    },
+    {
+      "word": "hypotension",
+      "pronunciation": "/ˌhaɪpəˈtenʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 低血压",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "低血压"
+        }
+      ],
+      "collocations": [
+        "suffer hypotension"
+      ],
+      "examples": [
+        "She has chronic hypotension."
+      ],
+      "etymology": "hypo-（不足）+ tension",
+      "prefix": "hypo-",
+      "prefixMeaning": "不足"
+    },
+    {
+      "word": "hypothesis",
+      "pronunciation": "/haɪˈpɒθəsɪs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 假设，假说",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "假设"
+        }
+      ],
+      "collocations": [
+        "form a hypothesis"
+      ],
+      "examples": [
+        "The hypothesis needs testing."
+      ],
+      "etymology": "hypo-（在下）+ thes（放置）",
+      "prefix": "hypo-",
+      "prefixMeaning": "在下"
+    },
+    {
+      "word": "hypothetical",
+      "pronunciation": "/ˌhaɪpəˈθetɪkl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 假设的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "假设的"
+        }
+      ],
+      "collocations": [
+        "hypothetical situation"
+      ],
+      "examples": [
+        "This is a hypothetical scenario."
+      ],
+      "etymology": "hypo-（在下）+ thet + ical",
+      "prefix": "hypo-",
+      "prefixMeaning": "在下"
+    }
+  ]
+}

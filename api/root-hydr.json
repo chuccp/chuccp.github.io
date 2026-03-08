@@ -1,0 +1,85 @@
+{
+  "root": "hydr",
+  "meaning": "水",
+  "words": [
+    {
+      "word": "hydrate",
+      "pronunciation": "/ˈhaɪdreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 使水合，补水 n. 水合物",
+      "collocations": [
+        "stay hydrated",
+        "hydrate the skin",
+        "chemical hydrate",
+        "properly hydrated"
+      ],
+      "examples": [
+        "Drink water to stay hydrated during exercise.",
+        "The compound forms a hydrate."
+      ],
+      "etymology": "来自希腊语 hydor（水）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "使水合，补水"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "水合物"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "hydrogen",
+      "pronunciation": "/ˈhaɪdrədʒən/",
+      "partOfSpeech": "n.",
+      "definition": "n. 氢气，氢",
+      "collocations": [
+        "hydrogen atom",
+        "hydrogen bomb",
+        "hydrogen fuel",
+        "liquid hydrogen"
+      ],
+      "examples": [
+        "Hydrogen is the lightest element.",
+        "Hydrogen fuel cells are environmentally friendly."
+      ],
+      "etymology": "来自希腊语 hydor（水）+ genes（产生）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "氢气，氢"
+        }
+      ],
+      "suffix": "-en",
+      "suffixMeaning": "使…"
+    },
+    {
+      "word": "hydraulic",
+      "pronunciation": "/haɪˈdrɒlɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 水力的，液压的",
+      "collocations": [
+        "hydraulic system",
+        "hydraulic press",
+        "hydraulic brake",
+        "hydraulic engineering"
+      ],
+      "examples": [
+        "The car uses hydraulic brakes.",
+        "Hydraulic systems transmit force through fluids."
+      ],
+      "etymology": "来自希腊语 hydor（水）+ aulos（管道）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "水力的，液压的"
+        }
+      ],
+      "suffix": "-ic",
+      "suffixMeaning": "…的"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "root": "loc",
+  "meaning": "地方",
+  "words": [
+    {
+      "word": "local",
+      "pronunciation": "/ˈləʊkl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 地方的，当地的；局部的，狭隘的 n. 当地人，本地人；慢车，普通车",
+      "collocations": [
+        "local community",
+        "local government",
+        "local area",
+        "local news"
+      ],
+      "examples": [
+        "The local people are friendly.",
+        "We buy local produce."
+      ],
+      "etymology": "来自拉丁语 locus（地方）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "地方的，当地的；局部的，狭隘的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "当地人，本地人；慢车，普通车"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "locate",
+      "pronunciation": "/ləʊˈkeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 找出，查出...的位置；使...坐落于，位于；定居",
+      "collocations": [
+        "locate in",
+        "locate the source",
+        "headquarters located",
+        "easily locate"
+      ],
+      "examples": [
+        "The company is located in London.",
+        "Can you locate the file?"
+      ],
+      "etymology": "来自拉丁语 locus（地方）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "找出，查出...的位置；使...坐落于，位于；定居"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "位置，场所"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "location",
+      "pronunciation": "/ləʊˈkeɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 位置，地点；外景拍摄地",
+      "collocations": [
+        "filming location",
+        "prime location",
+        "exact location",
+        "location of"
+      ],
+      "examples": [
+        "The hotel is in a great location.",
+        "They found the location of the treasure."
+      ],
+      "etymology": "来自拉丁语 locus（地方）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "位置，地点；外景拍摄地"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "位于，坐落在"
+        }
+      ],
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "dislocate",
+      "pronunciation": "/ˈdɪsləkeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 使脱臼；扰乱",
+      "collocations": [
+        "dislocate shoulder",
+        "dislocate the joint",
+        "dislocated ankle",
+        "dislocate the system"
+      ],
+      "examples": [
+        "He dislocated his shoulder playing football.",
+        "The strike dislocated the transport system."
+      ],
+      "etymology": "来自拉丁语 dis-（分开）+ locus（地方）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "使脱臼；扰乱"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "dis-",
+      "prefixMeaning": "分开",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

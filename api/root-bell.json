@@ -1,0 +1,84 @@
+{
+  "root": "bell",
+  "meaning": "战争",
+  "words": [
+    {
+      "word": "rebel",
+      "pronunciation": "/rɪˈbel/",
+      "partOfSpeech": "v.",
+      "definition": "v. 反叛，反抗 n. 反叛者，造反者",
+      "collocations": [
+        "rebel against",
+        "armed rebel",
+        "rebel group",
+        "rebel leader"
+      ],
+      "examples": [
+        "The rebels fought against the government for years.",
+        "She rebelled against her parents strict rules."
+      ],
+      "etymology": "来自拉丁语 bellum（战争）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "反叛，反抗"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "反叛者，造反者"
+        }
+      ],
+      "suffix": "-el",
+      "suffixMeaning": "小东西"
+    },
+    {
+      "word": "rebellion",
+      "pronunciation": "/rɪˈbeljən/",
+      "partOfSpeech": "n.",
+      "definition": "n. 叛乱，反抗；造反",
+      "collocations": [
+        "armed rebellion",
+        "popular rebellion",
+        "rise in rebellion",
+        "suppress rebellion"
+      ],
+      "examples": [
+        "The rebellion was quickly suppressed by the army.",
+        "The rebellion sparked major political changes."
+      ],
+      "etymology": "来自拉丁语 bellum（战争）+ -ion 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "叛乱，反抗；造反"
+        }
+      ],
+      "suffix": "-ion",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "belligerent",
+      "pronunciation": "/bəˈlɪdʒərənt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 好战的，交战的；挑衅的",
+      "collocations": [
+        "belligerent nation",
+        "belligerent attitude",
+        "belligerent tone"
+      ],
+      "examples": [
+        "The belligerent parties refused to negotiate.",
+        "He spoke in a belligerent manner."
+      ],
+      "etymology": "来自拉丁语 bellum（战争）+ ger（携带）+ -ent 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "好战的，交战的；挑衅的"
+        }
+      ],
+      "suffix": "-ent",
+      "suffixMeaning": "形容词后缀"
+    }
+  ]
+}

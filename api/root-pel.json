@@ -1,0 +1,106 @@
+{
+  "root": "pel",
+  "meaning": "推",
+  "words": [
+    {
+      "word": "propel",
+      "pronunciation": "/prəˈpel/",
+      "partOfSpeech": "v.",
+      "definition": "v. 推进，推动；驱使",
+      "collocations": [
+        "propel forward",
+        "propel the boat",
+        "propelled by",
+        "propel someone to"
+      ],
+      "examples": [
+        "The engine propels the boat.",
+        "Ambition propelled him to succeed."
+      ],
+      "etymology": "来自拉丁语 pro-（前）+ pellere（推）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "推进，推动；驱使"
+        }
+      ],
+      "prefix": "pro-",
+      "prefixMeaning": "前"
+    },
+    {
+      "word": "expel",
+      "pronunciation": "/ɪkˈspel/",
+      "partOfSpeech": "v.",
+      "definition": "v. 驱逐，开除；排出，射出",
+      "collocations": [
+        "expel from",
+        "expel students",
+        "expel air",
+        "expel the enemy"
+      ],
+      "examples": [
+        "He was expelled from school.",
+        "The body expels waste."
+      ],
+      "etymology": "来自拉丁语 ex-（出）+ pellere（推）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "驱逐，开除；排出，射出"
+        }
+      ],
+      "prefix": "ex-",
+      "prefixMeaning": "出"
+    },
+    {
+      "word": "compel",
+      "pronunciation": "/kəmˈpel/",
+      "partOfSpeech": "v.",
+      "definition": "v. 强迫，迫使；强制，逼迫",
+      "collocations": [
+        "compel someone to",
+        "compel obedience",
+        "compel attention",
+        "feel compelled"
+      ],
+      "examples": [
+        "The law compels citizens to pay taxes.",
+        "I feel compelled to speak."
+      ],
+      "etymology": "来自拉丁语 com-（一起）+ pellere（推）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "强迫，迫使；强制，逼迫"
+        }
+      ],
+      "prefix": "com-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "repel",
+      "pronunciation": "/rɪˈpel/",
+      "partOfSpeech": "v.",
+      "definition": "v. 击退，排斥；使厌恶",
+      "collocations": [
+        "repel the attack",
+        "repel insects",
+        "repel water",
+        "repel someone"
+      ],
+      "examples": [
+        "The army repelled the invasion.",
+        "This fabric repels water."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ pellere（推）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "击退，排斥；使厌恶"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    }
+  ]
+}

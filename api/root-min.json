@@ -1,0 +1,114 @@
+{
+  "root": "min",
+  "meaning": "小，少",
+  "words": [
+    {
+      "word": "minor",
+      "collocations": [
+        "minor issue",
+        "minor change",
+        "college minor",
+        "ethnic minor"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "较小的，次要的；较小的，次要的；（疾病）轻微的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "未成年人；辅修专业；副修科目"
+        }
+      ],
+      "definition": "adj. 较小的，次要的；（疾病）轻微的 n. 未成年人；辅修专业；副修科目",
+      "pronunciation": "/ˈmaɪnə/",
+      "examples": [
+        "It is just a minor problem.",
+        "She is a minor in computer science."
+      ],
+      "etymology": "来自拉丁语 minor（较小的）",
+      "partOfSpeech": "adj.",
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "minimize",
+      "collocations": [
+        "minimize risk",
+        "minimize costs",
+        "minimize the impact",
+        "minimize errors"
+      ],
+      "meanings": [
+        {
+          "definition": "最小化，减少；贬低",
+          "partOfSpeech": "v."
+        }
+      ],
+      "definition": "v. 最小化，减少；贬低",
+      "pronunciation": "/ˈmɪnɪmaɪz/",
+      "examples": [
+        "We need to minimize the risks.",
+        "Do not minimize her achievements."
+      ],
+      "etymology": "来自拉丁语 minimus（最小）+ -ize 后缀",
+      "partOfSpeech": "v.",
+      "suffix": "-ize",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "minimum",
+      "collocations": [
+        "minimum wage",
+        "minimum requirement",
+        "absolute minimum",
+        "minimum of"
+      ],
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "最小值，最低限度；最小量，最低额"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "最小的，最低的；最起码的"
+        }
+      ],
+      "definition": "n. 最小值，最低限度；最小量，最低额 adj. 最小的，最低的；最起码的",
+      "pronunciation": "/ˈmɪnɪməm/",
+      "examples": [
+        "The minimum wage is 15 dollars per hour.",
+        "We need a minimum of 10 people."
+      ],
+      "etymology": "来自拉丁语 minimus（最小）",
+      "partOfSpeech": "n.",
+      "suffix": "-um",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "diminish",
+      "collocations": [
+        "diminish the value",
+        "diminish rapidly",
+        "diminish over time",
+        "greatly diminish"
+      ],
+      "meanings": [
+        {
+          "definition": "减少，减小；削弱",
+          "partOfSpeech": "v."
+        }
+      ],
+      "definition": "v. 减少，减小；削弱",
+      "pronunciation": "/dɪˈmɪnɪʃ/",
+      "examples": [
+        "The scandal diminished his reputation.",
+        "Resources are diminishing rapidly."
+      ],
+      "etymology": "来自拉丁语 de-（下）+ minuere（减少）",
+      "partOfSpeech": "v.",
+      "prefix": "de-",
+      "prefixMeaning": "下"
+    }
+  ]
+}

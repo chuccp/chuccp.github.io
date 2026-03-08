@@ -1,0 +1,118 @@
+{
+  "root": "medi",
+  "meaning": "中间，中等",
+  "words": [
+    {
+      "word": "medium",
+      "pronunciation": "/ˈmiːdiəm/",
+      "partOfSpeech": "n.",
+      "definition": "n. 媒介，媒体；medium；手段，工具 adj. 中等的，中级的",
+      "collocations": [
+        "news medium",
+        "social medium",
+        "medium size",
+        "medium rare"
+      ],
+      "examples": [
+        "Television is a powerful medium.",
+        "I will have the steak medium rare."
+      ],
+      "etymology": "来自拉丁语 medius（中间）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "媒介，媒体；medium；手段，工具"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "中等的，中级的；半生不熟的"
+        }
+      ],
+      "suffix": "-um",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "mediate",
+      "pronunciation": "/ˈmiːdieɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 调解，斡旋",
+      "collocations": [
+        "mediate a dispute",
+        "mediate between",
+        "mediate negotiations",
+        "help mediate"
+      ],
+      "examples": [
+        "The UN tried to mediate the conflict.",
+        "She mediated between the two parties."
+      ],
+      "etymology": "来自拉丁语 medius（中间）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "调解，斡旋"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "immediate",
+      "pronunciation": "/ɪˈmiːdiət/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 立即的，直接的；最接近的；紧接的",
+      "collocations": [
+        "immediate response",
+        "immediate family",
+        "immediate effect",
+        "immediate cause"
+      ],
+      "examples": [
+        "We need an immediate response.",
+        "Parents and siblings are immediate family."
+      ],
+      "etymology": "来自拉丁语 in-（不）+ mediatus（中间的）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "立即的，直接的；最接近的；紧接的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "立即，立刻"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "不"
+    },
+    {
+      "word": "intermediary",
+      "pronunciation": "/ˌɪntəˈmiːdiəri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 中间人，调解人 adj. 中间的，intermediary",
+      "collocations": [
+        "act as intermediary",
+        "intermediary role",
+        "financial intermediary",
+        "through an intermediary"
+      ],
+      "examples": [
+        "He acted as an intermediary in the negotiations.",
+        "The intermediary facilitated the deal."
+      ],
+      "etymology": "来自拉丁语 inter-（在...之间）+ medius（中间）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "中间人，调解人"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "中间的， intermediary"
+        }
+      ],
+      "prefix": "inter-",
+      "prefixMeaning": "在...之间"
+    }
+  ]
+}

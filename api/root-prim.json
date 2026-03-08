@@ -1,0 +1,114 @@
+{
+  "root": "prim",
+  "meaning": "第一，首要",
+  "words": [
+    {
+      "word": "prime",
+      "pronunciation": "/praɪm/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 主要的，首要的；最好的，第一流的；最初的 n. 盛年，壮年；初期，早期；素数，质数",
+      "collocations": [
+        "prime minister",
+        "prime time",
+        "in prime",
+        "prime location"
+      ],
+      "examples": [
+        "The prime reason is cost.",
+        "The athlete is in his prime."
+      ],
+      "etymology": "来自拉丁语 primus（第一）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "主要的，首要的；最好的，第一流的；最初的，基本的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "盛年，壮年；初期，早期；素数，质数"
+        }
+      ],
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "primary",
+      "pronunciation": "/ˈpraɪməri/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 主要的，首要的；初级的，初等的；原始的，最初的 n. 首要的事情，最初阶段；初选",
+      "collocations": [
+        "primary school",
+        "primary color",
+        "primary source",
+        "primary concern"
+      ],
+      "examples": [
+        "Primary education is important.",
+        "The primary cause is unknown."
+      ],
+      "etymology": "来自拉丁语 primus（第一）+ -ary 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "主要的，首要的；初级的，初等的；原始的，最初的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "首要的事情，最初阶段；初选"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "primitive",
+      "pronunciation": "/ˈprɪmətɪv/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 原始的，远古的；简陋的",
+      "collocations": [
+        "primitive society",
+        "primitive tool",
+        "primitive art",
+        "primitive technology"
+      ],
+      "examples": [
+        "Primitive humans used stone tools.",
+        "The living conditions were primitive."
+      ],
+      "etymology": "来自拉丁语 primus（第一）+ -itive 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "原始的，远古的；简陋的"
+        }
+      ],
+      "suffix": "-ive",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "prince",
+      "pronunciation": "/prɪns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 王子，亲王",
+      "collocations": [
+        "crown prince",
+        "prince charming",
+        "prince of",
+        "prince consort"
+      ],
+      "examples": [
+        "The prince will become king.",
+        "She married a prince."
+      ],
+      "etymology": "来自拉丁语 primus（第一）+ capere（拿）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "王子，亲王"
+        }
+      ],
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

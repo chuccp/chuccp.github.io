@@ -1,0 +1,826 @@
+[
+  {
+    "root": "act",
+    "meaning": "行动"
+  },
+  {
+    "root": "agri",
+    "meaning": "田地，农田"
+  },
+  {
+    "root": "alt",
+    "meaning": "高"
+  },
+  {
+    "root": "am",
+    "meaning": "爱"
+  },
+  {
+    "root": "anim",
+    "meaning": "生命，精神"
+  },
+  {
+    "root": "ann",
+    "meaning": "年"
+  },
+  {
+    "root": "aqua",
+    "meaning": "水"
+  },
+  {
+    "root": "arch",
+    "meaning": "统治，主"
+  },
+  {
+    "root": "arm",
+    "meaning": "武器，手臂"
+  },
+  {
+    "root": "astr",
+    "meaning": "星"
+  },
+  {
+    "root": "aud",
+    "meaning": "听"
+  },
+  {
+    "root": "audi",
+    "meaning": "听"
+  },
+  {
+    "root": "auto",
+    "meaning": "自己，自动"
+  },
+  {
+    "root": "bell",
+    "meaning": "战争"
+  },
+  {
+    "root": "bene",
+    "meaning": "好，善"
+  },
+  {
+    "root": "bio",
+    "meaning": "生命"
+  },
+  {
+    "root": "brev",
+    "meaning": "短"
+  },
+  {
+    "root": "cad",
+    "meaning": "落下"
+  },
+  {
+    "root": "cand",
+    "meaning": "白，发光"
+  },
+  {
+    "root": "cap",
+    "meaning": "头，拿"
+  },
+  {
+    "root": "carn",
+    "meaning": "肉"
+  },
+  {
+    "root": "cast",
+    "meaning": "投掷"
+  },
+  {
+    "root": "caus",
+    "meaning": "原因"
+  },
+  {
+    "root": "cav",
+    "meaning": "洞，空"
+  },
+  {
+    "root": "ced",
+    "meaning": "走"
+  },
+  {
+    "root": "ced/ceed",
+    "meaning": "走"
+  },
+  {
+    "root": "celer",
+    "meaning": "快"
+  },
+  {
+    "root": "cell",
+    "meaning": "小房间，细胞"
+  },
+  {
+    "root": "cent",
+    "meaning": "百，百分之一"
+  },
+  {
+    "root": "cept",
+    "meaning": "拿"
+  },
+  {
+    "root": "chron",
+    "meaning": "时间"
+  },
+  {
+    "root": "cid",
+    "meaning": "切，杀"
+  },
+  {
+    "root": "ciner",
+    "meaning": "灰"
+  },
+  {
+    "root": "circ",
+    "meaning": "环"
+  },
+  {
+    "root": "cit",
+    "meaning": "召唤"
+  },
+  {
+    "root": "claim",
+    "meaning": "呼喊"
+  },
+  {
+    "root": "clam",
+    "meaning": "喊"
+  },
+  {
+    "root": "clar",
+    "meaning": "清楚"
+  },
+  {
+    "root": "clin",
+    "meaning": "倾斜"
+  },
+  {
+    "root": "clud",
+    "meaning": "关闭"
+  },
+  {
+    "root": "cogn",
+    "meaning": "知道"
+  },
+  {
+    "root": "contra",
+    "meaning": "反对，相反"
+  },
+  {
+    "root": "corn",
+    "meaning": "角"
+  },
+  {
+    "root": "coron",
+    "meaning": "王冠"
+  },
+  {
+    "root": "corp",
+    "meaning": "身体"
+  },
+  {
+    "root": "cors",
+    "meaning": "心"
+  },
+  {
+    "root": "cosm",
+    "meaning": "宇宙"
+  },
+  {
+    "root": "cre",
+    "meaning": "生长，创造"
+  },
+  {
+    "root": "cred",
+    "meaning": "相信"
+  },
+  {
+    "root": "cruc",
+    "meaning": "十字"
+  },
+  {
+    "root": "crypt",
+    "meaning": "隐藏"
+  },
+  {
+    "root": "cub",
+    "meaning": "躺"
+  },
+  {
+    "root": "culp",
+    "meaning": "罪"
+  },
+  {
+    "root": "cur",
+    "meaning": "关心，跑"
+  },
+  {
+    "root": "curr",
+    "meaning": "跑，流"
+  },
+  {
+    "root": "curv",
+    "meaning": "弯"
+  },
+  {
+    "root": "cus",
+    "meaning": "关心"
+  },
+  {
+    "root": "dent",
+    "meaning": "牙齿"
+  },
+  {
+    "root": "derm",
+    "meaning": "皮肤"
+  },
+  {
+    "root": "dict",
+    "meaning": "说，言"
+  },
+  {
+    "root": "dig",
+    "meaning": "手指"
+  },
+  {
+    "root": "dom",
+    "meaning": "屋，家"
+  },
+  {
+    "root": "don",
+    "meaning": "给予"
+  },
+  {
+    "root": "dorm",
+    "meaning": "睡眠"
+  },
+  {
+    "root": "dot",
+    "meaning": "给予"
+  },
+  {
+    "root": "duc",
+    "meaning": "引导，带领"
+  },
+  {
+    "root": "dur",
+    "meaning": "持久，坚硬"
+  },
+  {
+    "root": "err",
+    "meaning": "漫游，犯错"
+  },
+  {
+    "root": "ess",
+    "meaning": "存在"
+  },
+  {
+    "root": "est",
+    "meaning": "夏天"
+  },
+  {
+    "root": "ev",
+    "meaning": "年龄，生命"
+  },
+  {
+    "root": "fabl",
+    "meaning": "说"
+  },
+  {
+    "root": "fac",
+    "meaning": "做，制作"
+  },
+  {
+    "root": "fall",
+    "meaning": "欺骗"
+  },
+  {
+    "root": "fam",
+    "meaning": "饥饿"
+  },
+  {
+    "root": "fer",
+    "meaning": "携带，运送"
+  },
+  {
+    "root": "fess",
+    "meaning": "说，言"
+  },
+  {
+    "root": "fid",
+    "meaning": "信任，信念"
+  },
+  {
+    "root": "fin",
+    "meaning": "结束，边界"
+  },
+  {
+    "root": "flect",
+    "meaning": "弯曲，转向"
+  },
+  {
+    "root": "form",
+    "meaning": "形状"
+  },
+  {
+    "root": "frag",
+    "meaning": "破碎，断裂"
+  },
+  {
+    "root": "gen",
+    "meaning": "产生，出生"
+  },
+  {
+    "root": "geo",
+    "meaning": "地球"
+  },
+  {
+    "root": "grad",
+    "meaning": "步，级"
+  },
+  {
+    "root": "graph",
+    "meaning": "写，画"
+  },
+  {
+    "root": "gress",
+    "meaning": "走"
+  },
+  {
+    "root": "habit",
+    "meaning": "居住，习惯"
+  },
+  {
+    "root": "her",
+    "meaning": "粘附"
+  },
+  {
+    "root": "hydr",
+    "meaning": "水"
+  },
+  {
+    "root": "hypo",
+    "meaning": "在下，不足"
+  },
+  {
+    "root": "it",
+    "meaning": "走"
+  },
+  {
+    "root": "ject",
+    "meaning": "投掷"
+  },
+  {
+    "root": "jud",
+    "meaning": "判断"
+  },
+  {
+    "root": "junct",
+    "meaning": "连接，结合"
+  },
+  {
+    "root": "just",
+    "meaning": "正义，公正"
+  },
+  {
+    "root": "labor",
+    "meaning": "劳动，工作"
+  },
+  {
+    "root": "laps",
+    "meaning": "滑，落"
+  },
+  {
+    "root": "lect",
+    "meaning": "选择"
+  },
+  {
+    "root": "leg",
+    "meaning": "法律，读，选择"
+  },
+  {
+    "root": "lev",
+    "meaning": "举"
+  },
+  {
+    "root": "liber",
+    "meaning": "自由"
+  },
+  {
+    "root": "lingu",
+    "meaning": "语言"
+  },
+  {
+    "root": "liter",
+    "meaning": "文字"
+  },
+  {
+    "root": "loc",
+    "meaning": "地方"
+  },
+  {
+    "root": "log",
+    "meaning": "说"
+  },
+  {
+    "root": "loqu",
+    "meaning": "说，言"
+  },
+  {
+    "root": "luc",
+    "meaning": "光，照亮"
+  },
+  {
+    "root": "lumin",
+    "meaning": "光"
+  },
+  {
+    "root": "magn",
+    "meaning": "大"
+  },
+  {
+    "root": "man",
+    "meaning": "手"
+  },
+  {
+    "root": "manu",
+    "meaning": "手"
+  },
+  {
+    "root": "mar",
+    "meaning": "海"
+  },
+  {
+    "root": "matr",
+    "meaning": "母"
+  },
+  {
+    "root": "medi",
+    "meaning": "中间，中等"
+  },
+  {
+    "root": "memor",
+    "meaning": "记忆"
+  },
+  {
+    "root": "merg",
+    "meaning": "浸，沉，融合"
+  },
+  {
+    "root": "meter",
+    "meaning": "测量"
+  },
+  {
+    "root": "migr",
+    "meaning": "迁移"
+  },
+  {
+    "root": "milit",
+    "meaning": "兵"
+  },
+  {
+    "root": "min",
+    "meaning": "小，少"
+  },
+  {
+    "root": "mini",
+    "meaning": "小"
+  },
+  {
+    "root": "miss",
+    "meaning": "送"
+  },
+  {
+    "root": "mob",
+    "meaning": "动"
+  },
+  {
+    "root": "mon",
+    "meaning": "警告，提醒"
+  },
+  {
+    "root": "morph",
+    "meaning": "形状，形态"
+  },
+  {
+    "root": "mort",
+    "meaning": "死"
+  },
+  {
+    "root": "mot",
+    "meaning": "动"
+  },
+  {
+    "root": "nomin",
+    "meaning": "名字"
+  },
+  {
+    "root": "nounce",
+    "meaning": "报告，讲述"
+  },
+  {
+    "root": "nov",
+    "meaning": "新"
+  },
+  {
+    "root": "numer",
+    "meaning": "数，数字"
+  },
+  {
+    "root": "oper",
+    "meaning": "工作"
+  },
+  {
+    "root": "ori",
+    "meaning": "升起"
+  },
+  {
+    "root": "pac",
+    "meaning": "和平，平静"
+  },
+  {
+    "root": "par",
+    "meaning": "相等，准备"
+  },
+  {
+    "root": "pater",
+    "meaning": "父"
+  },
+  {
+    "root": "path",
+    "meaning": "感情"
+  },
+  {
+    "root": "patr",
+    "meaning": "父，祖国"
+  },
+  {
+    "root": "pel",
+    "meaning": "推"
+  },
+  {
+    "root": "pend",
+    "meaning": "悬挂"
+  },
+  {
+    "root": "pet",
+    "meaning": "追求"
+  },
+  {
+    "root": "phil",
+    "meaning": "爱，喜爱"
+  },
+  {
+    "root": "phon",
+    "meaning": "声音"
+  },
+  {
+    "root": "photo",
+    "meaning": "光"
+  },
+  {
+    "root": "pict",
+    "meaning": "画"
+  },
+  {
+    "root": "plac",
+    "meaning": "平静，安抚"
+  },
+  {
+    "root": "plen",
+    "meaning": "满"
+  },
+  {
+    "root": "plic",
+    "meaning": "折叠"
+  },
+  {
+    "root": "plor",
+    "meaning": "哭，喊"
+  },
+  {
+    "root": "pon",
+    "meaning": "放置"
+  },
+  {
+    "root": "popul",
+    "meaning": "人民"
+  },
+  {
+    "root": "port",
+    "meaning": "携带"
+  },
+  {
+    "root": "pos",
+    "meaning": "放置"
+  },
+  {
+    "root": "preci",
+    "meaning": "价值"
+  },
+  {
+    "root": "prim",
+    "meaning": "第一，首要"
+  },
+  {
+    "root": "psych",
+    "meaning": "精神，心理"
+  },
+  {
+    "root": "punct",
+    "meaning": "点"
+  },
+  {
+    "root": "quir",
+    "meaning": "询问"
+  },
+  {
+    "root": "radi",
+    "meaning": "射线"
+  },
+  {
+    "root": "rect",
+    "meaning": "正"
+  },
+  {
+    "root": "rupt",
+    "meaning": "破"
+  },
+  {
+    "root": "san",
+    "meaning": "健康"
+  },
+  {
+    "root": "sci",
+    "meaning": "知道"
+  },
+  {
+    "root": "scope",
+    "meaning": "看，观察"
+  },
+  {
+    "root": "scrib",
+    "meaning": "写，画"
+  },
+  {
+    "root": "sec",
+    "meaning": "跟随"
+  },
+  {
+    "root": "sect",
+    "meaning": "切"
+  },
+  {
+    "root": "sens",
+    "meaning": "感觉"
+  },
+  {
+    "root": "sent",
+    "meaning": "感觉"
+  },
+  {
+    "root": "sequ",
+    "meaning": "跟随，继续"
+  },
+  {
+    "root": "serv",
+    "meaning": "保存，服务"
+  },
+  {
+    "root": "sid",
+    "meaning": "坐"
+  },
+  {
+    "root": "sign",
+    "meaning": "标记，符号"
+  },
+  {
+    "root": "sist",
+    "meaning": "站立"
+  },
+  {
+    "root": "soci",
+    "meaning": "社会，同伴"
+  },
+  {
+    "root": "sol",
+    "meaning": "太阳，单独"
+  },
+  {
+    "root": "son",
+    "meaning": "声音"
+  },
+  {
+    "root": "spect",
+    "meaning": "看"
+  },
+  {
+    "root": "spir",
+    "meaning": "呼吸"
+  },
+  {
+    "root": "string",
+    "meaning": "拉紧，绳"
+  },
+  {
+    "root": "struct",
+    "meaning": "建造，建立"
+  },
+  {
+    "root": "tail",
+    "meaning": "切"
+  },
+  {
+    "root": "tain",
+    "meaning": "保持"
+  },
+  {
+    "root": "tect",
+    "meaning": "覆盖"
+  },
+  {
+    "root": "tele",
+    "meaning": "远"
+  },
+  {
+    "root": "tempor",
+    "meaning": "时间"
+  },
+  {
+    "root": "tend",
+    "meaning": "伸展"
+  },
+  {
+    "root": "terr",
+    "meaning": "地"
+  },
+  {
+    "root": "test",
+    "meaning": "证据，证明"
+  },
+  {
+    "root": "text",
+    "meaning": "编织"
+  },
+  {
+    "root": "therm",
+    "meaning": "热"
+  },
+  {
+    "root": "tim",
+    "meaning": "害怕"
+  },
+  {
+    "root": "tract",
+    "meaning": "拉"
+  },
+  {
+    "root": "tribut",
+    "meaning": "给予，赠予"
+  },
+  {
+    "root": "un",
+    "meaning": "一"
+  },
+  {
+    "root": "vac",
+    "meaning": "空"
+  },
+  {
+    "root": "ven",
+    "meaning": "来"
+  },
+  {
+    "root": "vent",
+    "meaning": "来"
+  },
+  {
+    "root": "ver",
+    "meaning": "真实"
+  },
+  {
+    "root": "vert",
+    "meaning": "转，转动"
+  },
+  {
+    "root": "vis",
+    "meaning": "看"
+  },
+  {
+    "root": "voc",
+    "meaning": "声音，呼唤"
+  },
+  {
+    "root": "vol",
+    "meaning": "意志"
+  },
+  {
+    "root": "volv",
+    "meaning": "滚"
+  },
+  {
+    "root": "witness",
+    "meaning": "见证"
+  }
+]

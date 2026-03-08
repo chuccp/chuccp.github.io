@@ -1,0 +1,114 @@
+{
+  "root": "plic",
+  "meaning": "折叠",
+  "words": [
+    {
+      "word": "apply",
+      "pronunciation": "/əˈplaɪ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 申请，请求；应用，运用；适用，适用于",
+      "collocations": [
+        "apply for",
+        "apply to",
+        "apply pressure",
+        "apply knowledge"
+      ],
+      "examples": [
+        "She applied for the job.",
+        "The rule applies to everyone."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ plicare（折叠）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "申请，请求；应用，运用；适用，适用于"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "申请，应用"
+        }
+      ],
+      "prefix": "ad-",
+      "prefixMeaning": "向"
+    },
+    {
+      "word": "complicate",
+      "pronunciation": "/ˈkɒmplɪkeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 使复杂化，使复杂；使难懂 adj. 复杂的，难解的",
+      "collocations": [
+        "complicate matters",
+        "complicate the issue",
+        "complicate things",
+        "unnecessarily complicate"
+      ],
+      "examples": [
+        "Dont complicate the situation.",
+        "The injury complicated his recovery."
+      ],
+      "etymology": "来自拉丁语 com-（一起）+ plicare（折叠）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "使复杂化，使复杂；使难懂；使陷入"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "复杂的，难解的"
+        }
+      ],
+      "prefix": "com-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "implicit",
+      "pronunciation": "/ɪmˈplɪsɪt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 含蓄的，暗示的；绝对的",
+      "collocations": [
+        "implicit in",
+        "implicit assumption",
+        "implicit trust",
+        "implicit bias"
+      ],
+      "examples": [
+        "There was implicit criticism in her tone.",
+        "I have implicit trust in you."
+      ],
+      "etymology": "来自拉丁语 im-（入）+ plicare（折叠）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "含蓄的，暗示的；绝对的"
+        }
+      ],
+      "prefix": "im-",
+      "prefixMeaning": "入"
+    },
+    {
+      "word": "explicit",
+      "pronunciation": "/ɪkˈsplɪsɪt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 明确的，清楚的；直率的",
+      "collocations": [
+        "explicit instruction",
+        "explicit content",
+        "explicit about",
+        "explicit consent"
+      ],
+      "examples": [
+        "Give explicit instructions.",
+        "The contract is explicit about terms."
+      ],
+      "etymology": "来自拉丁语 ex-（出）+ plicare（折叠）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "明确的，清楚的；直率的"
+        }
+      ],
+      "prefix": "ex-",
+      "prefixMeaning": "出"
+    }
+  ]
+}

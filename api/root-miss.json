@@ -1,0 +1,91 @@
+{
+  "root": "miss",
+  "meaning": "送",
+  "words": [
+    {
+      "word": "miss",
+      "pronunciation": "/mɪs/",
+      "partOfSpeech": "v.",
+      "definition": "v. 错过，未击中；未赶上，未遇到；想念，怀念；遗漏，忽略 n. 小姐，女士；未击中，未抓住",
+      "collocations": [
+        "miss the bus",
+        "miss you",
+        "miss the target",
+        "miss an opportunity"
+      ],
+      "examples": [
+        "I miss you very much.",
+        "Dont miss the train."
+      ],
+      "etymology": "来自拉丁语 mittere（送）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "错过，未击中；未赶上，未遇到；想念，怀念；遗漏，忽略"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "小姐，女士；未击中，未抓住"
+        }
+      ]
+    },
+    {
+      "word": "mission",
+      "pronunciation": "/ˈmɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 使命，任务；代表团，使团；传教，布道",
+      "collocations": [
+        "peace mission",
+        "mission impossible",
+        "diplomatic mission",
+        "mission statement"
+      ],
+      "examples": [
+        "The mission was successful.",
+        "His mission is to help others."
+      ],
+      "etymology": "来自拉丁语 mittere（送）+ -ion 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "使命，任务；代表团，使团；传教，布道"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "派遣，委派"
+        }
+      ],
+      "suffix": "-ion",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "dismiss",
+      "pronunciation": "/dɪsˈmɪs/",
+      "partOfSpeech": "v.",
+      "definition": "v. 解雇，解散；驳回，不受理；不予考虑",
+      "collocations": [
+        "dismiss the case",
+        "dismiss an employee",
+        "dismiss the idea",
+        "summarily dismiss"
+      ],
+      "examples": [
+        "The judge dismissed the case.",
+        "He was dismissed from his job."
+      ],
+      "etymology": "来自拉丁语 dis-（分开）+ mittere（送）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "解雇，解散；驳回，不受理；不予考虑"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "解雇，解散"
+        }
+      ],
+      "prefix": "dis-",
+      "prefixMeaning": "分开"
+    }
+  ]
+}

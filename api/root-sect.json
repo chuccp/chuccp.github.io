@@ -1,0 +1,110 @@
+{
+  "root": "sect",
+  "meaning": "切",
+  "words": [
+    {
+      "word": "section",
+      "pronunciation": "/ˈsekʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 部分，部件；部门，科；断面，截面；章节 v. 把...分段，将...切片",
+      "collocations": [
+        "section of",
+        "cross section",
+        "section heading",
+        "relevant section"
+      ],
+      "examples": [
+        "Read the first section.",
+        "This section covers grammar."
+      ],
+      "etymology": "来自拉丁语 secare（切）+ -tion 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "部分，部件；部门，科；断面，截面；章节"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "把...分段，将...切片"
+        }
+      ],
+      "suffix": "-tion",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "insect",
+      "pronunciation": "/ˈɪnsekt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 昆虫",
+      "collocations": [
+        "flying insect",
+        "insect bite",
+        "insect species",
+        "beneficial insect"
+      ],
+      "examples": [
+        "Ants are insects.",
+        "The insect bit him."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ secare（切）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "昆虫"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "入"
+    },
+    {
+      "word": "dissect",
+      "pronunciation": "/daɪˈsekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 解剖，仔细分析",
+      "collocations": [
+        "dissect the frog",
+        "dissect the argument",
+        "dissect in class",
+        "dissect carefully"
+      ],
+      "examples": [
+        "Students dissect frogs in biology.",
+        "The report dissects the policy."
+      ],
+      "etymology": "来自拉丁语 dis-（分开）+ secare（切）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "解剖，仔细分析"
+        }
+      ],
+      "prefix": "dis-",
+      "prefixMeaning": "分开"
+    },
+    {
+      "word": "intersect",
+      "pronunciation": "/ˌɪntəˈsekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 相交，交叉",
+      "collocations": [
+        "intersect with",
+        "intersect at",
+        "roads intersect",
+        "intersect the line"
+      ],
+      "examples": [
+        "The roads intersect here.",
+        "The lines intersect at a point."
+      ],
+      "etymology": "来自拉丁语 inter-（在...之间）+ secare（切）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "相交，交叉"
+        }
+      ],
+      "prefix": "inter-",
+      "prefixMeaning": "在...之间"
+    }
+  ]
+}

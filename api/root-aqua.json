@@ -1,0 +1,90 @@
+{
+  "root": "aqua",
+  "meaning": "水",
+  "words": [
+    {
+      "word": "aquarium",
+      "pronunciation": "/əˈkweəriəm/",
+      "partOfSpeech": "n.",
+      "definition": "n. 水族馆，养鱼缸",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "水族馆"
+        }
+      ],
+      "collocations": [
+        "visit aquarium"
+      ],
+      "examples": [
+        "We visited the aquarium."
+      ],
+      "etymology": "aqua（水）+ -rium（场所）",
+      "suffix": "-rium",
+      "suffixMeaning": "场所"
+    },
+    {
+      "word": "aquatic",
+      "pronunciation": "/əˈkwætɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 水的，水生的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "水生的"
+        }
+      ],
+      "collocations": [
+        "aquatic plant"
+      ],
+      "examples": [
+        "Aquatic animals live in water."
+      ],
+      "etymology": "aqua（水）+ -tic",
+      "suffix": "-tic",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "aqua",
+      "pronunciation": "/ˈækwə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 水，溶液",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "水"
+        }
+      ],
+      "collocations": [
+        "aqua regia"
+      ],
+      "examples": [
+        "Aqua pura is pure water."
+      ],
+      "etymology": "aqua（水）",
+      "suffix": "-a",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "subaquatic",
+      "pronunciation": "/ˌsʌbəˈkwætɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 水下的，海底的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "水下的"
+        }
+      ],
+      "collocations": [
+        "subaquatic tunnel"
+      ],
+      "examples": [
+        "A subaquatic cable."
+      ],
+      "etymology": "sub-（下）+ aquatic",
+      "prefix": "sub-",
+      "prefixMeaning": "下"
+    }
+  ]
+}

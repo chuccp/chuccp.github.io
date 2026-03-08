@@ -1,0 +1,110 @@
+{
+  "root": "mob",
+  "meaning": "动",
+  "words": [
+    {
+      "word": "mobile",
+      "pronunciation": "/ˈməʊbaɪl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 可移动的，活动的；流动的，多变的 n. 移动电话，手机；可移动物体",
+      "collocations": [
+        "mobile phone",
+        "mobile home",
+        "highly mobile",
+        "mobile device"
+      ],
+      "examples": [
+        "She has a mobile phone.",
+        "The workforce is highly mobile."
+      ],
+      "etymology": "来自拉丁语 mobilis（可移动的）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "可移动的，活动的；流动的，多变的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "移动电话，手机；可移动物体"
+        }
+      ],
+      "suffix": "-le",
+      "suffixMeaning": "小东西"
+    },
+    {
+      "word": "mobility",
+      "pronunciation": "/məʊˈbɪləti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 流动性，活动性；移动能力；社会阶层流动性",
+      "collocations": [
+        "social mobility",
+        "upward mobility",
+        "mobility aid",
+        "limited mobility"
+      ],
+      "examples": [
+        "Social mobility has increased.",
+        "The injury affected his mobility."
+      ],
+      "etymology": "来自拉丁语 mobilis（可移动的）+ -ity 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "流动性，活动性；移动能力；社会阶层流动性"
+        }
+      ],
+      "suffix": "-ity",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "mobilize",
+      "pronunciation": "/ˈməʊbəlaɪz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 动员，调动；组织",
+      "collocations": [
+        "mobilize troops",
+        "mobilize resources",
+        "mobilize support",
+        "mobilize the army"
+      ],
+      "examples": [
+        "The country mobilized for war.",
+        "They mobilized volunteers for the event."
+      ],
+      "etymology": "来自拉丁语 mobilis（可移动的）+ -ize 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "动员，调动；组织"
+        }
+      ],
+      "suffix": "-ize",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "automobile",
+      "pronunciation": "/ˈɔːtəməbiːl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 汽车",
+      "collocations": [
+        "automobile industry",
+        "automobile manufacturer",
+        "automobile accident",
+        "automobile engine"
+      ],
+      "examples": [
+        "The automobile industry is changing.",
+        "He works in the automobile sector."
+      ],
+      "etymology": "来自希腊语 auto-（自己）+ 拉丁语 mobilis（可移动的）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "汽车"
+        }
+      ],
+      "prefix": "auto-",
+      "prefixMeaning": "自己"
+    }
+  ]
+}

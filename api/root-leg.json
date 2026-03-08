@@ -1,0 +1,114 @@
+{
+  "root": "leg",
+  "meaning": "法律，读，选择",
+  "words": [
+    {
+      "word": "legal",
+      "pronunciation": "/ˈliːɡl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 法律的，法定的；合法的，正当的",
+      "collocations": [
+        "legal advice",
+        "legal system",
+        "legal action",
+        "legal rights"
+      ],
+      "examples": [
+        "You should seek legal advice before signing.",
+        "Is this a legal requirement?"
+      ],
+      "etymology": "来自拉丁语 lex（法律）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "法律的，法定的；合法的，正当的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "法律顾问，律师"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "legend",
+      "pronunciation": "/ˈledʒənd/",
+      "partOfSpeech": "n.",
+      "definition": "n. 传说，传奇；传奇人物；图例，说明 adj. 传奇的",
+      "collocations": [
+        "urban legend",
+        "living legend",
+        "map legend",
+        "become a legend"
+      ],
+      "examples": [
+        "The story is just an urban legend.",
+        "He is a living legend in the music industry."
+      ],
+      "etymology": "来自拉丁语 legere（读，收集）+ -end 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "传说，传奇；传奇人物；图例，说明"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "传奇的，著名的"
+        }
+      ],
+      "suffix": "-end",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "legible",
+      "pronunciation": "/ˈledʒəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 清晰的，可读的",
+      "collocations": [
+        "legible handwriting",
+        "barely legible",
+        "legible text",
+        "perfectly legible"
+      ],
+      "examples": [
+        "Please write in legible handwriting.",
+        "The inscription was barely legible."
+      ],
+      "etymology": "来自拉丁语 legere（读）+ -ible 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "清晰的，可读的"
+        }
+      ],
+      "suffix": "-ible",
+      "suffixMeaning": "能…的"
+    },
+    {
+      "word": "collect",
+      "pronunciation": "/kəˈlekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 收集，采集；领取",
+      "collocations": [
+        "collect data",
+        "collect stamps",
+        "collect payment",
+        "collect information"
+      ],
+      "examples": [
+        "She collects stamps as a hobby.",
+        "Please collect your luggage at baggage claim."
+      ],
+      "etymology": "来自拉丁语 col-（一起）+ legere（收集）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "收集，采集；领取"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

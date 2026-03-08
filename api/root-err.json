@@ -1,0 +1,88 @@
+{
+  "root": "err",
+  "meaning": "漫游，犯错",
+  "words": [
+    {
+      "word": "err",
+      "pronunciation": "/ɜː/",
+      "partOfSpeech": "v.",
+      "definition": "v. 犯错，做错",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "犯错"
+        }
+      ],
+      "collocations": [
+        "err on side"
+      ],
+      "examples": [
+        "To err is human."
+      ],
+      "etymology": "err（犯错）"
+    },
+    {
+      "word": "error",
+      "pronunciation": "/ˈerə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 错误，差错",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "错误"
+        }
+      ],
+      "collocations": [
+        "make error"
+      ],
+      "examples": [
+        "A serious error."
+      ],
+      "etymology": "err（犯错）+ -or",
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "erratic",
+      "pronunciation": "/ɪˈrætɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 不稳定的，古怪的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "不稳定的"
+        }
+      ],
+      "collocations": [
+        "erratic behavior"
+      ],
+      "examples": [
+        "Erratic performance."
+      ],
+      "etymology": "err（漫游）+ -atic",
+      "suffix": "-atic",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "errand",
+      "pronunciation": "/ˈerənd/",
+      "partOfSpeech": "n.",
+      "definition": "n. 差事，差使",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "差事"
+        }
+      ],
+      "collocations": [
+        "run errand"
+      ],
+      "examples": [
+        "Run some errands."
+      ],
+      "etymology": "err（漫游）+ -and",
+      "suffix": "-d",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

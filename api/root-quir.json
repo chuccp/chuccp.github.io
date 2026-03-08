@@ -1,0 +1,89 @@
+{
+  "root": "quir",
+  "meaning": "询问",
+  "words": [
+    {
+      "word": "inquire",
+      "pronunciation": "/ɪnˈkwaɪə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 询问，调查",
+      "collocations": [
+        "inquire about",
+        "inquire into",
+        "inquire for",
+        "inquire further"
+      ],
+      "examples": [
+        "I inquired about the schedule.",
+        "The police inquired into the matter."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ quaerere（询问）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "询问，调查"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "入"
+    },
+    {
+      "word": "require",
+      "pronunciation": "/rɪˈkwaɪə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 要求，需要；命令，规定",
+      "collocations": [
+        "require permission",
+        "require assistance",
+        "require that",
+        "legally require"
+      ],
+      "examples": [
+        "The job requires experience.",
+        "Passengers are required to show ID."
+      ],
+      "etymology": "来自拉丁语 re-（再）+ quaerere（询问）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "要求，需要；命令，规定"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "要求，需要"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "再"
+    },
+    {
+      "word": "acquire",
+      "pronunciation": "/əˈkwaɪə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 获得，取得；学到，习得",
+      "collocations": [
+        "acquire knowledge",
+        "acquire skills",
+        "acquire a company",
+        "acquire property"
+      ],
+      "examples": [
+        "She acquired fluency in French.",
+        "The company acquired a competitor."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ quaerere（询问）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "获得，取得；学到，习得"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "获得，取得"
+        }
+      ],
+      "prefix": "ad-",
+      "prefixMeaning": "向"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "root": "celer",
+  "meaning": "快",
+  "words": [
+    {
+      "word": "celerity",
+      "pronunciation": "/səˈlerəti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 快速，敏捷",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "快速"
+        }
+      ],
+      "collocations": [
+        "with celerity"
+      ],
+      "examples": [
+        "He acted with celerity."
+      ],
+      "etymology": "celer（快）+ -ity",
+      "suffix": "-ity",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "accelerate",
+      "pronunciation": "/əkˈseləreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 加速，促进",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "加速"
+        }
+      ],
+      "collocations": [
+        "accelerate growth"
+      ],
+      "examples": [
+        "The car accelerated."
+      ],
+      "etymology": "ac-（加强）+ celer（快）+ -ate",
+      "suffix": "-ate",
+      "prefix": "ac-",
+      "prefixMeaning": "加强",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "decelerate",
+      "pronunciation": "/diːˈseləreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 减速，降低速度",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "减速"
+        }
+      ],
+      "collocations": [
+        "decelerate quickly"
+      ],
+      "examples": [
+        "The train decelerated."
+      ],
+      "etymology": "de-（下）+ celer（快）+ -ate",
+      "suffix": "-ate",
+      "prefix": "de-",
+      "prefixMeaning": "下",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

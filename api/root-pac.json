@@ -1,0 +1,60 @@
+{
+  "root": "pac",
+  "meaning": "和平，平静",
+  "words": [
+    {
+      "word": "pacify",
+      "pronunciation": "/ˈpæsɪfaɪ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 安抚，使平静；平定",
+      "collocations": [
+        "pacify the crowd",
+        "pacify the baby",
+        "pacify the region",
+        "pacify the rebels"
+      ],
+      "examples": [
+        "The mother tried to pacify her crying baby.",
+        "The government sent troops to pacify the region."
+      ],
+      "etymology": "来自拉丁语 pax（和平）+ facere（做）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "安抚，使平静；平定"
+        }
+      ],
+      "suffix": "-ify",
+      "suffixMeaning": "使…化"
+    },
+    {
+      "word": "pacifist",
+      "pronunciation": "/ˈpæsɪfɪst/",
+      "partOfSpeech": "n.",
+      "definition": "n. 和平主义者，反战者 adj. 和平主义的",
+      "collocations": [
+        "committed pacifist",
+        "pacifist beliefs",
+        "pacifist movement",
+        "pacifist principles"
+      ],
+      "examples": [
+        "He is a committed pacifist.",
+        "She holds pacifist beliefs."
+      ],
+      "etymology": "来自拉丁语 pax（和平）+ facere（做）+ -ist 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "和平主义者，反战者"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "和平主义的"
+        }
+      ],
+      "suffix": "-ist",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

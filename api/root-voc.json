@@ -1,0 +1,87 @@
+{
+  "root": "voc",
+  "meaning": "声音，呼唤",
+  "words": [
+    {
+      "word": "vocation",
+      "pronunciation": "/vəʊˈkeɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 职业，天职",
+      "collocations": [
+        "true vocation",
+        "teaching vocation",
+        "find vocation",
+        "sense of vocation"
+      ],
+      "examples": [
+        "Teaching is her true vocation.",
+        "He felt a sense of vocation."
+      ],
+      "etymology": "来自拉丁语 vocare（呼唤）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "职业，天职"
+        }
+      ],
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "advocate",
+      "pronunciation": "/ˈædvəkeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 提倡，主张；拥护，支持 n. 提倡者，拥护者；辩护律师，辩护人",
+      "collocations": [
+        "advocate for",
+        "advocate change",
+        "strong advocate",
+        "advocate rights"
+      ],
+      "examples": [
+        "She advocates for environmental protection.",
+        "He is a strong advocate of reform."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ vocare（呼唤）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "提倡，主张；拥护，支持"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "提倡者，拥护者；辩护律师，辩护人"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "ad-",
+      "prefixMeaning": "向",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "provoke",
+      "pronunciation": "/prəˈvəʊk/",
+      "partOfSpeech": "v.",
+      "definition": "v. 激起，引起，挑衅",
+      "collocations": [
+        "provoke anger",
+        "provoke a response",
+        "deliberately provoke",
+        "provoke controversy"
+      ],
+      "examples": [
+        "His remarks provoked anger.",
+        "The article provoked controversy."
+      ],
+      "etymology": "来自拉丁语 pro-（前）+ vocare（呼唤）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "激起，引起，挑衅"
+        }
+      ],
+      "prefix": "pro-",
+      "prefixMeaning": "前"
+    }
+  ]
+}

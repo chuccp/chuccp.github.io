@@ -1,0 +1,90 @@
+{
+  "root": "ev",
+  "meaning": "年龄，生命",
+  "words": [
+    {
+      "word": "age",
+      "pronunciation": "/eɪdʒ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 年龄，时代",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "年龄"
+        }
+      ],
+      "collocations": [
+        "at age"
+      ],
+      "examples": [
+        "What is your age?"
+      ],
+      "etymology": "ev（年龄）+ -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "aged",
+      "pronunciation": "/ˈeɪdʒɪd/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 年老的，陈年的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "年老的"
+        }
+      ],
+      "collocations": [
+        "aged person"
+      ],
+      "examples": [
+        "The aged need care."
+      ],
+      "etymology": "age + -d",
+      "suffix": "-d",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "medieval",
+      "pronunciation": "/ˌmediˈiːvl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 中世纪的，古老的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "中世纪的"
+        }
+      ],
+      "collocations": [
+        "medieval times"
+      ],
+      "examples": [
+        "Medieval architecture."
+      ],
+      "etymology": "medi-（中）+ ev（年龄）+ -al",
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "longevity",
+      "pronunciation": "/lɒnˈdʒevəti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 长寿，寿命",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "长寿"
+        }
+      ],
+      "collocations": [
+        "life longevity"
+      ],
+      "examples": [
+        "Human longevity."
+      ],
+      "etymology": "long（长）+ ev（生命）+ -ity",
+      "suffix": "-ity",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

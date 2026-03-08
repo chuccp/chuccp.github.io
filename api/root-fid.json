@@ -1,0 +1,91 @@
+{
+  "root": "fid",
+  "meaning": "信任，信念",
+  "words": [
+    {
+      "word": "confidence",
+      "pronunciation": "/ˈkɒnfɪdəns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 信心，自信；信任，信赖；机密，秘密",
+      "collocations": [
+        "have confidence",
+        "confidence in",
+        "lack confidence",
+        "boost confidence"
+      ],
+      "examples": [
+        "She has confidence in her abilities.",
+        "The news boosted consumer confidence."
+      ],
+      "etymology": "来自拉丁语 con-（完全）+ fidere（信任）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "信心，自信；信任，信赖；机密，秘密"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "机密的，秘密的"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "完全"
+    },
+    {
+      "word": "confident",
+      "pronunciation": "/ˈkɒnfɪdənt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 自信的，确信的；有信心的",
+      "collocations": [
+        "confident about",
+        "confident that",
+        "feel confident",
+        "confident smile"
+      ],
+      "examples": [
+        "He is confident about passing the exam.",
+        "She gave a confident performance."
+      ],
+      "etymology": "来自拉丁语 con-（完全）+ fidere（信任）+ -ent 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "自信的，确信的；有信心的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "知己，密友"
+        }
+      ],
+      "suffix": "-ent",
+      "prefix": "con-",
+      "prefixMeaning": "完全",
+      "suffixMeaning": "形容词后缀"
+    },
+    {
+      "word": "faithful",
+      "pronunciation": "/ˈfeɪθfl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 忠诚的，忠实的；准确的",
+      "collocations": [
+        "faithful friend",
+        "faithful servant",
+        "faithful reproduction",
+        "remain faithful"
+      ],
+      "examples": [
+        "He has been a faithful friend for years.",
+        "This is a faithful adaptation of the novel."
+      ],
+      "etymology": "来自拉丁语 fidere（信任）+ -ful 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "忠诚的，忠实的；准确的"
+        }
+      ],
+      "suffix": "-ful",
+      "suffixMeaning": "充满…的"
+    }
+  ]
+}

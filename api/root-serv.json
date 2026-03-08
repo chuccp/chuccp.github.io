@@ -1,0 +1,106 @@
+{
+  "root": "serv",
+  "meaning": "保存，服务",
+  "words": [
+    {
+      "word": "serve",
+      "pronunciation": "/sɜːv/",
+      "partOfSpeech": "v.",
+      "definition": "v. 服务，招待；供应",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "服务；供应"
+        }
+      ],
+      "collocations": [
+        "serve customers",
+        "serve food"
+      ],
+      "examples": [
+        "Dinner is served."
+      ],
+      "etymology": "serv（服务）+ -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "service",
+      "pronunciation": "/ˈsɜːvɪs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 服务，公共设施",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "服务"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "维修"
+        }
+      ],
+      "collocations": [
+        "customer service",
+        "public service"
+      ],
+      "examples": [
+        "The service was excellent."
+      ],
+      "etymology": "serv + -ice",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "preserve",
+      "pronunciation": "/prɪˈzɜːv/",
+      "partOfSpeech": "v.",
+      "definition": "v. 保护，保存；腌制",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "保护，保存"
+        }
+      ],
+      "collocations": [
+        "preserve nature",
+        "preserve food"
+      ],
+      "examples": [
+        "We must preserve the environment."
+      ],
+      "etymology": "pre-（前）+ serv（保存）+ -e",
+      "prefix": "pre-",
+      "prefixMeaning": "前",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "reserve",
+      "pronunciation": "/rɪˈzɜːv/",
+      "partOfSpeech": "v.",
+      "definition": "v. 预订，保留",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "预订；保留"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "储备"
+        }
+      ],
+      "collocations": [
+        "reserve a table",
+        "nature reserve"
+      ],
+      "examples": [
+        "I reserved a room."
+      ],
+      "etymology": "re-（回）+ serv（保存）+ -e",
+      "prefix": "re-",
+      "prefixMeaning": "回",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

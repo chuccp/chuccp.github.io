@@ -1,0 +1,81 @@
+{
+  "root": "magn",
+  "meaning": "大",
+  "words": [
+    {
+      "word": "magnify",
+      "collocations": [
+        "magnify the image",
+        "magnify the problem",
+        "magnifying glass",
+        "greatly magnify"
+      ],
+      "meanings": [
+        {
+          "definition": "放大，扩大；夸大",
+          "partOfSpeech": "v."
+        }
+      ],
+      "definition": "v. 放大，扩大；夸大",
+      "pronunciation": "/ˈmæɡnɪfaɪ/",
+      "examples": [
+        "The microscope magnifies the specimen 100 times.",
+        "Do not magnify the difficulty."
+      ],
+      "etymology": "来自拉丁语 magnus（大）+ facere（做）",
+      "partOfSpeech": "v.",
+      "suffix": "-ify",
+      "suffixMeaning": "使…化"
+    },
+    {
+      "word": "magnificent",
+      "collocations": [
+        "magnificent view",
+        "magnificent building",
+        "magnificent performance",
+        "absolutely magnificent"
+      ],
+      "meanings": [
+        {
+          "definition": "壮丽的，宏伟的",
+          "partOfSpeech": "adj."
+        }
+      ],
+      "definition": "adj. 壮丽的，宏伟的",
+      "pronunciation": "/mæɡˈnɪfɪsnt/",
+      "examples": [
+        "The palace is magnificent.",
+        "She gave a magnificent performance."
+      ],
+      "etymology": "来自拉丁语 magnus（大）+ facere（做）+ -ent 后缀",
+      "partOfSpeech": "adj.",
+      "suffix": "-ent",
+      "suffixMeaning": "形容词后缀"
+    },
+    {
+      "word": "magnitude",
+      "collocations": [
+        "magnitude of",
+        "earthquake magnitude",
+        "great magnitude",
+        "order of magnitude"
+      ],
+      "meanings": [
+        {
+          "definition": "大小，量级；重要性",
+          "partOfSpeech": "n."
+        }
+      ],
+      "definition": "n. 大小，量级；重要性",
+      "pronunciation": "/ˈmæɡnɪtjuːd/",
+      "examples": [
+        "The magnitude of the earthquake was 7.0.",
+        "We do not understand the magnitude of the problem."
+      ],
+      "etymology": "来自拉丁语 magnus（大）+ -tude 后缀",
+      "partOfSpeech": "n.",
+      "suffix": "-itude",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

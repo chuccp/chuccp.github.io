@@ -1,0 +1,108 @@
+{
+  "root": "vent",
+  "meaning": "来",
+  "words": [
+    {
+      "word": "adventure",
+      "pronunciation": "/ədˈventʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 冒险，奇遇",
+      "collocations": [
+        "go on adventure",
+        "great adventure",
+        "adventure story",
+        "adventure travel"
+      ],
+      "examples": [
+        "They went on an adventure in the jungle.",
+        "Life is an adventure."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ venire（来）+ -ure 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "冒险，奇遇"
+        }
+      ],
+      "prefix": "ad-",
+      "prefixMeaning": "向"
+    },
+    {
+      "word": "convention",
+      "pronunciation": "/kənˈvenʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 会议，惯例",
+      "collocations": [
+        "annual convention",
+        "social convention",
+        "convention center",
+        "by convention"
+      ],
+      "examples": [
+        "The convention attracted thousands.",
+        "By convention, we shake hands."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ venire（来）+ -tion 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "会议，惯例"
+        }
+      ],
+      "suffix": "-tion",
+      "prefix": "con-",
+      "prefixMeaning": "一起",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "invent",
+      "pronunciation": "/ɪnˈvent/",
+      "partOfSpeech": "v.",
+      "definition": "v. 发明，创造",
+      "collocations": [
+        "invent a machine",
+        "invent a story",
+        "invent the telephone",
+        "cleverly invent"
+      ],
+      "examples": [
+        "Edison invented the light bulb.",
+        "He invented an excuse."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ venire（来）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "发明，创造"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "入"
+    },
+    {
+      "word": "prevent",
+      "pronunciation": "/prɪˈvent/",
+      "partOfSpeech": "v.",
+      "definition": "v. 预防，阻止",
+      "collocations": [
+        "prevent disease",
+        "prevent accidents",
+        "prevent from",
+        "help prevent"
+      ],
+      "examples": [
+        "Vaccines prevent diseases.",
+        "We must prevent accidents."
+      ],
+      "etymology": "来自拉丁语 pre-（前）+ venire（来）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "预防，阻止"
+        }
+      ],
+      "prefix": "pre-",
+      "prefixMeaning": "前"
+    }
+  ]
+}

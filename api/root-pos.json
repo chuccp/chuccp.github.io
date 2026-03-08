@@ -1,0 +1,118 @@
+{
+  "root": "pos",
+  "meaning": "放置",
+  "words": [
+    {
+      "word": "position",
+      "pronunciation": "/pəˈzɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 位置，方位；职位，职务；立场，观点；姿势，姿态 v. 安置，放置；使处于某种位置",
+      "collocations": [
+        "job position",
+        "in position",
+        "take a position",
+        "position of"
+      ],
+      "examples": [
+        "What is your position?",
+        "She applied for the position."
+      ],
+      "etymology": "来自拉丁语 ponere（放置）+ -ition 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "位置，方位；职位，职务；立场，观点；姿势，姿态"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "安置，放置；使处于某种位置"
+        }
+      ],
+      "suffix": "-ition",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "propose",
+      "pronunciation": "/prəˈpəʊz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 提议，求婚；计划",
+      "collocations": [
+        "propose a plan",
+        "propose marriage",
+        "propose to",
+        "propose that"
+      ],
+      "examples": [
+        "He proposed a new strategy.",
+        "She proposed to him."
+      ],
+      "etymology": "来自拉丁语 pro-（前）+ ponere（放置）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "提议，求婚；计划"
+        }
+      ],
+      "prefix": "pro-",
+      "prefixMeaning": "前"
+    },
+    {
+      "word": "compose",
+      "pronunciation": "/kəmˈpəʊz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 组成，构成；作曲，创作；撰写，写作",
+      "collocations": [
+        "compose music",
+        "compose a letter",
+        "composed of",
+        "compose oneself"
+      ],
+      "examples": [
+        "Mozart composed many symphonies.",
+        "Water is composed of hydrogen and oxygen."
+      ],
+      "etymology": "来自拉丁语 com-（一起）+ ponere（放置）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "组成，构成；作曲，创作；撰写，写作"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "组成，构成"
+        }
+      ],
+      "prefix": "com-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "deposit",
+      "pronunciation": "/dɪˈpɒzɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 存放，沉积；付订金 n. 存款，订金；沉积物",
+      "collocations": [
+        "deposit money",
+        "security deposit",
+        "deposit account",
+        "make a deposit"
+      ],
+      "examples": [
+        "She deposited money in the bank.",
+        "The deposit is refundable."
+      ],
+      "etymology": "来自拉丁语 de-（下）+ ponere（放置）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "存放，沉积；付订金"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "存款，订金；沉积物"
+        }
+      ],
+      "prefix": "de-",
+      "prefixMeaning": "下"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "root": "dur",
+  "meaning": "持久，坚硬",
+  "words": [
+    {
+      "word": "during",
+      "pronunciation": "/ˈdjʊərɪŋ/",
+      "partOfSpeech": "prep.",
+      "definition": "prep. 在...期间，在...过程中",
+      "collocations": [
+        "during the day",
+        "during the night",
+        "during the meeting",
+        "during wartime"
+      ],
+      "examples": [
+        "She fell asleep during the movie.",
+        "Many changes occurred during his tenure."
+      ],
+      "etymology": "来自拉丁语 durare（持续）的现在分词",
+      "meanings": [
+        {
+          "partOfSpeech": "prep.",
+          "definition": "在...期间，在...过程中"
+        }
+      ],
+      "suffix": "-ing",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "durable",
+      "pronunciation": "/ˈdjʊərəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 耐用的，持久的；不变的 n. 耐用品",
+      "collocations": [
+        "durable goods",
+        "durable material",
+        "highly durable",
+        "durable peace"
+      ],
+      "examples": [
+        "This jacket is made from durable fabric.",
+        "We hope for a durable peace agreement."
+      ],
+      "etymology": "来自拉丁语 durare（持续）+ -able 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "耐用的，持久的；不变的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "耐用品"
+        }
+      ],
+      "suffix": "-able",
+      "suffixMeaning": "能…的"
+    },
+    {
+      "word": "duration",
+      "pronunciation": "/djʊˈreɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 持续时间，期间",
+      "collocations": [
+        "duration of",
+        "short duration",
+        "long duration",
+        "for the duration"
+      ],
+      "examples": [
+        "The duration of the flight is 12 hours.",
+        "He stayed for the duration of the war."
+      ],
+      "etymology": "来自拉丁语 durare（持续）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "持续时间，期间"
+        }
+      ],
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "endure",
+      "pronunciation": "/ɪnˈdjʊə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 忍受，忍耐；持续",
+      "collocations": [
+        "endure pain",
+        "endure hardship",
+        "endure forever",
+        "cannot endure"
+      ],
+      "examples": [
+        "She endured great pain during her illness.",
+        "Their love has endured for 50 years."
+      ],
+      "etymology": "来自拉丁语 e-（出）+ durus（坚硬）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "忍受，忍耐；持续"
+        }
+      ],
+      "prefix": "e-",
+      "prefixMeaning": "出"
+    }
+  ]
+}

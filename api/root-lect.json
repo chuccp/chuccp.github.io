@@ -1,0 +1,130 @@
+{
+  "root": "lect",
+  "meaning": "选择",
+  "words": [
+    {
+      "word": "select",
+      "pronunciation": "/sɪˈlekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 选择，挑选；选拔，遴选 adj. 精选的，挑选出来的；优等的，第一流的",
+      "collocations": [
+        "select from",
+        "select carefully",
+        "select committee",
+        "hand select"
+      ],
+      "examples": [
+        "Please select your preferred option.",
+        "The team was carefully selected."
+      ],
+      "etymology": "来自拉丁语 legere（选择）+ se-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "选择，挑选；选拔，遴选"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "精选的，挑选出来的；优等的，第一流的"
+        }
+      ],
+      "prefix": "e-",
+      "prefixMeaning": "出，外"
+    },
+    {
+      "word": "elect",
+      "pronunciation": "/ɪˈlekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 选举，选择；决定 adj. 当选的，被选中的 n. 当选人",
+      "collocations": [
+        "elect a president",
+        "elect to do",
+        "general election",
+        "electoral college"
+      ],
+      "examples": [
+        "They elected a new chairman.",
+        "She elected to study abroad."
+      ],
+      "etymology": "来自拉丁语 legere（选择）+ e-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "选举，选择；决定"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "当选的，被选中的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "当选人，被选中的人"
+        }
+      ],
+      "prefix": "e-",
+      "prefixMeaning": "出，外"
+    },
+    {
+      "word": "collect",
+      "pronunciation": "/kəˈlekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 收集，采集；领取；收藏；积聚 adj./adv. 由收件人付费（的）",
+      "collocations": [
+        "collect data",
+        "collect stamps",
+        "collect payment",
+        "collect information"
+      ],
+      "examples": [
+        "She collects stamps as a hobby.",
+        "Please collect your luggage at baggage claim."
+      ],
+      "etymology": "来自拉丁语 legere（选择）+ col-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "收集，采集；领取；收藏；积聚"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "由收件人付费的"
+        },
+        {
+          "partOfSpeech": "adv.",
+          "definition": "由收件人付费地"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "回，再"
+    },
+    {
+      "word": "lecture",
+      "pronunciation": "/ˈlektʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 讲座，演讲；讲课，讲义；训斥，告诫 v. 演讲，讲课；训斥，告诫",
+      "collocations": [
+        "give a lecture",
+        "attend lecture",
+        "lecture hall",
+        "lecture series"
+      ],
+      "examples": [
+        "The professor gave a lecture on history.",
+        "Students attended the lecture."
+      ],
+      "etymology": "来自拉丁语 legere（读）+ -ure 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "讲座，演讲；讲课，讲义；训斥，告诫"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "演讲，讲课；训斥，告诫"
+        }
+      ],
+      "suffix": "-ture",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

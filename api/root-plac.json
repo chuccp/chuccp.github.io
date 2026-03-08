@@ -1,0 +1,81 @@
+{
+  "root": "plac",
+  "meaning": "平静，安抚",
+  "words": [
+    {
+      "word": "placate",
+      "pronunciation": "/ˈplækeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 安抚，抚慰",
+      "collocations": [
+        "placate the crowd",
+        "placate the anger",
+        "placate the opponent",
+        "try to placate"
+      ],
+      "examples": [
+        "The manager tried to placate the angry customer.",
+        "He offered gifts to placate her."
+      ],
+      "etymology": "来自拉丁语 placare（使平静）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "安抚，抚慰"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "placid",
+      "pronunciation": "/ˈplæsɪd/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 平静的，安宁的",
+      "collocations": [
+        "placid lake",
+        "placid expression",
+        "placid temperament",
+        "placid waters"
+      ],
+      "examples": [
+        "The lake was calm and placid.",
+        "She has a placid temperament."
+      ],
+      "etymology": "来自拉丁语 placere（使高兴）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "平静的，安宁的"
+        }
+      ],
+      "suffix": "-id",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "placebo",
+      "pronunciation": "/pləˈsiːbəʊ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 安慰剂",
+      "collocations": [
+        "placebo effect",
+        "placebo group",
+        "placebo response",
+        "give a placebo"
+      ],
+      "examples": [
+        "The placebo effect is powerful.",
+        "Half the patients received a placebo."
+      ],
+      "etymology": "来自拉丁语 placere（使高兴）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "安慰剂"
+        }
+      ],
+      "suffix": "-o",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

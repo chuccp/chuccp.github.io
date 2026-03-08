@@ -1,0 +1,64 @@
+{
+  "root": "vol",
+  "meaning": "意志",
+  "words": [
+    {
+      "word": "voluntary",
+      "pronunciation": "/ˈvɒləntəri/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 自愿的，志愿的",
+      "collocations": [
+        "voluntary work",
+        "voluntary organization",
+        "voluntary donation",
+        "purely voluntary"
+      ],
+      "examples": [
+        "She does voluntary work at the hospital.",
+        "The program is voluntary."
+      ],
+      "etymology": "来自拉丁语 voluntas（意志）+ -ary 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "自愿的，志愿的"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "volunteer",
+      "pronunciation": "/ˌvɒlənˈtɪə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 志愿者，义工；志愿兵 v. 自愿，志愿；自愿去做 adj. 志愿的，义务的",
+      "collocations": [
+        "volunteer work",
+        "volunteer for",
+        "volunteer service",
+        "community volunteer"
+      ],
+      "examples": [
+        "She volunteers at the animal shelter.",
+        "He volunteered for the task."
+      ],
+      "etymology": "来自拉丁语 voluntas（意志）+ -eer 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "志愿者，义工；志愿兵，义勇兵"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "自愿，志愿；自愿去做，自告奋勇"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "志愿的，义务的"
+        }
+      ],
+      "suffix": "-eer",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

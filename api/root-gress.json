@@ -1,0 +1,112 @@
+{
+  "root": "gress",
+  "meaning": "走",
+  "words": [
+    {
+      "word": "progress",
+      "pronunciation": "/ˈprəʊɡres/",
+      "partOfSpeech": "n.",
+      "definition": "n. 进步，进展；前进，行进；发展，增长 v. 进步，进展；前进，行进",
+      "collocations": [
+        "make progress",
+        "progress report",
+        "in progress",
+        "progress toward"
+      ],
+      "examples": [
+        "She is making good progress.",
+        "The project is in progress."
+      ],
+      "etymology": "来自拉丁语 pro-（前）+ gradi（走）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "进步，进展；前进，行进；发展，增长"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "进步，进展；前进，行进"
+        }
+      ],
+      "prefix": "pro-",
+      "prefixMeaning": "前"
+    },
+    {
+      "word": "aggressive",
+      "pronunciation": "/əˈɡresɪv/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 侵略的，好斗的；有进取心的，敢作敢为的",
+      "collocations": [
+        "aggressive behavior",
+        "aggressive marketing",
+        "aggressive cancer",
+        "aggressive approach"
+      ],
+      "examples": [
+        "The dog showed aggressive behavior.",
+        "They have an aggressive sales strategy."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ gradi（走）+ -ive 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "侵略的，好斗的；有进取心的，敢作敢为的"
+        }
+      ],
+      "suffix": "-ive",
+      "prefix": "ad-",
+      "prefixMeaning": "向",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "congress",
+      "pronunciation": "/ˈkɒŋɡres/",
+      "partOfSpeech": "n.",
+      "definition": "n. 国会，代表大会",
+      "collocations": [
+        "US Congress",
+        "member of Congress",
+        "Congress passes",
+        "Congressional"
+      ],
+      "examples": [
+        "Congress passed the new law.",
+        "The medical congress attracted many doctors."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ gradi（走）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "国会，代表大会"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "regress",
+      "pronunciation": "/rɪˈɡres/",
+      "partOfSpeech": "v.",
+      "definition": "v. 倒退，退化；回归",
+      "collocations": [
+        "regress to",
+        "regress into",
+        "show regression",
+        "fear of regression"
+      ],
+      "examples": [
+        "The patient regressed to childhood behavior.",
+        "The economy is regressing."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ gradi（走）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "倒退，退化；回归"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    }
+  ]
+}

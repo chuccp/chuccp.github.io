@@ -1,0 +1,73 @@
+{
+  "root": "est",
+  "meaning": "夏天",
+  "words": [
+    {
+      "word": "estival",
+      "pronunciation": "/ˈestɪvl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 夏天的，夏季的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "夏天的"
+        }
+      ],
+      "collocations": [
+        "estival weather"
+      ],
+      "examples": [
+        "Estival heat."
+      ],
+      "etymology": "est（夏天）+ -ival",
+      "suffix": "-ival",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "aestivate",
+      "pronunciation": "/ˈiːstɪveɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 夏眠，避暑",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "夏眠"
+        }
+      ],
+      "collocations": [
+        "aestivate during summer"
+      ],
+      "examples": [
+        "Some animals aestivate."
+      ],
+      "etymology": "a-（向）+ estiv（夏天）+ -ate",
+      "suffix": "-ate",
+      "prefix": "a-",
+      "suffixMeaning": "动词后缀",
+      "prefixMeaning": "无"
+    },
+    {
+      "word": "estivation",
+      "pronunciation": "/ˌiːstɪˈveɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 夏眠，避暑",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "夏眠"
+        }
+      ],
+      "collocations": [
+        "summer estivation"
+      ],
+      "examples": [
+        "Estivation is common."
+      ],
+      "etymology": "a- + estiv + -ation",
+      "suffix": "-ation",
+      "prefix": "a-",
+      "suffixMeaning": "后缀",
+      "prefixMeaning": "无"
+    }
+  ]
+}

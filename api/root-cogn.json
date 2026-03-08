@@ -1,0 +1,88 @@
+{
+  "root": "cogn",
+  "meaning": "知道",
+  "words": [
+    {
+      "word": "cognize",
+      "pronunciation": "/ˈkɒɡnaɪz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 认识，知道；理解，认知",
+      "collocations": [
+        "cognize truth",
+        "cognize reality",
+        "cognize concept"
+      ],
+      "examples": [
+        "We cognize the world through our senses.",
+        "It is difficult to cognize abstract concepts."
+      ],
+      "etymology": "来自拉丁语 cognoscere（知道）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "认识，知道；理解，认知"
+        }
+      ],
+      "suffix": "-ize",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "cognition",
+      "pronunciation": "/kɒɡˈnɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 认知，认识；认识力，认识作用",
+      "collocations": [
+        "human cognition",
+        "cognitive ability",
+        "cognitive science",
+        "cognition process"
+      ],
+      "examples": [
+        "Cognition is the process of acquiring knowledge.",
+        "Children cognition develops rapidly."
+      ],
+      "etymology": "来自拉丁语 cognoscere（知道）+ -ition 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "认知，认识；认识力，认识作用"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "认知的，认识的"
+        }
+      ],
+      "suffix": "-ition",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "recognize",
+      "pronunciation": "/ˈrekəɡnaɪz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 认出，识别；认可，承认；赏识，表彰；认识到，意识到",
+      "collocations": [
+        "recognize face",
+        "recognize voice",
+        "recognize achievement",
+        "recognize problem"
+      ],
+      "examples": [
+        "I recognized her voice on the phone.",
+        "The company was recognized for its innovation."
+      ],
+      "etymology": "来自拉丁语 cognoscere（知道）+ re-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "认出，识别；认可，承认；赏识，表彰；认识到，意识到"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "认出，承认"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "回，再"
+    }
+  ]
+}

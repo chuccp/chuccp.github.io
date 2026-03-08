@@ -1,0 +1,116 @@
+{
+  "root": "form",
+  "meaning": "形状",
+  "words": [
+    {
+      "word": "form",
+      "pronunciation": "/fɔːm/",
+      "partOfSpeech": "n.",
+      "definition": "n. 形式，形态；形状，外形；表格；形式，结构；礼貌，礼节 v. 形成，构成；组织，建立；养成，培养",
+      "collocations": [
+        "application form",
+        "in the form of",
+        "take form",
+        "form a habit"
+      ],
+      "examples": [
+        "Please fill out this form.",
+        "The plan is taking form."
+      ],
+      "etymology": "来自拉丁语 forma（形状）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "形式，形态；形状，外形；表格；形式，结构；礼貌，礼节"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "形成，构成；组织，建立；养成，培养"
+        }
+      ]
+    },
+    {
+      "word": "format",
+      "pronunciation": "/ˈfɔːmæt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 格式，版式；结构",
+      "collocations": [
+        "file format",
+        "digital format",
+        "format of",
+        "change format"
+      ],
+      "examples": [
+        "The document is in PDF format.",
+        "The show has a new format."
+      ],
+      "etymology": "来自拉丁语 forma（形状）+ -at 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "格式，版式；结构"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "transform",
+      "pronunciation": "/trænsˈfɔːm/",
+      "partOfSpeech": "v.",
+      "definition": "v. 使改变，使变换；使变形；转换，变换 n. 变换，转化；变换的事物",
+      "collocations": [
+        "transform into",
+        "transform the way",
+        "completely transform",
+        "transform society"
+      ],
+      "examples": [
+        "The caterpillar transformed into a butterfly.",
+        "Technology has transformed our lives."
+      ],
+      "etymology": "来自拉丁语 trans-（跨越）+ forma（形状）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "使改变，使变换；使变形；转换，变换"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "变换，转化；变换的事物"
+        }
+      ],
+      "prefix": "trans-",
+      "prefixMeaning": "跨越"
+    },
+    {
+      "word": "reform",
+      "pronunciation": "/rɪˈfɔːm/",
+      "partOfSpeech": "v.",
+      "definition": "v. 改革，改良；改造，改过自新 n. 改革，改良；改造，改过自新",
+      "collocations": [
+        "reform the system",
+        "education reform",
+        "land reform",
+        "prison reform"
+      ],
+      "examples": [
+        "The government plans to reform healthcare.",
+        "The prison reform was successful."
+      ],
+      "etymology": "来自拉丁语 re-（再）+ forma（形状）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "改革，改良；改造，改过自新"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "改革，改良；改造，改过自新"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "再"
+    }
+  ]
+}

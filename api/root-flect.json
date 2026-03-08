@@ -1,0 +1,91 @@
+{
+  "root": "flect",
+  "meaning": "弯曲，转向",
+  "words": [
+    {
+      "word": "reflect",
+      "pronunciation": "/rɪˈflekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 反射，反映；反射光/热；思考，反省；表明，显示",
+      "collocations": [
+        "reflect on",
+        "reflect light",
+        "reflect the truth",
+        "deeply reflect"
+      ],
+      "examples": [
+        "The water reflects the mountains.",
+        "I need time to reflect on this decision."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ flectere（弯曲）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "反射，反映；反射光/热；思考，反省；表明，显示"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "反射，反映；反省"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    },
+    {
+      "word": "reflection",
+      "pronunciation": "/rɪˈflekʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 反射，倒影；反思，沉思；反映，表现",
+      "collocations": [
+        "self-reflection",
+        "reflection of",
+        "deep reflection",
+        "mirror reflection"
+      ],
+      "examples": [
+        "Her reflection appeared in the mirror.",
+        "The book is a reflection on modern life."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ flectere（弯曲）+ -ion 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "反射，倒影；反思，沉思；反映，表现"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "反射的，反映的"
+        }
+      ],
+      "suffix": "-ion",
+      "prefix": "re-",
+      "prefixMeaning": "回",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "flexible",
+      "pronunciation": "/ˈfleksəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 灵活的，可变通的；柔韧的，易弯曲的",
+      "collocations": [
+        "flexible schedule",
+        "flexible approach",
+        "highly flexible",
+        "flexible working"
+      ],
+      "examples": [
+        "We need a flexible approach to problem-solving.",
+        "She has a flexible work schedule."
+      ],
+      "etymology": "来自拉丁语 flectere（弯曲）+ -ible 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "灵活的，可变通的；柔韧的，易弯曲的"
+        }
+      ],
+      "suffix": "-ible",
+      "suffixMeaning": "能…的"
+    }
+  ]
+}

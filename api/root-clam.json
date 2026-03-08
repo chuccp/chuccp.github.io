@@ -1,0 +1,90 @@
+{
+  "root": "clam",
+  "meaning": "喊",
+  "words": [
+    {
+      "word": "clamor",
+      "pronunciation": "/ˈklæmə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 喧闹，喧嚣",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "喧闹"
+        }
+      ],
+      "collocations": [
+        "loud clamor"
+      ],
+      "examples": [
+        "The clamor was deafening."
+      ],
+      "etymology": "clam（喊）+ -or",
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "exclaim",
+      "pronunciation": "/ɪkˈskleɪm/",
+      "partOfSpeech": "v.",
+      "definition": "v. 呼喊，惊叫",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "呼喊"
+        }
+      ],
+      "collocations": [
+        "exclaim in surprise"
+      ],
+      "examples": [
+        "She exclaimed in delight."
+      ],
+      "etymology": "ex-（出）+ claim（喊）",
+      "prefix": "ex-",
+      "prefixMeaning": "出"
+    },
+    {
+      "word": "proclaim",
+      "pronunciation": "/prəˈkleɪm/",
+      "partOfSpeech": "v.",
+      "definition": "v. 宣告，宣布",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "宣告"
+        }
+      ],
+      "collocations": [
+        "proclaim victory"
+      ],
+      "examples": [
+        "They proclaimed independence."
+      ],
+      "etymology": "pro-（公开）+ claim（喊）",
+      "prefix": "pro-",
+      "prefixMeaning": "公开"
+    },
+    {
+      "word": "acclaim",
+      "pronunciation": "/əˈkleɪm/",
+      "partOfSpeech": "v.",
+      "definition": "v. 欢呼，喝彩",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "欢呼"
+        }
+      ],
+      "collocations": [
+        "critical acclaim"
+      ],
+      "examples": [
+        "The movie was acclaimed."
+      ],
+      "etymology": "ac-（向）+ claim（喊）",
+      "prefix": "ac-",
+      "prefixMeaning": "向"
+    }
+  ]
+}

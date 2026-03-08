@@ -1,0 +1,89 @@
+{
+  "root": "psych",
+  "meaning": "精神，心理",
+  "words": [
+    {
+      "word": "psychology",
+      "pronunciation": "/saɪˈkɒlədʒi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 心理学，心理状态；心理特征",
+      "collocations": [
+        "study psychology",
+        "clinical psychology",
+        "psychology of",
+        "social psychology"
+      ],
+      "examples": [
+        "She is studying psychology at university.",
+        "The psychology of learning is complex."
+      ],
+      "etymology": "来自希腊语 psyche（心灵）+ logos（学科）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "心理学，心理状态；心理特征"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "研究心理学"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "psychological",
+      "pronunciation": "/ˌsaɪkəˈlɒdʒɪkl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 心理的，精神上的；心理学的",
+      "collocations": [
+        "psychological effect",
+        "psychological warfare",
+        "psychological support",
+        "psychological damage"
+      ],
+      "examples": [
+        "The psychological impact was severe.",
+        "She provides psychological support."
+      ],
+      "etymology": "来自希腊语 psyche（心灵）+ logos（学科）+ -ical 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "心理的，精神上的；心理学的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "心理状态，心理特征"
+        }
+      ],
+      "suffix": "-ical",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "psyche",
+      "pronunciation": "/ˈsaɪki/",
+      "partOfSpeech": "n.",
+      "definition": "n. 心灵，精神；灵魂",
+      "collocations": [
+        "human psyche",
+        "collective psyche",
+        "damage the psyche",
+        "explore the psyche"
+      ],
+      "examples": [
+        "The trauma affected his psyche.",
+        "Art reflects the national psyche."
+      ],
+      "etymology": "来自希腊语 psyche（心灵，呼吸）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "心灵，精神；灵魂"
+        }
+      ],
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

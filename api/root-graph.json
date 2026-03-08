@@ -1,0 +1,114 @@
+{
+  "root": "graph",
+  "meaning": "写，画",
+  "words": [
+    {
+      "word": "graph",
+      "pronunciation": "/ɡræf/",
+      "partOfSpeech": "n.",
+      "definition": "n. 图表，曲线图",
+      "collocations": [
+        "bar graph",
+        "line graph",
+        "draw a graph",
+        "read the graph"
+      ],
+      "examples": [
+        "The graph shows sales trends.",
+        "Plot the data on a graph."
+      ],
+      "etymology": "来自希腊语 graphein（写，画）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "图表，曲线图"
+        }
+      ],
+      "suffix": "-graph",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "graphic",
+      "pronunciation": "/ˈɡræfɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 图形的，生动的；详细的 n. 图形，图表",
+      "collocations": [
+        "graphic design",
+        "graphic novel",
+        "graphic description",
+        "graphic content"
+      ],
+      "examples": [
+        "She works in graphic design.",
+        "The report gave a graphic account."
+      ],
+      "etymology": "来自希腊语 graphein（写）+ -ic 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "图形的，生动的；详细的；绘画的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "图形，图表；印刷术"
+        }
+      ],
+      "suffix": "-ic",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "photograph",
+      "pronunciation": "/ˈfəʊtəɡrɑːf/",
+      "partOfSpeech": "n.",
+      "definition": "n. 照片，相片 v. 拍照，摄影",
+      "collocations": [
+        "take a photograph",
+        "black and white photograph",
+        "photograph of",
+        "digital photograph"
+      ],
+      "examples": [
+        "She took a photograph of the sunset.",
+        "This is an old photograph."
+      ],
+      "etymology": "来自希腊语 photo-（光）+ graphein（写）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "照片，相片"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "拍照，摄影"
+        }
+      ],
+      "suffix": "-graph",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "autograph",
+      "pronunciation": "/ˈɔːtəɡrɑːf/",
+      "partOfSpeech": "n.",
+      "definition": "n. 亲笔签名",
+      "collocations": [
+        "get an autograph",
+        "autograph book",
+        "celebrity autograph",
+        "signed autograph"
+      ],
+      "examples": [
+        "The fan asked for his autograph.",
+        "She collects celebrity autographs."
+      ],
+      "etymology": "来自希腊语 auto-（自己）+ graphein（写）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "亲笔签名"
+        }
+      ],
+      "prefix": "auto-",
+      "prefixMeaning": "自己"
+    }
+  ]
+}

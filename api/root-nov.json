@@ -1,0 +1,87 @@
+{
+  "root": "nov",
+  "meaning": "新",
+  "words": [
+    {
+      "word": "novel",
+      "pronunciation": "/ˈnɒvl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 小说 adj. 新颖的，新奇的",
+      "collocations": [
+        "write a novel",
+        "novel idea",
+        "romantic novel",
+        "novel approach"
+      ],
+      "examples": [
+        "She is writing a novel.",
+        "This is a novel solution to the problem."
+      ],
+      "etymology": "来自拉丁语 novus（新的）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "小说"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "新颖的，新奇的"
+        }
+      ],
+      "suffix": "-el",
+      "suffixMeaning": "小东西"
+    },
+    {
+      "word": "novice",
+      "pronunciation": "/ˈnɒvɪs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 新手，初学者",
+      "collocations": [
+        "complete novice",
+        "novice driver",
+        "novice user",
+        "teach a novice"
+      ],
+      "examples": [
+        "He is a complete novice at cooking.",
+        "The course is designed for novices."
+      ],
+      "etymology": "来自拉丁语 novus（新的）+ -ice 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "新手，初学者"
+        }
+      ],
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "innovate",
+      "pronunciation": "/ˈɪnəveɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 创新，革新",
+      "collocations": [
+        "innovate in",
+        "innovate continuously",
+        "innovate products",
+        "innovate processes"
+      ],
+      "examples": [
+        "The company continues to innovate.",
+        "We must innovate to stay competitive."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ novus（新的）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "创新，革新"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "in-",
+      "prefixMeaning": "入",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

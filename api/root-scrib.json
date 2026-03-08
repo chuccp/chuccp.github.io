@@ -1,0 +1,89 @@
+{
+  "root": "scrib",
+  "meaning": "写，画",
+  "words": [
+    {
+      "word": "describe",
+      "pronunciation": "/dɪˈskraɪb/",
+      "partOfSpeech": "v.",
+      "definition": "v. 描述，形容；描写，叙述；画（图形）",
+      "collocations": [
+        "describe the scene",
+        "describe in detail",
+        "describe as",
+        "describe the process"
+      ],
+      "examples": [
+        "Can you describe what happened?",
+        "The witness described the suspect."
+      ],
+      "etymology": "来自拉丁语 de-（下）+ scribere（写）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "描述，形容；描写，叙述；画（图形）"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "描述，形容"
+        }
+      ],
+      "prefix": "de-",
+      "prefixMeaning": "下"
+    },
+    {
+      "word": "prescribe",
+      "pronunciation": "/prɪˈskraɪb/",
+      "partOfSpeech": "v.",
+      "definition": "v. 开处方，开药；规定，指定；命令",
+      "collocations": [
+        "prescribe medicine",
+        "prescribe treatment",
+        "prescribe rules",
+        "doctor prescribes"
+      ],
+      "examples": [
+        "The doctor prescribed antibiotics.",
+        "The law prescribes certain procedures."
+      ],
+      "etymology": "来自拉丁语 pre-（前）+ scribere（写）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "开处方，开药；规定，指定；命令"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "处方，药方"
+        }
+      ],
+      "prefix": "pre-",
+      "prefixMeaning": "前"
+    },
+    {
+      "word": "subscribe",
+      "pronunciation": "/səbˈskraɪb/",
+      "partOfSpeech": "v.",
+      "definition": "v. 订阅，签署；同意",
+      "collocations": [
+        "subscribe to",
+        "subscribe magazine",
+        "subscribe channel",
+        "subscribe service"
+      ],
+      "examples": [
+        "I subscribe to this magazine.",
+        "He subscribes to several streaming services."
+      ],
+      "etymology": "来自拉丁语 sub-（下）+ scribere（写）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "订阅，签署；同意"
+        }
+      ],
+      "prefix": "sub-",
+      "prefixMeaning": "下"
+    }
+  ]
+}

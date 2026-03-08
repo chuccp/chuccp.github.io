@@ -1,0 +1,93 @@
+{
+  "root": "sol",
+  "meaning": "太阳，单独",
+  "words": [
+    {
+      "word": "solar",
+      "pronunciation": "/ˈsəʊlə/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 太阳的，日光的；利用太阳光的",
+      "collocations": [
+        "solar energy",
+        "solar panel",
+        "solar system",
+        "solar power"
+      ],
+      "examples": [
+        "Solar energy is renewable.",
+        "The solar system has eight planets."
+      ],
+      "etymology": "来自拉丁语 sol（太阳）+ -ar 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "太阳的，日光的；利用太阳光的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "太阳能，日光浴室"
+        }
+      ],
+      "suffix": "-ar",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "solo",
+      "pronunciation": "/ˈsəʊləʊ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 独奏，独唱；独舞 adj. 单独的，独奏的 v. 独奏，独唱；单独表演",
+      "collocations": [
+        "solo performance",
+        "solo album",
+        "fly solo",
+        "solo exhibition"
+      ],
+      "examples": [
+        "She performed a piano solo.",
+        "He traveled solo around the world."
+      ],
+      "etymology": "来自意大利语 solo（单独）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "独奏，独唱；独舞，单独表演"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "单独的，独奏的；单独的，无伴的"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "独奏，独唱；单独表演"
+        }
+      ],
+      "suffix": "-o",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "isolate",
+      "pronunciation": "/ˈaɪsəleɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 隔离，孤立",
+      "collocations": [
+        "isolate from",
+        "isolate the virus",
+        "isolate the problem",
+        "feel isolated"
+      ],
+      "examples": [
+        "The patient was isolated to prevent infection.",
+        "Dont isolate yourself from friends."
+      ],
+      "etymology": "来自拉丁语 insula（岛）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "隔离，孤立"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "root": "cand",
+  "meaning": "白，发光",
+  "words": [
+    {
+      "word": "candle",
+      "pronunciation": "/ˈkændl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 蜡烛",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "蜡烛"
+        }
+      ],
+      "collocations": [
+        "light candle"
+      ],
+      "examples": [
+        "The candle flickered."
+      ],
+      "etymology": "cand（发光）+ -le",
+      "suffix": "-le",
+      "suffixMeaning": "小东西"
+    },
+    {
+      "word": "candy",
+      "pronunciation": "/ˈkændi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 糖果，巧克力",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "糖果"
+        }
+      ],
+      "collocations": [
+        "eat candy"
+      ],
+      "examples": [
+        "Children love candy."
+      ],
+      "etymology": "cand（白）+ -y，白糖",
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "candid",
+      "pronunciation": "/ˈkændɪd/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 坦白的，率直的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "坦白的"
+        }
+      ],
+      "collocations": [
+        "candid opinion"
+      ],
+      "examples": [
+        "A candid interview."
+      ],
+      "etymology": "cand（白）+ -id，洁白的",
+      "suffix": "-id",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "incandescent",
+      "pronunciation": "/ˌɪnkænˈdesnt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 白炽的，炽热的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "白炽的"
+        }
+      ],
+      "collocations": [
+        "incandescent bulb"
+      ],
+      "examples": [
+        "An incandescent light."
+      ],
+      "etymology": "in-（入）+ cand（发光）+ -escent",
+      "prefix": "in-",
+      "prefixMeaning": "入"
+    }
+  ]
+}

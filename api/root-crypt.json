@@ -1,0 +1,90 @@
+{
+  "root": "crypt",
+  "meaning": "隐藏",
+  "words": [
+    {
+      "word": "crypt",
+      "pronunciation": "/krɪpt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 地穴，地下室",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "地穴"
+        }
+      ],
+      "collocations": [
+        "church crypt"
+      ],
+      "examples": [
+        "The crypt is ancient."
+      ],
+      "etymology": "crypt（隐藏）",
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "encrypt",
+      "pronunciation": "/ɪnˈkrɪpt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 加密，编码",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "加密"
+        }
+      ],
+      "collocations": [
+        "encrypt data"
+      ],
+      "examples": [
+        "Encrypt the file."
+      ],
+      "etymology": "en-（入）+ crypt（隐藏）",
+      "prefix": "en-",
+      "prefixMeaning": "入"
+    },
+    {
+      "word": "decrypt",
+      "pronunciation": "/diːˈkrɪpt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 解密，解码",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "解密"
+        }
+      ],
+      "collocations": [
+        "decrypt message"
+      ],
+      "examples": [
+        "Decrypt the code."
+      ],
+      "etymology": "de-（去除）+ crypt（隐藏）",
+      "prefix": "de-",
+      "prefixMeaning": "去除"
+    },
+    {
+      "word": "cryptography",
+      "pronunciation": "/krɪpˈtɒɡrəfi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 密码学，加密术",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "密码学"
+        }
+      ],
+      "collocations": [
+        "study cryptography"
+      ],
+      "examples": [
+        "He studies cryptography."
+      ],
+      "etymology": "crypt（隐藏）+ graphy（写）",
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    }
+  ]
+}

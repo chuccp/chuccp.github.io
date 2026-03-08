@@ -1,0 +1,85 @@
+{
+  "root": "phil",
+  "meaning": "爱，喜爱",
+  "words": [
+    {
+      "word": "philosophy",
+      "pronunciation": "/fɪˈlɒsəfi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 哲学，哲理；人生观，价值观；哲学体系",
+      "collocations": [
+        "study philosophy",
+        "life philosophy",
+        "political philosophy",
+        "ancient philosophy"
+      ],
+      "examples": [
+        "She studied philosophy at university.",
+        "His philosophy of life is simple."
+      ],
+      "etymology": "来自希腊语 philo-（爱）+ sophia（智慧）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "哲学，哲理；人生观，价值观；哲学体系"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "研究哲学，从事哲学思考"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "philanthropy",
+      "pronunciation": "/fɪˈlænθrəpi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 慈善，慈善事业",
+      "collocations": [
+        "engage in philanthropy",
+        "philanthropy organization",
+        "philanthropy work",
+        "corporate philanthropy"
+      ],
+      "examples": [
+        "He is known for his philanthropy.",
+        "The foundation supports various philanthropy projects."
+      ],
+      "etymology": "来自希腊语 philo-（爱）+ anthropos（人类）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "慈善，慈善事业"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "bibliophile",
+      "pronunciation": "/ˈbɪbliəfaɪl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 爱书的人，藏书家",
+      "collocations": [
+        "true bibliophile",
+        "avid bibliophile",
+        "bibliophile collection",
+        "bibliophile society"
+      ],
+      "examples": [
+        "As a bibliophile, he has thousands of books.",
+        "The bibliophile donated his collection to the library."
+      ],
+      "etymology": "来自希腊语 biblion（书）+ philo-（爱）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "爱书的人，藏书家"
+        }
+      ],
+      "suffix": "-le",
+      "suffixMeaning": "小东西"
+    }
+  ]
+}

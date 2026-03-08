@@ -1,0 +1,90 @@
+{
+  "root": "am",
+  "meaning": "爱",
+  "words": [
+    {
+      "word": "amateur",
+      "pronunciation": "/ˈæmətə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 业余爱好者；外行",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "业余爱好者"
+        }
+      ],
+      "collocations": [
+        "amateur photographer"
+      ],
+      "examples": [
+        "He is an amateur golfer."
+      ],
+      "etymology": "am（爱）+ -ateur，爱好者",
+      "suffix": "-ateur",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "amatory",
+      "pronunciation": "/ˈæmətəri/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 爱情的，恋爱的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "爱情的"
+        }
+      ],
+      "collocations": [
+        "amatory poem"
+      ],
+      "examples": [
+        "An amatory novel."
+      ],
+      "etymology": "am（爱）+ -atory",
+      "suffix": "-atory",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "amiable",
+      "pronunciation": "/ˈeɪmiəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 亲切的，和蔼可亲的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "亲切的"
+        }
+      ],
+      "collocations": [
+        "amiable person"
+      ],
+      "examples": [
+        "She has an amiable smile."
+      ],
+      "etymology": "am（爱）+ -able，可爱的",
+      "suffix": "-able",
+      "suffixMeaning": "能…的"
+    },
+    {
+      "word": "enemy",
+      "pronunciation": "/ˈenəmi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 敌人，敌军",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "敌人"
+        }
+      ],
+      "collocations": [
+        "make an enemy"
+      ],
+      "examples": [
+        "He made many enemies."
+      ],
+      "etymology": "en-（不）+ emy（爱），不爱的人",
+      "prefix": "en-",
+      "prefixMeaning": "不"
+    }
+  ]
+}

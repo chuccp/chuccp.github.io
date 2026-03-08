@@ -1,0 +1,116 @@
+{
+  "root": "radi",
+  "meaning": "射线",
+  "words": [
+    {
+      "word": "radio",
+      "pronunciation": "/ˈreɪdiəʊ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 收音机，无线电；广播电台 v. 用无线电传送 adj. 无线电的",
+      "collocations": [
+        "listen to radio",
+        "radio station",
+        "radio wave",
+        "car radio"
+      ],
+      "examples": [
+        "I listen to the radio daily.",
+        "The radio broadcast the news."
+      ],
+      "etymology": "来自拉丁语 radius（射线）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "收音机，无线电；广播电台；无线电广播"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "用无线电传送；用无线电广播"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "无线电的，无线电广播的"
+        }
+      ],
+      "suffix": "-io",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "radiate",
+      "pronunciation": "/ˈreɪdieɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 辐射，散发",
+      "collocations": [
+        "radiate heat",
+        "radiate from",
+        "radiate confidence",
+        "radiate energy"
+      ],
+      "examples": [
+        "The sun radiates heat.",
+        "She radiates confidence."
+      ],
+      "etymology": "来自拉丁语 radius（射线）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "辐射，散发"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "radius",
+      "pronunciation": "/ˈreɪdiəs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 半径，半径范围",
+      "collocations": [
+        "within a radius",
+        "radius of",
+        "circle radius",
+        "5-mile radius"
+      ],
+      "examples": [
+        "The radius of the circle is 5cm.",
+        "Stores within a 5-mile radius."
+      ],
+      "etymology": "来自拉丁语 radius（射线，轮辐）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "半径，半径范围"
+        }
+      ],
+      "suffix": "-us",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "irradiate",
+      "pronunciation": "/ɪˈreɪdieɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 照射，辐射；使光彩照人",
+      "collocations": [
+        "irradiate with",
+        "irradiate food",
+        "irradiate the area",
+        "irradiate light"
+      ],
+      "examples": [
+        "Food is irradiated to kill bacteria.",
+        "Her face was irradiated with joy."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ radius（射线）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "照射，辐射；使光彩照人"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "in-",
+      "prefixMeaning": "入",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

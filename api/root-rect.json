@@ -1,0 +1,118 @@
+{
+  "root": "rect",
+  "meaning": "正",
+  "words": [
+    {
+      "word": "rectify",
+      "pronunciation": "/ˈrektɪfaɪ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 纠正，改正",
+      "collocations": [
+        "rectify the error",
+        "rectify the situation",
+        "rectify mistakes",
+        "promptly rectify"
+      ],
+      "examples": [
+        "We will rectify the error.",
+        "He tried to rectify the situation."
+      ],
+      "etymology": "来自拉丁语 rectus（正）+ facere（做）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "纠正，改正"
+        }
+      ],
+      "suffix": "-ify",
+      "suffixMeaning": "使…化"
+    },
+    {
+      "word": "correct",
+      "pronunciation": "/kəˈrekt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 正确的，恰当的；端正的，得体的 v. 改正，纠正；矫正，修正",
+      "collocations": [
+        "correct answer",
+        "correct the mistake",
+        "correct behavior",
+        "correctly correct"
+      ],
+      "examples": [
+        "The answer is correct.",
+        "Please correct my pronunciation."
+      ],
+      "etymology": "来自拉丁语 cor-（完全）+ rectus（正）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "正确的，恰当的；端正的，得体的"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "改正，纠正；矫正，修正"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "direct",
+      "pronunciation": "/dɪˈrekt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 直接的，径直的；率直的，坦率的 v. 指导，导演；管理，监督；指导，指示",
+      "collocations": [
+        "direct route",
+        "direct someone to",
+        "direct the film",
+        "direct attention"
+      ],
+      "examples": [
+        "Take the direct route.",
+        "She directed the movie."
+      ],
+      "etymology": "来自拉丁语 di-（分开）+ rectus（正）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "直接的，径直的；率直的，坦率的；直系的，亲身的"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "指导，导演；管理，监督；指导，指示；把...对准"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "erect",
+      "pronunciation": "/ɪˈrekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 建立，竖立 adj. 直立的，竖直的",
+      "collocations": [
+        "erect a building",
+        "erect a statue",
+        "erect posture",
+        "erect structure"
+      ],
+      "examples": [
+        "They erected a monument.",
+        "The building was erected last year."
+      ],
+      "etymology": "来自拉丁语 e-（出）+ rectus（正）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "建立，竖立"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "直立的，竖直的"
+        }
+      ],
+      "prefix": "e-",
+      "prefixMeaning": "出"
+    }
+  ]
+}

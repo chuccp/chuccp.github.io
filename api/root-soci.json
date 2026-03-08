@@ -1,0 +1,124 @@
+{
+  "root": "soci",
+  "meaning": "社会，同伴",
+  "words": [
+    {
+      "word": "society",
+      "pronunciation": "/səˈsaɪəti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 社会，社团；协会，学会；上流社会",
+      "collocations": [
+        "modern society",
+        "high society",
+        "society of",
+        "change society"
+      ],
+      "examples": [
+        "Technology has transformed society.",
+        "He is a member of the historical society."
+      ],
+      "etymology": "来自拉丁语 socius（同伴）+ -ety 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "社会，社团；协会，学会；上流社会"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "社会的，社团的"
+        }
+      ],
+      "suffix": "-ty",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "social",
+      "pronunciation": "/ˈsəʊʃl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 社会的，社交的；群居的；社会地位的",
+      "collocations": [
+        "social media",
+        "social network",
+        "social life",
+        "social issue"
+      ],
+      "examples": [
+        "Social media is popular.",
+        "She has an active social life."
+      ],
+      "etymology": "来自拉丁语 socius（同伴）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "社会的，社交的；群居的；社会地位的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "社交聚会，联谊会"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "associate",
+      "pronunciation": "/əˈsəʊʃieɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 联系，联合；交往，结交 n. 同事，伙伴；合伙人 adj. 副的，联合的",
+      "collocations": [
+        "associate with",
+        "business associate",
+        "associate professor",
+        "closely associate"
+      ],
+      "examples": [
+        "I associate summer with beach trips.",
+        "He is my business associate."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ socius（同伴）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "联系，联合；交往，结交；使发生联系"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "同事，伙伴；合伙人；准学士"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "副的，联合的；有联系的"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "ad-",
+      "prefixMeaning": "向",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "sociable",
+      "pronunciation": "/ˈsəʊʃəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 好交际的，友善的",
+      "collocations": [
+        "sociable person",
+        "sociable evening",
+        "sociable atmosphere",
+        "very sociable"
+      ],
+      "examples": [
+        "She is a sociable person.",
+        "The party had a sociable atmosphere."
+      ],
+      "etymology": "来自拉丁语 socius（同伴）+ -able 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "好交际的，友善的"
+        }
+      ],
+      "suffix": "-able",
+      "suffixMeaning": "能…的"
+    }
+  ]
+}

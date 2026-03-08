@@ -1,0 +1,94 @@
+{
+  "root": "dict",
+  "meaning": "说，言",
+  "words": [
+    {
+      "word": "dictate",
+      "pronunciation": "/dɪkˈteɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 口授，听写；命令",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "口授；命令"
+        }
+      ],
+      "collocations": [
+        "dictate a letter",
+        "dictate terms"
+      ],
+      "examples": [
+        "She dictated a letter to her secretary."
+      ],
+      "etymology": "dict（说）+ -ate（动词后缀）",
+      "suffix": "-ate",
+      "suffixMeaning": "动词"
+    },
+    {
+      "word": "dictionary",
+      "pronunciation": "/ˈdɪkʃənri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 词典，字典",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "词典，字典"
+        }
+      ],
+      "collocations": [
+        "look up in dictionary",
+        "English dictionary"
+      ],
+      "examples": [
+        "I looked up the word in the dictionary."
+      ],
+      "etymology": "dict（说）+ -ion + -ary",
+      "suffix": "-ary",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "predict",
+      "pronunciation": "/prɪˈdɪkt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 预测，预言",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "预测，预言"
+        }
+      ],
+      "collocations": [
+        "predict the future",
+        "predict rain"
+      ],
+      "examples": [
+        "They predicted a victory."
+      ],
+      "etymology": "pre-（预先）+ dict（说）",
+      "prefix": "pre-",
+      "prefixMeaning": "预先"
+    },
+    {
+      "word": "contradict",
+      "pronunciation": "/ˌkɒntrəˈdɪkt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 反驳，否认；与...矛盾",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "反驳；矛盾"
+        }
+      ],
+      "collocations": [
+        "contradict someone",
+        "contradict oneself"
+      ],
+      "examples": [
+        "The evidence contradicts his story."
+      ],
+      "etymology": "contra-（相反）+ dict（说）",
+      "prefix": "contra-",
+      "prefixMeaning": "相反"
+    }
+  ]
+}

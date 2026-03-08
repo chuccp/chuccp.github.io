@@ -1,0 +1,53 @@
+{
+  "root": "agri",
+  "meaning": "田地，农田",
+  "words": [
+    {
+      "word": "agriculture",
+      "pronunciation": "/ˈæɡrɪkʌltʃər/",
+      "partOfSpeech": "n.",
+      "definition": "n. 农业，农艺；农耕",
+      "collocations": [
+        "modern agriculture",
+        "sustainable agriculture",
+        "agriculture sector",
+        "agriculture policy"
+      ],
+      "examples": [
+        "Agriculture is the foundation of many economies.",
+        "Modern agriculture relies heavily on technology."
+      ],
+      "etymology": "来自拉丁语 ager（田地）+ cultura（耕种）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "农业，农艺；农耕"
+        }
+      ],
+      "suffix": "-ture",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "agrimotor",
+      "pronunciation": "/ˈæɡrɪməʊtər/",
+      "partOfSpeech": "n.",
+      "definition": "n. 农用拖拉机，农业机械",
+      "collocations": [
+        "modern agrimotor",
+        "agrimotor technology"
+      ],
+      "examples": [
+        "Agrimotor has greatly improved farming efficiency."
+      ],
+      "etymology": "来自 agri（农业）+ motor（发动机）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "农用拖拉机，农业机械"
+        }
+      ],
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "root": "vac",
+  "meaning": "空",
+  "words": [
+    {
+      "word": "vacant",
+      "pronunciation": "/ˈveɪkənt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 空缺的，空虚的",
+      "collocations": [
+        "vacant position",
+        "vacant room",
+        "vacant lot",
+        "vacant expression"
+      ],
+      "examples": [
+        "There are vacant rooms in the hotel.",
+        "The position has been vacant for months."
+      ],
+      "etymology": "来自拉丁语 vacare（空）+ -ant 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "空缺的，空虚的"
+        }
+      ],
+      "suffix": "-ant",
+      "suffixMeaning": "形容词后缀"
+    },
+    {
+      "word": "vacation",
+      "pronunciation": "/vəˈkeɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 假期，休假",
+      "collocations": [
+        "summer vacation",
+        "take a vacation",
+        "vacation spot",
+        "on vacation"
+      ],
+      "examples": [
+        "We went to Hawaii on vacation.",
+        "Summer vacation starts next week."
+      ],
+      "etymology": "来自拉丁语 vacare（空）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "假期，休假"
+        }
+      ],
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "evacuate",
+      "pronunciation": "/ɪˈvækjueɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 疏散，撤离",
+      "collocations": [
+        "evacuate the building",
+        "evacuate residents",
+        "evacuate immediately",
+        "order to evacuate"
+      ],
+      "examples": [
+        "The building was evacuated due to fire.",
+        "Residents were evacuated before the hurricane."
+      ],
+      "etymology": "来自拉丁语 e-（出）+ vacare（空）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "疏散，撤离"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "e-",
+      "prefixMeaning": "出",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

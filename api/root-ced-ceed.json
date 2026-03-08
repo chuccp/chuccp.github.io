@@ -1,0 +1,94 @@
+{
+  "root": "ced/ceed",
+  "meaning": "走",
+  "words": [
+    {
+      "word": "precede",
+      "pronunciation": "/prɪˈsiːd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 领先于，在...之前",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "在...之前"
+        }
+      ],
+      "collocations": [
+        "precede by"
+      ],
+      "examples": [
+        "Dinner preceded the speech."
+      ],
+      "etymology": "pre-（前）+ ced（走）+ -e",
+      "prefix": "pre-",
+      "prefixMeaning": "前",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "proceed",
+      "pronunciation": "/prəˈsiːd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 继续进行，前进",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "继续进行"
+        }
+      ],
+      "collocations": [
+        "proceed with"
+      ],
+      "examples": [
+        "Please proceed."
+      ],
+      "etymology": "pro-（前）+ ceed（走）",
+      "prefix": "pro-",
+      "prefixMeaning": "前"
+    },
+    {
+      "word": "succeed",
+      "pronunciation": "/səkˈsiːd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 成功；继承",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "成功；继承"
+        }
+      ],
+      "collocations": [
+        "succeed in"
+      ],
+      "examples": [
+        "She succeeded in business."
+      ],
+      "etymology": "suc-（下）+ ceed（走）",
+      "prefix": "suc-",
+      "prefixMeaning": "下"
+    },
+    {
+      "word": "recede",
+      "pronunciation": "/rɪˈsiːd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 后退，撤回",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "后退"
+        }
+      ],
+      "collocations": [
+        "recede from"
+      ],
+      "examples": [
+        "The flood receded."
+      ],
+      "etymology": "re-（回）+ ced（走）+ -e",
+      "prefix": "re-",
+      "prefixMeaning": "回",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

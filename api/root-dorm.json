@@ -1,0 +1,56 @@
+{
+  "root": "dorm",
+  "meaning": "睡眠",
+  "words": [
+    {
+      "word": "dormant",
+      "pronunciation": "/ˈdɔːmənt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 休眠的，静止的",
+      "collocations": [
+        "dormant volcano",
+        "dormant state",
+        "lie dormant",
+        "dormant period"
+      ],
+      "examples": [
+        "The volcano has been dormant for over a century.",
+        "The project is currently dormant."
+      ],
+      "etymology": "来自拉丁语 dormire（睡觉）+ -ant 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "休眠的，静止的"
+        }
+      ],
+      "suffix": "-ant",
+      "suffixMeaning": "形容词后缀"
+    },
+    {
+      "word": "dormitory",
+      "pronunciation": "/ˈdɔːmɪtri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 宿舍，寝室",
+      "collocations": [
+        "college dormitory",
+        "dormitory room",
+        "student dormitory",
+        "dormitory life"
+      ],
+      "examples": [
+        "She lives in the university dormitory.",
+        "The dormitory can accommodate 200 students."
+      ],
+      "etymology": "来自拉丁语 dormire（睡觉）+ -ory 后缀表示场所",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "宿舍，寝室"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

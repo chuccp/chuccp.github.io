@@ -1,0 +1,28 @@
+{
+  "root": "pater",
+  "meaning": "父",
+  "words": [
+    {
+      "word": "paternal",
+      "pronunciation": "/pəˈtɜːnl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 父亲的，父系的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "父亲的"
+        }
+      ],
+      "collocations": [
+        "paternal love",
+        "paternal grandfather"
+      ],
+      "examples": [
+        "His paternal uncle visited."
+      ],
+      "etymology": "pater（父）+ -nal",
+      "suffix": "-nal",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

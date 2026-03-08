@@ -1,0 +1,114 @@
+{
+  "root": "popul",
+  "meaning": "人民",
+  "words": [
+    {
+      "word": "population",
+      "pronunciation": "/ˌpɒpjuˈleɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 人口，人口数量；全体居民；（动物、植物的）群体",
+      "collocations": [
+        "world population",
+        "population growth",
+        "population of",
+        "large population"
+      ],
+      "examples": [
+        "The population is increasing.",
+        "China has a large population."
+      ],
+      "etymology": "来自拉丁语 populus（人民）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "人口，人口数量；全体居民；（动物、植物的）群体"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "居住于，构成人口"
+        }
+      ],
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "popular",
+      "pronunciation": "/ˈpɒpjələ/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 流行的，受欢迎的；大众的，民众的；通俗的",
+      "collocations": [
+        "popular culture",
+        "popular vote",
+        "popular with",
+        "very popular"
+      ],
+      "examples": [
+        "The song is very popular.",
+        "He is popular with students."
+      ],
+      "etymology": "来自拉丁语 populus（人民）+ -ar 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "流行的，受欢迎的；大众的，民众的；通俗的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "流行音乐，大众文化"
+        }
+      ],
+      "suffix": "-ar",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "populate",
+      "pronunciation": "/ˈpɒpjuleɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 居住于，构成人口",
+      "collocations": [
+        "populate the area",
+        "populate with",
+        "populated by",
+        "densely populated"
+      ],
+      "examples": [
+        "The island is populated by birds.",
+        "Immigrants populated the city."
+      ],
+      "etymology": "来自拉丁语 populus（人民）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "居住于，构成人口"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "populous",
+      "pronunciation": "/ˈpɒpjələs/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 人口稠密的",
+      "collocations": [
+        "populous city",
+        "populous region",
+        "populous country",
+        "most populous"
+      ],
+      "examples": [
+        "Tokyo is a populous city.",
+        "India is the most populous nation."
+      ],
+      "etymology": "来自拉丁语 populus（人民）+ -ous 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "人口稠密的"
+        }
+      ],
+      "suffix": "-ous",
+      "suffixMeaning": "多…的"
+    }
+  ]
+}

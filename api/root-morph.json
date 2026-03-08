@@ -1,0 +1,83 @@
+{
+  "root": "morph",
+  "meaning": "形状，形态",
+  "words": [
+    {
+      "word": "metamorphosis",
+      "pronunciation": "/ˌmetəˈmɔːfəsɪs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 变形，变态；蜕变",
+      "collocations": [
+        "complete metamorphosis",
+        "undergo metamorphosis",
+        "metamorphosis of",
+        "remarkable metamorphosis"
+      ],
+      "examples": [
+        "The caterpillar undergoes metamorphosis to become a butterfly.",
+        "The city has undergone a remarkable metamorphosis."
+      ],
+      "etymology": "来自希腊语 meta-（变化）+ morphe（形状）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "变形，变态；蜕变"
+        }
+      ],
+      "prefix": "meta-",
+      "prefixMeaning": "变化"
+    },
+    {
+      "word": "morphology",
+      "pronunciation": "/mɔːˈfɒlədʒi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 形态学，形态论；形态，结构",
+      "collocations": [
+        "study morphology",
+        "plant morphology",
+        "morphology of",
+        "urban morphology"
+      ],
+      "examples": [
+        "Linguistics includes the study of morphology.",
+        "The morphology of the building is unique."
+      ],
+      "etymology": "来自希腊语 morphe（形状）+ logos（学科）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "形态学，形态论；形态，结构"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "amorphous",
+      "pronunciation": "/əˈmɔːfəs/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 无定形的，无组织的",
+      "collocations": [
+        "amorphous mass",
+        "amorphous structure",
+        "amorphous solid",
+        "amorphous shape"
+      ],
+      "examples": [
+        "The cloud was an amorphous mass.",
+        "The organization has an amorphous structure."
+      ],
+      "etymology": "来自希腊语 a-（无）+ morphe（形状）+ -ous 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "无定形的，无组织的"
+        }
+      ],
+      "suffix": "-ous",
+      "prefix": "a-",
+      "suffixMeaning": "多…的",
+      "prefixMeaning": "无"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "root": "nomin",
+  "meaning": "名字",
+  "words": [
+    {
+      "word": "nominate",
+      "pronunciation": "/ˈnɒmɪneɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 提名，任命；指定",
+      "collocations": [
+        "nominate for",
+        "nominate someone",
+        "nominate a candidate",
+        "nominate for award"
+      ],
+      "examples": [
+        "She was nominated for an Oscar.",
+        "They nominated him as chairman."
+      ],
+      "etymology": "来自拉丁语 nomen（名字）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "提名，任命；指定"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "nomination",
+      "pronunciation": "/ˌnɒmɪˈneɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 提名，任命；被提名",
+      "collocations": [
+        "nomination process",
+        "nomination ceremony",
+        "receive nomination",
+        "nomination for"
+      ],
+      "examples": [
+        "His nomination was announced.",
+        "The nomination process is underway."
+      ],
+      "etymology": "来自拉丁语 nomen（名字）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "提名，任命；被提名"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "提名，任命"
+        }
+      ],
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "nominal",
+      "pronunciation": "/ˈnɒmɪnl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 名义上的，象征性的；小额的",
+      "collocations": [
+        "nominal fee",
+        "nominal head",
+        "nominal charge",
+        "purely nominal"
+      ],
+      "examples": [
+        "He is the nominal leader.",
+        "There is a nominal fee for entry."
+      ],
+      "etymology": "来自拉丁语 nomen（名字）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "名义上的，象征性的；小额的"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "denomination",
+      "pronunciation": "/dɪˌnɒmɪˈneɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 名称， denomination；宗教派别",
+      "collocations": [
+        "religious denomination",
+        "bill denomination",
+        "Christian denomination",
+        "various denominations"
+      ],
+      "examples": [
+        "The bill is of small denomination.",
+        "Many Christian denominations exist."
+      ],
+      "etymology": "来自拉丁语 de-（下）+ nomen（名字）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "名称， denomination；宗教派别"
+        }
+      ],
+      "suffix": "-ation",
+      "prefix": "de-",
+      "prefixMeaning": "下",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

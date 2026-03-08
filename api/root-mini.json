@@ -1,0 +1,114 @@
+{
+  "root": "mini",
+  "meaning": "小",
+  "words": [
+    {
+      "word": "mini",
+      "pronunciation": "/ˈmɪni/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 微型的，小型的",
+      "collocations": [
+        "mini skirt",
+        "mini cooper",
+        "mini version",
+        "mini game"
+      ],
+      "examples": [
+        "She wore a mini skirt.",
+        "He drives a Mini Cooper."
+      ],
+      "etymology": "来自拉丁语 minimus（最小）的缩写",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "微型的，小型的"
+        }
+      ],
+      "suffix": "-i",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "miniature",
+      "pronunciation": "/ˈmɪnɪətʃə/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 微型的，缩小的 n. miniature，缩影",
+      "collocations": [
+        "miniature model",
+        "miniature painting",
+        "in miniature",
+        "miniature version"
+      ],
+      "examples": [
+        "The miniature model is detailed.",
+        "She collects miniature dolls."
+      ],
+      "etymology": "来自拉丁语 minium（红铅）+ -ature 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "微型的，缩小的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": " miniature，缩影"
+        }
+      ],
+      "suffix": "-ature",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "minimize",
+      "pronunciation": "/ˈmɪnɪmaɪz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 最小化，减少；贬低",
+      "collocations": [
+        "minimize risk",
+        "minimize costs",
+        "minimize the impact",
+        "minimize errors"
+      ],
+      "examples": [
+        "We need to minimize the risks.",
+        "Dont minimize her achievements."
+      ],
+      "etymology": "来自拉丁语 minimus（最小）+ -ize 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "最小化，减少；贬低"
+        }
+      ],
+      "suffix": "-ize",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "minimum",
+      "pronunciation": "/ˈmɪnɪməm/",
+      "partOfSpeech": "n./adj.",
+      "definition": "n. 最小值，最低限度 adj. 最小的",
+      "collocations": [
+        "minimum wage",
+        "minimum requirement",
+        "absolute minimum",
+        "minimum of"
+      ],
+      "examples": [
+        "The minimum wage is 15 dollars per hour.",
+        "We need a minimum of 10 people."
+      ],
+      "etymology": "来自拉丁语 minimus（最小）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "最小值，最低限度"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "最小的"
+        }
+      ],
+      "suffix": "-um",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

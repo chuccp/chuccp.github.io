@@ -1,0 +1,114 @@
+{
+  "root": "nounce",
+  "meaning": "报告，讲述",
+  "words": [
+    {
+      "word": "announce",
+      "pronunciation": "/əˈnaʊns/",
+      "partOfSpeech": "v.",
+      "definition": "v. 宣布，宣告；发表，公布；通知，告知",
+      "collocations": [
+        "announce a plan",
+        "announce the news",
+        "officially announce",
+        "announce winners"
+      ],
+      "examples": [
+        "The company announced a new product.",
+        "They announced their engagement yesterday."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ nuntiare（报告）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "宣布，宣告；发表，公布；通知，告知"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "宣布，宣告"
+        }
+      ],
+      "prefix": "ad-",
+      "prefixMeaning": "向"
+    },
+    {
+      "word": "announcement",
+      "pronunciation": "/əˈnaʊnsmənt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 宣布，公告",
+      "collocations": [
+        "make an announcement",
+        "public announcement",
+        "surprise announcement",
+        "official announcement"
+      ],
+      "examples": [
+        "The CEO made an important announcement.",
+        "We await the official announcement."
+      ],
+      "etymology": "来自 announce + -ment 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "宣布，公告"
+        }
+      ],
+      "suffix": "-ment",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "denounce",
+      "pronunciation": "/dɪˈnaʊns/",
+      "partOfSpeech": "v.",
+      "definition": "v. 谴责，指责；告发",
+      "collocations": [
+        "denounce violence",
+        "denounce the attack",
+        "publicly denounce",
+        "denounce as"
+      ],
+      "examples": [
+        "The leader denounced the violence.",
+        "She publicly denounced the policy."
+      ],
+      "etymology": "来自拉丁语 de-（下）+ nuntiare（报告）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "谴责，指责；告发"
+        }
+      ],
+      "prefix": "de-",
+      "prefixMeaning": "下"
+    },
+    {
+      "word": "pronounce",
+      "pronunciation": "/prəˈnaʊns/",
+      "partOfSpeech": "v.",
+      "definition": "v. 发音，读；宣布，宣判；断言，声称",
+      "collocations": [
+        "pronounce a word",
+        "pronounce judgment",
+        "pronounce dead",
+        "pronounce guilty"
+      ],
+      "examples": [
+        "How do you pronounce this word?",
+        "The judge pronounced him guilty."
+      ],
+      "etymology": "来自拉丁语 pro-（前）+ nuntiare（报告）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "发音，读；宣布，宣判；断言，声称"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "发音，读法"
+        }
+      ],
+      "prefix": "pro-",
+      "prefixMeaning": "前"
+    }
+  ]
+}

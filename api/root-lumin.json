@@ -1,0 +1,83 @@
+{
+  "root": "lumin",
+  "meaning": "光",
+  "words": [
+    {
+      "word": "luminous",
+      "pronunciation": "/ˈluːmɪnəs/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 发光的，明亮的；清楚的，辉煌的",
+      "collocations": [
+        "luminous dial",
+        "luminous paint",
+        "luminous body",
+        "luminous flux"
+      ],
+      "examples": [
+        "The watch has a luminous dial.",
+        "The luminous paint glows in the dark."
+      ],
+      "etymology": "来自拉丁语 lumen（光）+ -ous 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "发光的，明亮的；清楚的，辉煌的"
+        }
+      ],
+      "suffix": "-ous",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "illuminate",
+      "pronunciation": "/ɪˈluːmɪneɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 照明，照亮；阐明，说明；使灿烂，使辉煌",
+      "collocations": [
+        "illuminate the room",
+        "illuminate the text",
+        "illuminate the path",
+        "brightly illuminate"
+      ],
+      "examples": [
+        "The lights illuminated the building.",
+        "The notes illuminate the difficult passages."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ lumen（光）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "照明，照亮；阐明，说明；使灿烂，使辉煌"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "in-",
+      "prefixMeaning": "入",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "luminary",
+      "pronunciation": "/ˈluːmɪnəri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 杰出人物，发光体",
+      "collocations": [
+        "religious luminary",
+        "literary luminary",
+        "celestial luminary",
+        "leading luminary"
+      ],
+      "examples": [
+        "He is a luminary in the field of physics.",
+        "The sun is the chief luminary of the day."
+      ],
+      "etymology": "来自拉丁语 lumen（光）+ -ary 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "杰出人物，发光体"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

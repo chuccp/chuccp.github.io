@@ -1,0 +1,116 @@
+{
+  "root": "spir",
+  "meaning": "呼吸",
+  "words": [
+    {
+      "word": "spirit",
+      "pronunciation": "/ˈspɪrɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 精神，心灵；灵魂，幽灵；勇气，锐气；情绪，心情",
+      "collocations": [
+        "team spirit",
+        "in spirit",
+        "high spirits",
+        "free spirit"
+      ],
+      "examples": [
+        "The team spirit was high.",
+        "She is a free spirit."
+      ],
+      "etymology": "来自拉丁语 spirare（呼吸）+ -it 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "精神，心灵；灵魂，幽灵；勇气，锐气；情绪，心情"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "鼓舞，激励；带走（灵魂）"
+        }
+      ],
+      "suffix": "-it",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "inspire",
+      "pronunciation": "/ɪnˈspaɪə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 鼓舞，激励；使产生灵感；吸入，吸气",
+      "collocations": [
+        "inspire someone",
+        "inspire confidence",
+        "inspire change",
+        "deeply inspire"
+      ],
+      "examples": [
+        "Her speech inspired the audience.",
+        "The teacher inspired him to study science."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ spirare（呼吸）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "鼓舞，激励；使产生灵感；吸入，吸气"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "鼓舞，激励"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "入"
+    },
+    {
+      "word": "expire",
+      "pronunciation": "/ɪkˈspaɪə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 到期，呼气；断气",
+      "collocations": [
+        "expire soon",
+        "expire on",
+        "contract expire",
+        "license expire"
+      ],
+      "examples": [
+        "My passport expires next month.",
+        "The contract expired yesterday."
+      ],
+      "etymology": "来自拉丁语 ex-（出）+ spirare（呼吸）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "到期，呼气；断气"
+        }
+      ],
+      "prefix": "ex-",
+      "prefixMeaning": "出"
+    },
+    {
+      "word": "respiration",
+      "pronunciation": "/ˌrespəˈreɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 呼吸",
+      "collocations": [
+        "artificial respiration",
+        "rate of respiration",
+        "respiration system",
+        "respiration rate"
+      ],
+      "examples": [
+        "The patient needs artificial respiration.",
+        "Respiration is essential for life."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ spirare（呼吸）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "呼吸"
+        }
+      ],
+      "suffix": "-ation",
+      "prefix": "re-",
+      "prefixMeaning": "回",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "root": "man",
+  "meaning": "手",
+  "words": [
+    {
+      "word": "manual",
+      "pronunciation": "/ˈmænjuəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 手工的，体力的；用手操作的 n. 手册，指南；便览，教程",
+      "collocations": [
+        "manual labor",
+        "user manual",
+        "instruction manual",
+        "manual transmission"
+      ],
+      "examples": [
+        "The work requires manual labor.",
+        "Read the user manual carefully."
+      ],
+      "etymology": "来自拉丁语 manus（手）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "手工的，体力的；用手操作的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "手册，指南；便览，教程"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "manage",
+      "pronunciation": "/ˈmænɪdʒ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 管理，经营；设法做到；操控，驾驭",
+      "collocations": [
+        "manage a team",
+        "manage to do",
+        "manage the business",
+        "manage time"
+      ],
+      "examples": [
+        "She manages a large team.",
+        "He managed to finish on time."
+      ],
+      "etymology": "来自拉丁语 manus（手）+ agere（做）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "管理，经营；设法做到；操控，驾驭"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "管理，经营"
+        }
+      ],
+      "suffix": "-age",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "manufacture",
+      "pronunciation": "/ˌmænjuˈfæktʃə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 制造，生产；加工；捏造，编造 n. 制造，制造业；产品，制品",
+      "collocations": [
+        "manufacture goods",
+        "car manufacture",
+        "mass manufacture",
+        "manufacture process"
+      ],
+      "examples": [
+        "The company manufactures electronics.",
+        "The manufacture of cars is automated."
+      ],
+      "etymology": "来自拉丁语 manus（手）+ facere（做）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "制造，生产；加工；捏造，编造"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "制造，制造业；产品，制品"
+        }
+      ],
+      "suffix": "-ture",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "manuscript",
+      "pronunciation": "/ˈmænjəskrɪpt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 手稿，原稿",
+      "collocations": [
+        "ancient manuscript",
+        "submit manuscript",
+        "manuscript of",
+        "publish manuscript"
+      ],
+      "examples": [
+        "The manuscript was discovered in a cave.",
+        "She submitted her manuscript to publishers."
+      ],
+      "etymology": "来自拉丁语 manus（手）+ scriptus（写）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "手稿，原稿"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "root": "port",
+  "meaning": "携带",
+  "words": [
+    {
+      "word": "portable",
+      "pronunciation": "/ˈpɔːtəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 便携的，手提的；轻便的，可携带的",
+      "collocations": [
+        "portable device",
+        "portable computer",
+        "highly portable",
+        "portable speaker"
+      ],
+      "examples": [
+        "The speaker is portable.",
+        "He bought a portable TV."
+      ],
+      "etymology": "来自拉丁语 portare（携带）+ -able 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "便携的，手提的；轻便的，可携带的"
+        }
+      ],
+      "suffix": "-able",
+      "suffixMeaning": "能…的"
+    },
+    {
+      "word": "transport",
+      "pronunciation": "/trænsˈpɔːt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 运输，运送；使激动，使狂喜 n. 运输，运送；交通工具，运输工具；激动，狂喜",
+      "collocations": [
+        "public transport",
+        "transport goods",
+        "transport system",
+        "transport passengers"
+      ],
+      "examples": [
+        "Trucks transport goods.",
+        "Public transport is convenient."
+      ],
+      "etymology": "来自拉丁语 trans-（穿过）+ portare（携带）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "运输，运送；使激动，使狂喜"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "运输，运送；交通工具，运输工具；激动，狂喜"
+        }
+      ],
+      "prefix": "trans-",
+      "prefixMeaning": "穿过"
+    },
+    {
+      "word": "import",
+      "pronunciation": "/ˈɪmpɔːt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 进口，输入；引进，传入；意味着，表示 n. 进口，输入；进口商品，输入额；意义，重要性",
+      "collocations": [
+        "import goods",
+        "import from",
+        "import duty",
+        "import/export"
+      ],
+      "examples": [
+        "The country imports oil.",
+        "Imports increased last year."
+      ],
+      "etymology": "来自拉丁语 im-（入）+ portare（携带）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "进口，输入；引进，传入；意味着，表示"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "进口，输入；进口商品，输入额；意义，重要性"
+        }
+      ],
+      "prefix": "im-",
+      "prefixMeaning": "入"
+    },
+    {
+      "word": "export",
+      "pronunciation": "/ˈekspɔːt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 出口，输出；传播，流传 n. 出口，输出；出口商品，输出额",
+      "collocations": [
+        "export goods",
+        "export to",
+        "export market",
+        "export control"
+      ],
+      "examples": [
+        "The company exports electronics.",
+        "Exports are vital to the economy."
+      ],
+      "etymology": "来自拉丁语 ex-（出）+ portare（携带）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "出口，输出；传播，流传"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "出口，输出；出口商品，输出额"
+        }
+      ],
+      "prefix": "ex-",
+      "prefixMeaning": "出"
+    }
+  ]
+}

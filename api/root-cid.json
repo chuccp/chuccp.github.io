@@ -1,0 +1,84 @@
+{
+  "root": "cid",
+  "meaning": "切，杀",
+  "words": [
+    {
+      "word": "decide",
+      "pronunciation": "/dɪˈsaɪd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 决定，决断；裁决，判决；下决心",
+      "collocations": [
+        "decide on",
+        "decide to",
+        "decide between",
+        "make a decision"
+      ],
+      "examples": [
+        "I decided to go to college after high school.",
+        "The judge will decide the case tomorrow."
+      ],
+      "etymology": "来自拉丁语 caedere（切）+ de-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "决定，决断；裁决，判决；下决心"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "决定，决策"
+        }
+      ],
+      "prefix": "de-",
+      "prefixMeaning": "下，离开"
+    },
+    {
+      "word": "suicide",
+      "pronunciation": "/ˈsuːɪsaɪd/",
+      "partOfSpeech": "n.",
+      "definition": "n. 自杀；自杀行为",
+      "collocations": [
+        "commit suicide",
+        "suicide rate",
+        "suicide prevention",
+        "assisted suicide"
+      ],
+      "examples": [
+        "The suicide rate has increased in recent years.",
+        "He committed suicide last year."
+      ],
+      "etymology": "来自拉丁语 sui（自己）+ caedere（杀）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "自杀；自杀行为"
+        }
+      ],
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "homicide",
+      "pronunciation": "/ˈhɒmɪsaɪd/",
+      "partOfSpeech": "n.",
+      "definition": "n. 杀人；杀人犯",
+      "collocations": [
+        "commit homicide",
+        "homicide investigation",
+        "first-degree homicide"
+      ],
+      "examples": [
+        "The police are investigating the homicide.",
+        "He was charged with homicide."
+      ],
+      "etymology": "来自拉丁语 homo（人）+ caedere（杀）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "杀人；杀人犯"
+        }
+      ],
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

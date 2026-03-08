@@ -1,0 +1,114 @@
+{
+  "root": "photo",
+  "meaning": "光",
+  "words": [
+    {
+      "word": "photo",
+      "pronunciation": "/ˈfəʊtəʊ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 照片，相片 v. 拍照，摄影",
+      "collocations": [
+        "take a photo",
+        "photo album",
+        "photo gallery",
+        "family photo"
+      ],
+      "examples": [
+        "She took a photo of the sunset.",
+        "This is an old family photo."
+      ],
+      "etymology": "来自希腊语 phos（光）的缩写",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "照片，相片"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "拍照，摄影"
+        }
+      ],
+      "suffix": "-o",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "photograph",
+      "pronunciation": "/ˈfəʊtəɡrɑːf/",
+      "partOfSpeech": "n.",
+      "definition": "n. 照片，相片 v. 拍照，摄影",
+      "collocations": [
+        "take a photograph",
+        "black and white photograph",
+        "photograph of",
+        "digital photograph"
+      ],
+      "examples": [
+        "She took a photograph of the building.",
+        "This is an old photograph."
+      ],
+      "etymology": "来自希腊语 photo-（光）+ graphein（写）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "照片，相片"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "拍照，摄影"
+        }
+      ],
+      "suffix": "-graph",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "photosynthesis",
+      "pronunciation": "/ˌfəʊtəʊˈsɪnθəsɪs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 光合作用",
+      "collocations": [
+        "process of photosynthesis",
+        "photosynthesis in plants",
+        "photosynthesis reaction",
+        "photosynthesis rate"
+      ],
+      "examples": [
+        "Plants use photosynthesis to make food.",
+        "Photosynthesis requires sunlight."
+      ],
+      "etymology": "来自希腊语 photo-（光）+ synthesis（合成）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "光合作用"
+        }
+      ],
+      "suffix": "-sis",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "photon",
+      "pronunciation": "/ˈfəʊtɒn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 光子",
+      "collocations": [
+        "single photon",
+        "photon energy",
+        "photon emission",
+        "photon detector"
+      ],
+      "examples": [
+        "A photon is a particle of light.",
+        "Photons carry electromagnetic energy."
+      ],
+      "etymology": "来自希腊语 phos（光）+ -on 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "光子"
+        }
+      ],
+      "suffix": "-on",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

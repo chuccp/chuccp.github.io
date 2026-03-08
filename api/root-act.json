@@ -1,0 +1,89 @@
+{
+  "root": "act",
+  "meaning": "行动",
+  "words": [
+    {
+      "word": "action",
+      "pronunciation": "/ˈækʃn/",
+      "collocations": [
+        "take action",
+        "action plan",
+        "legal action",
+        "course of action"
+      ],
+      "etymology": "来自拉丁语 agere（做）+ -tion 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "行动，行为；作用，功能；战斗，军事行动；诉讼，法律程序；情节，故事"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "行动，表现；起作用"
+        }
+      ],
+      "examples": [
+        "We need to take action before it is too late.",
+        "The government has taken decisive action."
+      ],
+      "partOfSpeech": "n.",
+      "definition": "n. 行动，行为；作用，功能；战斗，军事行动；诉讼，法律程序；情节，故事 v. 行动，表现；起作用",
+      "suffix": "-tion",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "active",
+      "pronunciation": "/ˈæktɪv/",
+      "collocations": [
+        "active lifestyle",
+        "active participation",
+        "active member",
+        "volcanically active"
+      ],
+      "etymology": "来自拉丁语 agere（做）+ -ive 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "活跃的，积极的；主动的，有效的；现役的；语法上的主动态"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "主动语态；积极分子"
+        }
+      ],
+      "examples": [
+        "She leads an active life.",
+        "He is an active member of the community."
+      ],
+      "partOfSpeech": "adj.",
+      "definition": "adj. 活跃的，积极的；主动的，有效的；现役的 n. 主动语态；积极分子",
+      "suffix": "-ive",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "react",
+      "pronunciation": "/riˈækt/",
+      "collocations": [
+        "react to",
+        "react quickly",
+        "react positively",
+        "react negatively"
+      ],
+      "etymology": "来自拉丁语 agere（做）+ re-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "反应，回应；起化学反应；抗拒，反抗"
+        }
+      ],
+      "examples": [
+        "How did she react to the news?",
+        "The market reacted strongly to the announcement."
+      ],
+      "partOfSpeech": "v.",
+      "definition": "v. 反应，回应；起化学反应；抗拒，反抗",
+      "prefix": "re-",
+      "prefixMeaning": "回，再"
+    }
+  ]
+}

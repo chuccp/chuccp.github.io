@@ -1,0 +1,81 @@
+{
+  "root": "patr",
+  "meaning": "父，祖国",
+  "words": [
+    {
+      "word": "patriot",
+      "pronunciation": "/ˈpætriət/",
+      "partOfSpeech": "n.",
+      "definition": "n. 爱国者",
+      "collocations": [
+        "true patriot",
+        "fierce patriot",
+        "patriot spirit",
+        "patriot heart"
+      ],
+      "examples": [
+        "He is a true patriot who loves his country.",
+        "The patriots fought for independence."
+      ],
+      "etymology": "来自希腊语 patris（祖国）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "爱国者"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "patriotic",
+      "pronunciation": "/ˌpætriˈɒtɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 爱国的",
+      "collocations": [
+        "patriotic song",
+        "patriotic duty",
+        "patriotic feeling",
+        "patriotic citizen"
+      ],
+      "examples": [
+        "The patriotic song moved the audience.",
+        "She has a strong patriotic feeling."
+      ],
+      "etymology": "来自希腊语 patris（祖国）+ -otic 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "爱国的"
+        }
+      ],
+      "suffix": "-ic",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "patrimony",
+      "pronunciation": "/ˈpætrɪməni/",
+      "partOfSpeech": "n.",
+      "definition": "n. 遗产，继承物；祖传",
+      "collocations": [
+        "family patrimony",
+        "cultural patrimony",
+        "patrimony of",
+        "national patrimony"
+      ],
+      "examples": [
+        "The castle is part of our national patrimony.",
+        "He received a patrimony from his father."
+      ],
+      "etymology": "来自拉丁语 pater（父亲）+ -monium 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "遗产，继承物；祖传"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    }
+  ]
+}

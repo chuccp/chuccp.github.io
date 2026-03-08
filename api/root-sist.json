@@ -1,0 +1,118 @@
+{
+  "root": "sist",
+  "meaning": "站立",
+  "words": [
+    {
+      "word": "assist",
+      "pronunciation": "/əˈsɪst/",
+      "partOfSpeech": "v.",
+      "definition": "v. 帮助，协助；出席，参加",
+      "collocations": [
+        "assist with",
+        "assist in",
+        "assist someone",
+        "assist the team"
+      ],
+      "examples": [
+        "Can I assist you?",
+        "She assisted with the project."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ sistere（站立）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "帮助，协助；出席，参加"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "帮助，协助"
+        }
+      ],
+      "prefix": "ad-",
+      "prefixMeaning": "向"
+    },
+    {
+      "word": "resist",
+      "pronunciation": "/rɪˈzɪst/",
+      "partOfSpeech": "v.",
+      "definition": "v. 抵抗，反抗；抵制，抗拒；忍住，耐住",
+      "collocations": [
+        "resist temptation",
+        "resist change",
+        "resist the urge",
+        "resist arrest"
+      ],
+      "examples": [
+        "He could not resist the temptation.",
+        "The army resisted the attack."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ sistere（站立）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "抵抗，反抗；抵制，抗拒；忍住，耐住"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "抵抗，反抗；抵制"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    },
+    {
+      "word": "persist",
+      "pronunciation": "/pəˈsɪst/",
+      "partOfSpeech": "v.",
+      "definition": "v. 坚持，持续；执意，固执；存留，残存",
+      "collocations": [
+        "persist in",
+        "persist with",
+        "persist despite",
+        "symptoms persist"
+      ],
+      "examples": [
+        "She persisted in her efforts.",
+        "The pain persists."
+      ],
+      "etymology": "来自拉丁语 per-（完全）+ sistere（站立）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "坚持，持续；执意，固执；存留，残存"
+        }
+      ],
+      "prefix": "per-",
+      "prefixMeaning": "完全"
+    },
+    {
+      "word": "consist",
+      "pronunciation": "/kənˈsɪst/",
+      "partOfSpeech": "v.",
+      "definition": "v. 组成，在于；一致，符合",
+      "collocations": [
+        "consist of",
+        "consist in",
+        "consist entirely",
+        "consist mainly"
+      ],
+      "examples": [
+        "The team consists of five members.",
+        "Happiness consists in contentment."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ sistere（站立）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "组成，在于；一致，符合"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "组成，构成"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "一起"
+    }
+  ]
+}

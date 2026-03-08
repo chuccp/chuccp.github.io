@@ -1,0 +1,110 @@
+{
+  "root": "cent",
+  "meaning": "百，百分之一",
+  "words": [
+    {
+      "word": "century",
+      "pronunciation": "/ˈsentʃəri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 世纪，百年",
+      "collocations": [
+        "21st century",
+        "last century",
+        "over a century",
+        "century old"
+      ],
+      "examples": [
+        "The company was founded in the 19th century.",
+        "A lot has changed over the last century."
+      ],
+      "etymology": "来自拉丁语 centum（一百）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "世纪，百年"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "percent",
+      "pronunciation": "/pəˈsent/",
+      "partOfSpeech": "n.",
+      "definition": "n. 百分比，百分率",
+      "collocations": [
+        "percent of",
+        "percentage point",
+        "small percent",
+        "large percent"
+      ],
+      "examples": [
+        "The discount is 20 percent.",
+        "A small percent of the population agreed."
+      ],
+      "etymology": "来自拉丁语 per（每）+ centum（一百）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "百分比，百分率"
+        }
+      ],
+      "suffix": "-ent",
+      "suffixMeaning": "形容词后缀"
+    },
+    {
+      "word": "centimeter",
+      "pronunciation": "/ˈsentɪmiːtər/",
+      "partOfSpeech": "n.",
+      "definition": "n. 厘米",
+      "collocations": [
+        "per centimeter",
+        "square centimeter",
+        "centimeter long",
+        "ten centimeters"
+      ],
+      "examples": [
+        "The ruler is 30 centimeters long.",
+        "Rainfall was measured in centimeters."
+      ],
+      "etymology": "来自拉丁语 centum（一百）+ 希腊语 metron（测量）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "厘米"
+        }
+      ],
+      "suffix": "-meter",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "centennial",
+      "pronunciation": "/senˈtenɪəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 百年的，一百年一次的 n. 百年纪念",
+      "collocations": [
+        "centennial celebration",
+        "centennial anniversary",
+        "centennial year",
+        "centennial of"
+      ],
+      "examples": [
+        "The city celebrated its centennial last year.",
+        "This year marks the centennial of the museum."
+      ],
+      "etymology": "来自拉丁语 centum（一百）+ annus（年）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "百年的，一百年一次的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "百年纪念"
+        }
+      ],
+      "suffix": "-ial",
+      "suffixMeaning": "…的"
+    }
+  ]
+}

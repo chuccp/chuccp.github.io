@@ -1,0 +1,61 @@
+{
+  "root": "brev",
+  "meaning": "短",
+  "words": [
+    {
+      "word": "brief",
+      "pronunciation": "/briːf/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 短暂的，短时间的；简短的，简洁的 n. 摘要，简报；案情摘要 v. 向...介绍情况，向...下达指示",
+      "collocations": [
+        "brief introduction",
+        "in brief",
+        "brief meeting",
+        "briefcase"
+      ],
+      "examples": [
+        "Let me give you a brief overview of the project.",
+        "The meeting was very brief, lasting only ten minutes."
+      ],
+      "etymology": "来自拉丁语 brevis（短的）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "短暂的，短时间的；简短的，简洁的；短暂的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "摘要，简报；案情摘要；（女式）短内裤"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "向...介绍情况，向...下达指示"
+        }
+      ]
+    },
+    {
+      "word": "brevity",
+      "pronunciation": "/ˈbrevəti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 简洁，简短；短暂，短促",
+      "collocations": [
+        "brevity is the soul of wit",
+        "for brevity",
+        "political brevity"
+      ],
+      "examples": [
+        "Brevity is the soul of wit.",
+        "The report was notable for its brevity."
+      ],
+      "etymology": "来自拉丁语 brevis（短的）+ -ty 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "简洁，简短；短暂，短促"
+        }
+      ],
+      "suffix": "-ty",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

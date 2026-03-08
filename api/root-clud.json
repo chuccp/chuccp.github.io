@@ -1,0 +1,118 @@
+{
+  "root": "clud",
+  "meaning": "关闭",
+  "words": [
+    {
+      "word": "conclude",
+      "pronunciation": "/kənˈkluːd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 结束，终止；得出结论；缔结，订立",
+      "collocations": [
+        "conclude a deal",
+        "conclude that",
+        "conclude meeting",
+        "conclusion"
+      ],
+      "examples": [
+        "Let me conclude by saying thank you.",
+        "The police concluded that it was an accident."
+      ],
+      "etymology": "来自拉丁语 cludere（关闭）+ con-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "结束，终止；得出结论；缔结，订立"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "结论，结束"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "共同"
+    },
+    {
+      "word": "exclude",
+      "pronunciation": "/ɪkˈskluːd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 排除，排斥；拒绝接纳；不包括",
+      "collocations": [
+        "exclude from",
+        "exclude possibility",
+        "exclude someone",
+        "exclusive"
+      ],
+      "examples": [
+        "Children are excluded from the meeting.",
+        "This offer excludes special items."
+      ],
+      "etymology": "来自拉丁语 cludere（关闭）+ ex-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "排除，排斥；拒绝接纳；不包括"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "排除，除外"
+        }
+      ],
+      "prefix": "ex-",
+      "prefixMeaning": "出，外"
+    },
+    {
+      "word": "include",
+      "pronunciation": "/ɪnˈkluːd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 包括，包含；计入；把...列入",
+      "collocations": [
+        "include in",
+        "include on the list",
+        "including",
+        "inclusive"
+      ],
+      "examples": [
+        "The price includes breakfast.",
+        "Please include me in your plans."
+      ],
+      "etymology": "来自拉丁语 cludere（关闭）+ in-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "包括，包含；计入；把...列入"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "包含的，包括的"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "入，内"
+    },
+    {
+      "word": "preclude",
+      "pronunciation": "/prɪˈkluːd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 阻止，排除；妨碍",
+      "collocations": [
+        "preclude from",
+        "preclude possibility",
+        "preclude participation",
+        "effectively preclude"
+      ],
+      "examples": [
+        "The injury precluded him from playing.",
+        "This does not preclude other options."
+      ],
+      "etymology": "来自拉丁语 cludere（关闭）+ pre-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "阻止，排除；妨碍"
+        }
+      ],
+      "prefix": "pre-",
+      "prefixMeaning": "前，预先"
+    }
+  ]
+}

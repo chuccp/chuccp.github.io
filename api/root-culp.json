@@ -1,0 +1,71 @@
+{
+  "root": "culp",
+  "meaning": "罪",
+  "words": [
+    {
+      "word": "culprit",
+      "pronunciation": "/ˈkʌlprɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 罪犯，犯人；起因",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "罪犯"
+        }
+      ],
+      "collocations": [
+        "find culprit"
+      ],
+      "examples": [
+        "The culprit was caught."
+      ],
+      "etymology": "culp（罪）+ -rit",
+      "suffix": "-it",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "culpable",
+      "pronunciation": "/ˈkʌlpəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 有罪的，应受谴责的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "有罪的"
+        }
+      ],
+      "collocations": [
+        "culpable negligence"
+      ],
+      "examples": [
+        "He was culpable."
+      ],
+      "etymology": "culp（罪）+ -able",
+      "suffix": "-able",
+      "suffixMeaning": "能…的"
+    },
+    {
+      "word": "exculpate",
+      "pronunciation": "/ˈekskʌlpeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 开脱，使无罪",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "开脱"
+        }
+      ],
+      "collocations": [
+        "exculpate someone"
+      ],
+      "examples": [
+        "Evidence exculpated him."
+      ],
+      "etymology": "ex-（出）+ culp（罪）+ -ate",
+      "suffix": "-ate",
+      "prefix": "ex-",
+      "prefixMeaning": "出",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

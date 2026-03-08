@@ -1,0 +1,94 @@
+{
+  "root": "cur",
+  "meaning": "关心，跑",
+  "words": [
+    {
+      "word": "curious",
+      "pronunciation": "/ˈkjʊəriəs/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 好奇的，奇特的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "好奇的"
+        }
+      ],
+      "collocations": [
+        "curious about"
+      ],
+      "examples": [
+        "She is curious."
+      ],
+      "etymology": "cur（关心）+ -ious",
+      "suffix": "-ious",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "cure",
+      "pronunciation": "/kjʊə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 治愈，治疗 n. 疗法",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "治愈"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "疗法"
+        }
+      ],
+      "collocations": [
+        "cure disease"
+      ],
+      "examples": [
+        "The doctor cured him."
+      ],
+      "etymology": "cur（关心）+ -e，关心照顾",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "secure",
+      "pronunciation": "/sɪˈkjʊə/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 安全的，可靠的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "安全的"
+        }
+      ],
+      "collocations": [
+        "secure job"
+      ],
+      "examples": [
+        "Feel secure."
+      ],
+      "etymology": "se-（无）+ cur（关心）+ -e，无需担心",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "cursor",
+      "pronunciation": "/ˈkɜːsə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 光标，游标",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "光标"
+        }
+      ],
+      "collocations": [
+        "move cursor"
+      ],
+      "examples": [
+        "The cursor blinks."
+      ],
+      "etymology": "cur（跑）+ -sor，跑动的东西",
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    }
+  ]
+}

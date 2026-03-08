@@ -1,0 +1,106 @@
+{
+  "root": "san",
+  "meaning": "健康",
+  "words": [
+    {
+      "word": "sanitary",
+      "pronunciation": "/ˈsænɪtri/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 卫生的，清洁的",
+      "collocations": [
+        "sanitary conditions",
+        "sanitary products",
+        "sanitary facilities",
+        "sanitary measures"
+      ],
+      "examples": [
+        "The kitchen must be sanitary.",
+        "Sanitary conditions are important."
+      ],
+      "etymology": "来自拉丁语 sanus（健康）+ -ary 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "卫生的，清洁的"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "sanitize",
+      "pronunciation": "/ˈsænɪtaɪz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 消毒，使卫生",
+      "collocations": [
+        "sanitize hands",
+        "sanitize the surface",
+        "sanitize water",
+        "sanitize equipment"
+      ],
+      "examples": [
+        "Sanitize your hands before eating.",
+        "The water is sanitized."
+      ],
+      "etymology": "来自拉丁语 sanus（健康）+ -ize 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "消毒，使卫生"
+        }
+      ],
+      "suffix": "-ize",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "insane",
+      "pronunciation": "/ɪnˈseɪn/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 疯狂的，精神病的",
+      "collocations": [
+        "insane asylum",
+        "insane idea",
+        "go insane",
+        "insane person"
+      ],
+      "examples": [
+        "The idea is insane.",
+        "He went insane from stress."
+      ],
+      "etymology": "来自拉丁语 in-（不）+ sanus（健康）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "疯狂的，精神病的"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "不"
+    },
+    {
+      "word": "sanity",
+      "pronunciation": "/ˈsænəti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 神志正常，心智健全",
+      "collocations": [
+        "lose sanity",
+        "question sanity",
+        "sanity check",
+        "return to sanity"
+      ],
+      "examples": [
+        "He lost his sanity.",
+        "The sanity check passed."
+      ],
+      "etymology": "来自拉丁语 sanus（健康）+ -ity 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "神志正常，心智健全"
+        }
+      ],
+      "suffix": "-ity",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

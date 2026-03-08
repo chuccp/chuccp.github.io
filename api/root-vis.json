@@ -1,0 +1,110 @@
+{
+  "root": "vis",
+  "meaning": "看",
+  "words": [
+    {
+      "word": "visible",
+      "pronunciation": "/ˈvɪzəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 可见的，看得见的；明显的，显著的",
+      "collocations": [
+        "visible light",
+        "visible change",
+        "clearly visible",
+        "visible to"
+      ],
+      "examples": [
+        "The stars are visible tonight.",
+        "There was no visible damage."
+      ],
+      "etymology": "来自拉丁语 videre（看）+ -ible 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "可见的，看得见的；明显的，显著的"
+        }
+      ],
+      "suffix": "-ible",
+      "suffixMeaning": "能…的"
+    },
+    {
+      "word": "vision",
+      "pronunciation": "/ˈvɪʒn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 视力，视觉；视野，眼界；愿景，设想；幻象，幻觉",
+      "collocations": [
+        "poor vision",
+        "computer vision",
+        "vision of",
+        "have a vision"
+      ],
+      "examples": [
+        "She has 20/20 vision.",
+        "He had a vision of peace."
+      ],
+      "etymology": "来自拉丁语 videre（看）+ -ion 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "视力，视觉；视野，眼界；愿景，设想；幻象，幻觉"
+        }
+      ],
+      "suffix": "-ion",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "visit",
+      "pronunciation": "/ˈvɪzɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 参观，访问；拜访，看望 n. 参观，访问；拜访，看望",
+      "collocations": [
+        "visit a place",
+        "pay a visit",
+        "visit friends",
+        "visit the museum"
+      ],
+      "examples": [
+        "We visited Paris last summer.",
+        "The doctor made a house visit."
+      ],
+      "etymology": "来自拉丁语 visitare（看望），来自 videre（看）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "参观，访问；拜访，看望；游览，观光"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "参观，访问；拜访，看望；游览，观光"
+        }
+      ],
+      "suffix": "-it",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "visual",
+      "pronunciation": "/ˈvɪʒuəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 视觉的，可视的",
+      "collocations": [
+        "visual aid",
+        "visual effect",
+        "visual arts",
+        "visual inspection"
+      ],
+      "examples": [
+        "The presentation used visual aids.",
+        "The visual effects were impressive."
+      ],
+      "etymology": "来自拉丁语 videre（看）+ -ual 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "视觉的，可视的"
+        }
+      ],
+      "suffix": "-ual",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

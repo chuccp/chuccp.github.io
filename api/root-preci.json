@@ -1,0 +1,89 @@
+{
+  "root": "preci",
+  "meaning": "价值",
+  "words": [
+    {
+      "word": "precious",
+      "pronunciation": "/ˈpreʃəs/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 珍贵的，宝贵的",
+      "collocations": [
+        "precious metal",
+        "precious time",
+        "precious memory",
+        "precious stone"
+      ],
+      "examples": [
+        "Time is precious.",
+        "She wore precious jewels."
+      ],
+      "etymology": "来自拉丁语 pretium（价值）+ -ous 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "珍贵的，宝贵的"
+        }
+      ],
+      "suffix": "-ous",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "appreciate",
+      "pronunciation": "/əˈpriːʃieɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 欣赏，感激；增值，涨价；领会，理解",
+      "collocations": [
+        "appreciate art",
+        "appreciate your help",
+        "appreciate the value",
+        "greatly appreciate"
+      ],
+      "examples": [
+        "I appreciate your kindness.",
+        "The property appreciated in value."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ pretium（价值）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "欣赏，感激；增值，涨价；领会，理解"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "欣赏，感激"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "ad-",
+      "prefixMeaning": "向",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "depreciate",
+      "pronunciation": "/dɪˈpriːʃieɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 贬值，贬低",
+      "collocations": [
+        "depreciate in value",
+        "depreciate over time",
+        "rapidly depreciate",
+        "depreciate the currency"
+      ],
+      "examples": [
+        "Cars depreciate quickly.",
+        "The currency depreciated against the dollar."
+      ],
+      "etymology": "来自拉丁语 de-（下）+ pretium（价值）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "贬值，贬低"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "de-",
+      "prefixMeaning": "下",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

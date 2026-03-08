@@ -1,0 +1,89 @@
+{
+  "root": "meter",
+  "meaning": "测量",
+  "words": [
+    {
+      "word": "meter",
+      "pronunciation": "/ˈmiːtər/",
+      "partOfSpeech": "n.",
+      "definition": "n. 计，表，仪表；米，公尺；韵律，格律 v. 用仪表测量",
+      "collocations": [
+        "parking meter",
+        "gas meter",
+        "square meter",
+        "running meter"
+      ],
+      "examples": [
+        "The room is 5 meters long.",
+        "Put money in the parking meter."
+      ],
+      "etymology": "来自希腊语 metron（测量）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "计，表，仪表；米，公尺；韵律，格律"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "用仪表测量"
+        }
+      ],
+      "suffix": "-meter",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "thermometer",
+      "pronunciation": "/θəˈmɒmɪtər/",
+      "partOfSpeech": "n.",
+      "definition": "n. 温度计",
+      "collocations": [
+        "digital thermometer",
+        "mercury thermometer",
+        "read thermometer",
+        "clinical thermometer"
+      ],
+      "examples": [
+        "The thermometer shows 38 degrees.",
+        "She took her temperature with a thermometer."
+      ],
+      "etymology": "来自希腊语 thermē（热）+ metron（测量）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "温度计"
+        }
+      ],
+      "suffix": "-meter",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "diameter",
+      "pronunciation": "/daɪˈæmɪtər/",
+      "partOfSpeech": "n.",
+      "definition": "n. 直径；对径，直径",
+      "collocations": [
+        "circle diameter",
+        "diameter of",
+        "inside diameter",
+        "outside diameter"
+      ],
+      "examples": [
+        "The diameter of the circle is 10cm.",
+        "Measure the diameter of the pipe."
+      ],
+      "etymology": "来自希腊语 dia-（穿过）+ metron（测量）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "直径；对径，直径"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "直径的"
+        }
+      ],
+      "prefix": "dia-",
+      "prefixMeaning": "穿过"
+    }
+  ]
+}

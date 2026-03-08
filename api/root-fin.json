@@ -1,0 +1,118 @@
+{
+  "root": "fin",
+  "meaning": "结束，边界",
+  "words": [
+    {
+      "word": "finish",
+      "pronunciation": "/ˈfɪnɪʃ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 完成，结束；用完，耗尽；毁掉，杀死 n. 结束，终点；最后部分；表面处理",
+      "collocations": [
+        "finish work",
+        "finish line",
+        "finish first",
+        "finish off"
+      ],
+      "examples": [
+        "I need to finish this report by Friday.",
+        "He crossed the finish line first."
+      ],
+      "etymology": "来自拉丁语 finis（结束，边界）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "完成，结束；用完，耗尽；毁掉，杀死"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "结束，终点；最后部分；表面处理"
+        }
+      ],
+      "suffix": "-ish",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "final",
+      "pronunciation": "/ˈfaɪnl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 最终的，最后的；决定性的；不可更改的 n. 决赛；期末考试；最终考试",
+      "collocations": [
+        "final decision",
+        "final exam",
+        "reach the final",
+        "final answer"
+      ],
+      "examples": [
+        "This is my final offer.",
+        "They won the championship final."
+      ],
+      "etymology": "来自拉丁语 finis（结束）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "最终的，最后的；决定性的；不可更改的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "决赛；期末考试；最终考试"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "finite",
+      "pronunciation": "/ˈfaɪnaɪt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 有限的，限定的；有尽的",
+      "collocations": [
+        "finite number",
+        "finite resources",
+        "finite set",
+        "finite amount"
+      ],
+      "examples": [
+        "We have finite resources to work with.",
+        "The universe may be finite."
+      ],
+      "etymology": "来自拉丁语 finis（边界）+ -ite 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "有限的，限定的；有尽的"
+        }
+      ],
+      "suffix": "-te",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "infinite",
+      "pronunciation": "/ˈɪnfɪnət/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 无限的，无穷的；无数的，极大的 n. 无限，无穷；无限的事物",
+      "collocations": [
+        "infinite space",
+        "infinite possibilities",
+        "infinite love",
+        "infinite universe"
+      ],
+      "examples": [
+        "The universe seems to be infinite.",
+        "She has infinite patience with children."
+      ],
+      "etymology": "来自拉丁语 in-（不）+ finis（边界）+ -ite 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "无限的，无穷的；无数的，极大的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "无限，无穷；无限的事物"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "不"
+    }
+  ]
+}
