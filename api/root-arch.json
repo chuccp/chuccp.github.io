@@ -1,0 +1,92 @@
+{
+  "root": "arch",
+  "meaning": "统治，主",
+  "words": [
+    {
+      "word": "architect",
+      "pronunciation": "/ˈɑːkɪtekt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 建筑师，设计师",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "建筑师"
+        }
+      ],
+      "collocations": [
+        "famous architect"
+      ],
+      "examples": [
+        "He is a renowned architect."
+      ],
+      "etymology": "arch（主）+ tect（建造）",
+      "prefix": "arch-",
+      "prefixMeaning": "主"
+    },
+    {
+      "word": "monarch",
+      "pronunciation": "/ˈmɒnək/",
+      "partOfSpeech": "n.",
+      "definition": "n. 君主，帝王",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "君主"
+        }
+      ],
+      "collocations": [
+        "absolute monarch"
+      ],
+      "examples": [
+        "The monarch ruled for 50 years."
+      ],
+      "etymology": "mon（单一）+ arch（统治）",
+      "prefix": "mon-",
+      "prefixMeaning": "单一"
+    },
+    {
+      "word": "hierarchy",
+      "pronunciation": "/ˈhaɪərɑːki/",
+      "partOfSpeech": "n.",
+      "definition": "n. 等级制度，层级",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "等级制度"
+        }
+      ],
+      "collocations": [
+        "social hierarchy"
+      ],
+      "examples": [
+        "The company has a strict hierarchy."
+      ],
+      "etymology": "hier（神圣）+ arch（统治）+ -y",
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "anarchy",
+      "pronunciation": "/ˈænəki/",
+      "partOfSpeech": "n.",
+      "definition": "n. 无政府状态，混乱",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "无政府状态"
+        }
+      ],
+      "collocations": [
+        "state of anarchy"
+      ],
+      "examples": [
+        "The country fell into anarchy."
+      ],
+      "etymology": "an-（无）+ arch（统治）+ -y",
+      "prefix": "an-",
+      "prefixMeaning": "无",
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    }
+  ]
+}

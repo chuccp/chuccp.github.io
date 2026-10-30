@@ -1,0 +1,104 @@
+{
+  "root": "labor",
+  "meaning": "劳动，工作",
+  "words": [
+    {
+      "word": "labor",
+      "pronunciation": "/ˈleɪbə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 劳动，工作；劳工",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "劳动；劳工"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "劳动"
+        }
+      ],
+      "collocations": [
+        "hard labor",
+        "labor union"
+      ],
+      "examples": [
+        "Manual labor is tiring."
+      ],
+      "etymology": "labor（劳动）",
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "collaborate",
+      "pronunciation": "/kəˈlæbəreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 合作，协作",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "合作，协作"
+        }
+      ],
+      "collocations": [
+        "collaborate with",
+        "collaborate on"
+      ],
+      "examples": [
+        "They collaborated on the project."
+      ],
+      "etymology": "col-（共同）+ labor（劳动）+ -ate",
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "elaborate",
+      "pronunciation": "/ɪˈlæbərət/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 精心制作的，详细的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "详细的"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "详细说明"
+        }
+      ],
+      "collocations": [
+        "elaborate plan",
+        "elaborate on"
+      ],
+      "examples": [
+        "Can you elaborate on that?"
+      ],
+      "etymology": "e-（出）+ labor（劳动）+ -ate",
+      "suffix": "-ate",
+      "prefix": "e-",
+      "prefixMeaning": "出",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "laboratory",
+      "pronunciation": "/ləˈbɒrətri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 实验室，研究室",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "实验室"
+        }
+      ],
+      "collocations": [
+        "science laboratory",
+        "lab report"
+      ],
+      "examples": [
+        "The experiment was done in the lab."
+      ],
+      "etymology": "labor（劳动）+ -atory（场所）",
+      "suffix": "-atory",
+      "suffixMeaning": "场所"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "root": "contra",
+  "meaning": "反对，相反",
+  "words": [
+    {
+      "word": "contrary",
+      "pronunciation": "/ˈkɒntrəri/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 相反的，对立的；对抗的，反对的 n. 相反，对立面",
+      "collocations": [
+        "contrary to",
+        "on the contrary",
+        "contrary opinion",
+        "contrary belief"
+      ],
+      "examples": [
+        "Contrary to popular belief, he is actually very shy.",
+        "She held a contrary opinion on the matter."
+      ],
+      "etymology": "来自拉丁语 contra（反对）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "相反的，对立的；对抗的，反对的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "相反，对立面"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "contradict",
+      "pronunciation": "/ˌkɒntrəˈdɪkt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 反驳，否认；与...矛盾，与...抵触",
+      "collocations": [
+        "contradict oneself",
+        "contradict evidence",
+        "contradict a statement",
+        "directly contradict"
+      ],
+      "examples": [
+        "The witness contradicted herself during testimony.",
+        "His actions contradicted his words."
+      ],
+      "etymology": "来自拉丁语 contra（反对）+ dicere（说）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "反驳，否认；与...矛盾，与...抵触"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "contrast",
+      "pronunciation": "/ˈkɒntrɑːst/",
+      "partOfSpeech": "n.",
+      "definition": "n. 对比，对照；反差，差异 v. 对比，对照；形成对比",
+      "collocations": [
+        "in contrast",
+        "contrast with",
+        "sharp contrast",
+        "contrast between"
+      ],
+      "examples": [
+        "In contrast to the previous year, sales increased.",
+        "The contrast between the two cities is amazing."
+      ],
+      "etymology": "来自拉丁语 contra（反对）+ stare（站立）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "对比，对照；反差，差异；对照物"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "对比，对照；形成对比"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "counter",
+      "pronunciation": "/ˈkaʊntər/",
+      "partOfSpeech": "n.",
+      "definition": "n. 柜台，计数器 adv. 相反地 v. 反驳，抵制",
+      "collocations": [
+        "run counter",
+        "counter offer",
+        "counter measure",
+        "counter attack"
+      ],
+      "examples": [
+        "His plan runs counter to our goals.",
+        "She countered with a strong argument."
+      ],
+      "etymology": "来自拉丁语 contra（反对）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "柜台，计数器"
+        },
+        {
+          "partOfSpeech": "adv.",
+          "definition": "相反地"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "反驳，抵制"
+        }
+      ],
+      "suffix": "-er",
+      "suffixMeaning": "人或物"
+    }
+  ]
+}

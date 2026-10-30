@@ -1,0 +1,114 @@
+{
+  "root": "struct",
+  "meaning": "建造，建立",
+  "words": [
+    {
+      "word": "structure",
+      "pronunciation": "/ˈstrʌktʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 结构，构造；建筑物，构造物；组织，体制 v. 建造，构造；组织，构成",
+      "collocations": [
+        "social structure",
+        "structure of",
+        "organizational structure",
+        "build structure"
+      ],
+      "examples": [
+        "The structure is made of steel.",
+        "We need to restructure the company."
+      ],
+      "etymology": "来自拉丁语 struere（建造）+ -ure 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "结构，构造；建筑物，构造物；组织，体制"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "建造，构造；组织，构成"
+        }
+      ],
+      "suffix": "-ture",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "construct",
+      "pronunciation": "/kənˈstrʌkt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 建造，构筑；构造，构思 n. 建筑物，构造物；构想，观念",
+      "collocations": [
+        "construct a building",
+        "construct a sentence",
+        "construct a theory",
+        "carefully construct"
+      ],
+      "examples": [
+        "They constructed a bridge.",
+        "The argument is well constructed."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ struere（建造）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "建造，构筑；构造，构思"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "建筑物，构造物；构想，观念"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "destruct",
+      "pronunciation": "/dɪˈstrʌkt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 破坏，摧毁",
+      "collocations": [
+        "self-destruct",
+        "destruct button",
+        "destruct sequence",
+        "automatically destruct"
+      ],
+      "examples": [
+        "The missile will self-destruct.",
+        "The building was destructed by the explosion."
+      ],
+      "etymology": "来自拉丁语 de-（下）+ struere（建造）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "破坏，摧毁"
+        }
+      ],
+      "prefix": "de-",
+      "prefixMeaning": "下"
+    },
+    {
+      "word": "instruct",
+      "pronunciation": "/ɪnˈstrʌkt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 指导，指示，通知",
+      "collocations": [
+        "instruct someone to",
+        "instruct the jury",
+        "instruct on",
+        "properly instruct"
+      ],
+      "examples": [
+        "The judge instructed the jury.",
+        "Please instruct me on how to proceed."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ struere（建造）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "指导，指示，通知"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "入"
+    }
+  ]
+}

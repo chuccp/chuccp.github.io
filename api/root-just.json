@@ -1,0 +1,98 @@
+{
+  "root": "just",
+  "meaning": "正义，公正",
+  "words": [
+    {
+      "word": "just",
+      "pronunciation": "/dʒʌst/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 公正的，正义的；合理的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "公正的"
+        },
+        {
+          "partOfSpeech": "adv.",
+          "definition": "正好，刚刚"
+        }
+      ],
+      "collocations": [
+        "just decision",
+        "just cause"
+      ],
+      "examples": [
+        "The decision was just."
+      ],
+      "etymology": "just（正义）",
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "justice",
+      "pronunciation": "/ˈdʒʌstɪs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 正义，公正；司法",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "正义；司法"
+        }
+      ],
+      "collocations": [
+        "do justice",
+        "criminal justice"
+      ],
+      "examples": [
+        "Justice must be served."
+      ],
+      "etymology": "just + -ice",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "justify",
+      "pronunciation": "/ˈdʒʌstɪfaɪ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 证明...正当；为...辩护",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "证明正当"
+        }
+      ],
+      "collocations": [
+        "justify the cost",
+        "justify oneself"
+      ],
+      "examples": [
+        "The end justifies the means."
+      ],
+      "etymology": "just + -ify（使）",
+      "suffix": "-ify",
+      "suffixMeaning": "使"
+    },
+    {
+      "word": "adjust",
+      "pronunciation": "/əˈdʒʌst/",
+      "partOfSpeech": "v.",
+      "definition": "v. 调整，调节；适应",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "调整；适应"
+        }
+      ],
+      "collocations": [
+        "adjust to",
+        "adjust the settings"
+      ],
+      "examples": [
+        "You need to adjust to the new environment."
+      ],
+      "etymology": "ad-（向）+ just（正）+ -，使正",
+      "prefix": "ad-",
+      "prefixMeaning": "向"
+    }
+  ]
+}

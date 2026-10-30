@@ -1,0 +1,92 @@
+{
+  "root": "curv",
+  "meaning": "弯",
+  "words": [
+    {
+      "word": "curve",
+      "pronunciation": "/kɜːv/",
+      "partOfSpeech": "n.",
+      "definition": "n. 曲线，弯曲",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "曲线"
+        }
+      ],
+      "collocations": [
+        "sharp curve"
+      ],
+      "examples": [
+        "The road has a curve."
+      ],
+      "etymology": "curv（弯）+ -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "curvature",
+      "pronunciation": "/ˈkɜːvətʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 曲率，弯曲度",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "曲率"
+        }
+      ],
+      "collocations": [
+        "spinal curvature"
+      ],
+      "examples": [
+        "The curvature is slight."
+      ],
+      "etymology": "curv（弯）+ -ature",
+      "suffix": "-ature",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "incurvate",
+      "pronunciation": "/ɪnˈkɜːveɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 使向内弯",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "使向内弯"
+        }
+      ],
+      "collocations": [
+        "incurvate the spine"
+      ],
+      "examples": [
+        "The spine incurvates."
+      ],
+      "etymology": "in-（入）+ curv（弯）+ -ate",
+      "suffix": "-ate",
+      "prefix": "in-",
+      "prefixMeaning": "入",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "concave",
+      "pronunciation": "/ˈkɒnkeɪv/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 凹的，凹面的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "凹的"
+        }
+      ],
+      "collocations": [
+        "concave lens"
+      ],
+      "examples": [
+        "A concave mirror."
+      ],
+      "etymology": "con-（加强）+ cav（洞），与 curv 相关",
+      "prefix": "con-",
+      "prefixMeaning": "加强"
+    }
+  ]
+}

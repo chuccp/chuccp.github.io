@@ -1,0 +1,122 @@
+{
+  "root": "ori",
+  "meaning": "升起",
+  "words": [
+    {
+      "word": "orient",
+      "pronunciation": "/ˈɔːriənt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 确定方向，使适应 n. 东方，亚洲",
+      "collocations": [
+        "orient oneself",
+        "orient to",
+        "orient the map",
+        "the Orient"
+      ],
+      "examples": [
+        "She quickly oriented herself.",
+        "The map is oriented north."
+      ],
+      "etymology": "来自拉丁语 oriri（升起）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "确定方向，使适应"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "东方，亚洲"
+        }
+      ],
+      "suffix": "-ent",
+      "suffixMeaning": "形容词后缀"
+    },
+    {
+      "word": "orientation",
+      "pronunciation": "/ˌɔːriənˈteɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 方向，定位；迎新会；适应，熟悉",
+      "collocations": [
+        "sexual orientation",
+        "orientation program",
+        "new employee orientation",
+        "orientation of"
+      ],
+      "examples": [
+        "The orientation session is tomorrow.",
+        "His political orientation is liberal."
+      ],
+      "etymology": "来自拉丁语 oriri（升起）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "方向，定位；迎新会；适应，熟悉"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "确定方向，使适应"
+        }
+      ],
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "origin",
+      "pronunciation": "/ˈɒrɪdʒɪn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 起源，出身；原点，起点",
+      "collocations": [
+        "country of origin",
+        "humble origin",
+        "origin of",
+        "trace the origin"
+      ],
+      "examples": [
+        "The origin of the word is Latin.",
+        "She is of Japanese origin."
+      ],
+      "etymology": "来自拉丁语 oriri（升起）+ -in 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "起源，出身；原点，起点"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "起源的，原始的"
+        }
+      ],
+      "suffix": "-in",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "original",
+      "pronunciation": "/əˈrɪdʒɪnl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 原始的，最初的；独创的 n. 原件，原作",
+      "collocations": [
+        "original idea",
+        "original version",
+        "original copy",
+        "in the original"
+      ],
+      "examples": [
+        "This is the original painting.",
+        "She has an original style."
+      ],
+      "etymology": "来自拉丁语 oriri（升起）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "原始的，最初的；独创的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "原件，原作"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    }
+  ]
+}

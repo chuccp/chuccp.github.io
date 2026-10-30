@@ -1,0 +1,90 @@
+{
+  "root": "cast",
+  "meaning": "投掷",
+  "words": [
+    {
+      "word": "cast",
+      "pronunciation": "/kɑːst/",
+      "partOfSpeech": "v.",
+      "definition": "v. 投掷，投射；选派角色",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "投掷；选派"
+        }
+      ],
+      "collocations": [
+        "cast a stone"
+      ],
+      "examples": [
+        "He cast the net."
+      ],
+      "etymology": "cast（投掷）",
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "broadcast",
+      "pronunciation": "/ˈbrɔːdkɑːst/",
+      "partOfSpeech": "v.",
+      "definition": "v. 广播，播送",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "广播"
+        }
+      ],
+      "collocations": [
+        "broadcast news"
+      ],
+      "examples": [
+        "The show was broadcast live."
+      ],
+      "etymology": "broad（广泛）+ cast（投掷）",
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "forecast",
+      "pronunciation": "/ˈfɔːkɑːst/",
+      "partOfSpeech": "n.",
+      "definition": "n. 预测，预报",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "预测"
+        }
+      ],
+      "collocations": [
+        "weather forecast"
+      ],
+      "examples": [
+        "The forecast is accurate."
+      ],
+      "etymology": "fore-（预先）+ cast（投掷）",
+      "prefix": "fore-",
+      "prefixMeaning": "预先"
+    },
+    {
+      "word": "outcast",
+      "pronunciation": "/ˈaʊtkɑːst/",
+      "partOfSpeech": "n.",
+      "definition": "n. 被遗弃者，流浪者",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "被遗弃者"
+        }
+      ],
+      "collocations": [
+        "social outcast"
+      ],
+      "examples": [
+        "He was an outcast."
+      ],
+      "etymology": "out-（出）+ cast（投掷）",
+      "prefix": "out-",
+      "prefixMeaning": "出"
+    }
+  ]
+}

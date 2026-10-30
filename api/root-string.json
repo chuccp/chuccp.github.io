@@ -1,0 +1,54 @@
+{
+  "root": "string",
+  "meaning": "拉紧，绳",
+  "words": [
+    {
+      "word": "string",
+      "pronunciation": "/strɪŋ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 线，细绳；一串",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "线；一串"
+        }
+      ],
+      "collocations": [
+        "string of pearls",
+        "pull strings"
+      ],
+      "examples": [
+        "Tie it with a string."
+      ],
+      "etymology": "string（绳）",
+      "suffix": "-ing",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "strain",
+      "pronunciation": "/streɪn/",
+      "partOfSpeech": "v.",
+      "definition": "v. 拉紧，扭伤；过滤",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "拉紧；扭伤"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "张力"
+        }
+      ],
+      "collocations": [
+        "strain the muscle",
+        "under strain"
+      ],
+      "examples": [
+        "He strained his back."
+      ],
+      "etymology": "string（拉紧）的变体",
+      "suffix": "-ain",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

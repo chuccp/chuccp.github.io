@@ -1,0 +1,83 @@
+{
+  "root": "cosm",
+  "meaning": "宇宙",
+  "words": [
+    {
+      "word": "cosmos",
+      "pronunciation": "/ˈkɒzmɒs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 宇宙，秩序（与 chaos 相对）",
+      "collocations": [
+        "explore the cosmos",
+        "vast cosmos",
+        "cosmos exploration",
+        "mysteries of the cosmos"
+      ],
+      "examples": [
+        "Scientists study the origins of the cosmos.",
+        "The cosmos is vast beyond our imagination."
+      ],
+      "etymology": "来自希腊语 kosmos（秩序、世界、装饰）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "宇宙，秩序（与 chaos 相对）"
+        }
+      ]
+    },
+    {
+      "word": "cosmic",
+      "pronunciation": "/ˈkɒzmɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 宇宙的，广大无边的",
+      "collocations": [
+        "cosmic rays",
+        "cosmic dust",
+        "cosmic scale",
+        "cosmic event"
+      ],
+      "examples": [
+        "Cosmic rays come from outer space.",
+        "The universe expanded at a cosmic scale."
+      ],
+      "etymology": "来自希腊语 kosmos（宇宙）+ -ic 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "宇宙的，广大无边的"
+        }
+      ],
+      "suffix": "-ic",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "cosmopolitan",
+      "pronunciation": "/ˌkɒzməˈpɒlɪtən/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 世界性的，全球的 n. 世界主义者",
+      "collocations": [
+        "cosmopolitan city",
+        "cosmopolitan culture",
+        "cosmopolitan attitude",
+        "cosmopolitan society"
+      ],
+      "examples": [
+        "New York is a truly cosmopolitan city.",
+        "She has a cosmopolitan outlook on life."
+      ],
+      "etymology": "来自希腊语 kosmos（世界）+ polites（公民）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "世界性的，全球的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "世界主义者"
+        }
+      ],
+      "suffix": "-an",
+      "suffixMeaning": "…的"
+    }
+  ]
+}

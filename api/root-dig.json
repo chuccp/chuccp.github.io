@@ -1,0 +1,90 @@
+{
+  "root": "dig",
+  "meaning": "手指",
+  "words": [
+    {
+      "word": "digit",
+      "pronunciation": "/ˈdɪdʒɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 数字；手指，脚趾",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "数字；手指"
+        }
+      ],
+      "collocations": [
+        "single digit"
+      ],
+      "examples": [
+        "Ten digits."
+      ],
+      "etymology": "dig（手指）+ -it",
+      "suffix": "-it",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "digital",
+      "pronunciation": "/ˈdɪdʒɪtl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 数字的，数码的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "数字的"
+        }
+      ],
+      "collocations": [
+        "digital camera"
+      ],
+      "examples": [
+        "Digital technology."
+      ],
+      "etymology": "digit + -al",
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "digitize",
+      "pronunciation": "/ˈdɪdʒɪtaɪz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 数字化",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "数字化"
+        }
+      ],
+      "collocations": [
+        "digitize data"
+      ],
+      "examples": [
+        "Digitize the records."
+      ],
+      "etymology": "digit + -ize",
+      "suffix": "-ize",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "predigit",
+      "pronunciation": "/ˈpriːdɪdʒɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 前数字，原始数字",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "前数字"
+        }
+      ],
+      "collocations": [
+        "predigit era"
+      ],
+      "examples": [
+        "In the predigit era."
+      ],
+      "etymology": "pre-（前）+ digit",
+      "prefix": "pre-",
+      "prefixMeaning": "前"
+    }
+  ]
+}

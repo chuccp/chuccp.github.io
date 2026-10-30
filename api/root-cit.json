@@ -1,0 +1,94 @@
+{
+  "root": "cit",
+  "meaning": "召唤",
+  "words": [
+    {
+      "word": "cite",
+      "pronunciation": "/saɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 引用，引证；传唤",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "引用"
+        }
+      ],
+      "collocations": [
+        "cite example"
+      ],
+      "examples": [
+        "He cited several sources."
+      ],
+      "etymology": "cit（召唤）+ -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "cite",
+      "pronunciation": "/saɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 引用，引文",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "引文"
+        }
+      ],
+      "collocations": [
+        "add cite"
+      ],
+      "examples": [
+        "Add a cite."
+      ],
+      "etymology": "cit + -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "recite",
+      "pronunciation": "/rɪˈsaɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 背诵，朗诵",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "背诵"
+        }
+      ],
+      "collocations": [
+        "recite poem"
+      ],
+      "examples": [
+        "She recited a poem."
+      ],
+      "etymology": "re-（回）+ cit（召唤）+ -e",
+      "prefix": "re-",
+      "prefixMeaning": "回",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "excite",
+      "pronunciation": "/ɪkˈsaɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 使兴奋，使激动",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "使兴奋"
+        }
+      ],
+      "collocations": [
+        "excite audience"
+      ],
+      "examples": [
+        "The news excited everyone."
+      ],
+      "etymology": "ex-（出）+ cit（召唤）+ -e",
+      "prefix": "ex-",
+      "prefixMeaning": "出",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

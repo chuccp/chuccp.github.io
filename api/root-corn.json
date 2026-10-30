@@ -1,0 +1,90 @@
+{
+  "root": "corn",
+  "meaning": "角",
+  "words": [
+    {
+      "word": "corner",
+      "pronunciation": "/ˈkɔːnə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 角落，拐角",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "角落"
+        }
+      ],
+      "collocations": [
+        "street corner"
+      ],
+      "examples": [
+        "Turn the corner."
+      ],
+      "etymology": "corn（角）+ -er",
+      "suffix": "-er",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "unicorn",
+      "pronunciation": "/ˈjuːnɪkɔːn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 独角兽",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "独角兽"
+        }
+      ],
+      "collocations": [
+        "mythical unicorn"
+      ],
+      "examples": [
+        "The unicorn is mythical."
+      ],
+      "etymology": "uni-（一）+ corn（角）+ -on",
+      "suffix": "-on",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "cornet",
+      "pronunciation": "/ˈkɔːnɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 短号，号角",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "短号"
+        }
+      ],
+      "collocations": [
+        "play cornet"
+      ],
+      "examples": [
+        "He plays the cornet."
+      ],
+      "etymology": "corn（角）+ -et，小号角",
+      "suffix": "-et",
+      "suffixMeaning": "小东西"
+    },
+    {
+      "word": "tricorn",
+      "pronunciation": "/ˈtraɪkɔːn/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 三角的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "三角的"
+        }
+      ],
+      "collocations": [
+        "tricorn hat"
+      ],
+      "examples": [
+        "A tricorn hat."
+      ],
+      "etymology": "tri-（三）+ corn（角）",
+      "prefix": "tri-",
+      "prefixMeaning": "三"
+    }
+  ]
+}

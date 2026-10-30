@@ -1,0 +1,89 @@
+{
+  "root": "arm",
+  "meaning": "武器，手臂",
+  "words": [
+    {
+      "word": "army",
+      "pronunciation": "/ˈɑːmi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 军队，陆军",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "军队"
+        }
+      ],
+      "collocations": [
+        "join the army"
+      ],
+      "examples": [
+        "He joined the army."
+      ],
+      "etymology": "arm（武器）+ -y",
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "armor",
+      "pronunciation": "/ˈɑːmə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 盔甲，装甲",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "盔甲"
+        }
+      ],
+      "collocations": [
+        "wear armor"
+      ],
+      "examples": [
+        "The knight wore armor."
+      ],
+      "etymology": "arm（武器）+ -or",
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "arm",
+      "pronunciation": "/ɑːm/",
+      "partOfSpeech": "n.",
+      "definition": "n. 手臂；武器",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "手臂；武器"
+        }
+      ],
+      "collocations": [
+        "raise arm",
+        "take arms"
+      ],
+      "examples": [
+        "He raised his arm."
+      ],
+      "etymology": "arm（手臂/武器）"
+    },
+    {
+      "word": "disarm",
+      "pronunciation": "/dɪsˈɑːm/",
+      "partOfSpeech": "v.",
+      "definition": "v. 解除武装，裁军",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "解除武装"
+        }
+      ],
+      "collocations": [
+        "disarm the enemy"
+      ],
+      "examples": [
+        "They disarmed the rebels."
+      ],
+      "etymology": "dis-（去除）+ arm（武器）",
+      "prefix": "dis-",
+      "prefixMeaning": "去除"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "root": "claim",
+  "meaning": "呼喊",
+  "words": [
+    {
+      "word": "claim",
+      "pronunciation": "/kleɪm/",
+      "partOfSpeech": "v.",
+      "definition": "v. 声称，断言；索赔，要求；需要，值得；认领 n. 声称，断言；索赔，要求；要求权，所有权；专利权",
+      "collocations": [
+        "claim responsibility",
+        "make a claim",
+        "insurance claim",
+        "claim to fame"
+      ],
+      "examples": [
+        "She claimed that she was innocent.",
+        "He made a claim for compensation."
+      ],
+      "etymology": "来自拉丁语 clamare（喊）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "声称，断言；索赔，要求；需要，值得；认领"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "声称，断言；索赔，要求；要求权，所有权；专利权"
+        }
+      ]
+    },
+    {
+      "word": "exclaim",
+      "pronunciation": "/ɪkˈskleɪm/",
+      "partOfSpeech": "v.",
+      "definition": "v. 呼喊，惊叫；大声说，大声表达",
+      "collocations": [
+        "exclaim in surprise",
+        "exclaim with delight",
+        "exclaim against"
+      ],
+      "examples": [
+        "She exclaimed in delight when she saw the gift.",
+        "That is amazing he exclaimed."
+      ],
+      "etymology": "来自拉丁语 clamare（喊）+ ex-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "呼喊，惊叫；大声说，大声表达"
+        }
+      ],
+      "prefix": "ex-",
+      "prefixMeaning": "出，外"
+    },
+    {
+      "word": "proclaim",
+      "pronunciation": "/prəˈkleɪm/",
+      "partOfSpeech": "v.",
+      "definition": "v. 宣告，宣布，声明；显示，表明",
+      "collocations": [
+        "proclaim war",
+        "proclaim independence",
+        "proclaim champion"
+      ],
+      "examples": [
+        "The president proclaimed a national day of mourning.",
+        "The winner was proclaimed at the ceremony."
+      ],
+      "etymology": "来自拉丁语 clamare（喊）+ pro-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "宣告，宣布，声明；显示，表明"
+        }
+      ],
+      "prefix": "pro-",
+      "prefixMeaning": "前，向前"
+    }
+  ]
+}

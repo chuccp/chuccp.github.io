@@ -1,0 +1,85 @@
+{
+  "root": "audi",
+  "meaning": "听",
+  "words": [
+    {
+      "word": "audio",
+      "pronunciation": "/ˈɔːdiəʊ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 音频，声音；音响设备 adj. 音频的，声音的；听觉的",
+      "collocations": [
+        "audio file",
+        "audio recording",
+        "audio system",
+        "digital audio"
+      ],
+      "examples": [
+        "The audio quality is excellent.",
+        "She edited the audio file."
+      ],
+      "etymology": "来自拉丁语 audire（听）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "音频，声音；音响设备"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "音频的，声音的；听觉的"
+        }
+      ],
+      "suffix": "-io",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "audience",
+      "pronunciation": "/ˈɔːdiəns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 观众，听众；读者；接见，会见；倾听",
+      "collocations": [
+        "target audience",
+        "live audience",
+        "audience reaction",
+        "wide audience"
+      ],
+      "examples": [
+        "The audience applauded loudly.",
+        "The book reached a wide audience."
+      ],
+      "etymology": "来自拉丁语 audire（听）+ -ence 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "观众，听众；读者；接见，会见；倾听"
+        }
+      ],
+      "suffix": "-ence",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "auditorium",
+      "pronunciation": "/ˌɔːdɪˈtɔːriəm/",
+      "partOfSpeech": "n.",
+      "definition": "n. 礼堂，会堂；观众席",
+      "collocations": [
+        "school auditorium",
+        "auditorium seating",
+        "auditorium stage",
+        "main auditorium"
+      ],
+      "examples": [
+        "The school auditorium can seat 500 people.",
+        "The concert was held in the main auditorium."
+      ],
+      "etymology": "来自拉丁语 audire（听）+ -orium 后缀表示场所",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "礼堂，会堂；观众席"
+        }
+      ],
+      "suffix": "-orium",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

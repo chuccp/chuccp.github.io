@@ -1,0 +1,81 @@
+{
+  "root": "tect",
+  "meaning": "覆盖",
+  "words": [
+    {
+      "word": "protect",
+      "pronunciation": "/prəˈtekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 保护，保卫；防护，保障",
+      "collocations": [
+        "protect from",
+        "protect the environment",
+        "protect rights",
+        "protect against"
+      ],
+      "examples": [
+        "Wear sunscreen to protect your skin.",
+        "The law protects consumers."
+      ],
+      "etymology": "来自拉丁语 pro-（前）+ tegere（覆盖）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "保护，保卫；防护，保障"
+        }
+      ],
+      "prefix": "pro-",
+      "prefixMeaning": "前"
+    },
+    {
+      "word": "detect",
+      "pronunciation": "/dɪˈtekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 发现，察觉；探测，检测",
+      "collocations": [
+        "detect cancer",
+        "detect a signal",
+        "detect changes",
+        "easily detect"
+      ],
+      "examples": [
+        "The test detected abnormalities.",
+        "The sensor detects motion."
+      ],
+      "etymology": "来自拉丁语 de-（下）+ tegere（覆盖）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "发现，察觉；探测，检测"
+        }
+      ],
+      "prefix": "de-",
+      "prefixMeaning": "下"
+    },
+    {
+      "word": "architecture",
+      "pronunciation": "/ˈɑːkɪtektʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 建筑学，建筑物",
+      "collocations": [
+        "modern architecture",
+        "architecture design",
+        "computer architecture",
+        "ancient architecture"
+      ],
+      "examples": [
+        "The architecture is impressive.",
+        "She studied architecture at university."
+      ],
+      "etymology": "来自希腊语 archi-（主要）+ tekton（建造者）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "建筑学，建筑物"
+        }
+      ],
+      "suffix": "-ture",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

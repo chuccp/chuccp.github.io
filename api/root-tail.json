@@ -1,0 +1,100 @@
+{
+  "root": "tail",
+  "meaning": "切",
+  "words": [
+    {
+      "word": "detail",
+      "pronunciation": "/ˈdiːteɪl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 细节，详情",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "细节"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "详述"
+        }
+      ],
+      "collocations": [
+        "in detail",
+        "detail of"
+      ],
+      "examples": [
+        "Tell me in detail."
+      ],
+      "etymology": "de-（下）+ tail（切）+ -，切成小块",
+      "prefix": "de-",
+      "prefixMeaning": "下"
+    },
+    {
+      "word": "retail",
+      "pronunciation": "/ˈriːteɪl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 零售",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "零售"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "零售"
+        }
+      ],
+      "collocations": [
+        "retail price",
+        "retail store"
+      ],
+      "examples": [
+        "The retail price is $10."
+      ],
+      "etymology": "re-（回）+ tail（切）+ -，切成小块卖",
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    },
+    {
+      "word": "curtail",
+      "pronunciation": "/kɜːˈteɪl/",
+      "partOfSpeech": "v.",
+      "definition": "v. 削减，缩减；限制",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "削减，限制"
+        }
+      ],
+      "collocations": [
+        "curtail spending",
+        "curtail freedom"
+      ],
+      "examples": [
+        "They curtailed the program."
+      ],
+      "etymology": "curt（短）+ tail（切）+ -，切短"
+    },
+    {
+      "word": "entail",
+      "pronunciation": "/ɪnˈteɪl/",
+      "partOfSpeech": "v.",
+      "definition": "v. 需要，牵涉；使必要",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "需要，牵涉"
+        }
+      ],
+      "collocations": [
+        "entail cost",
+        "entail responsibility"
+      ],
+      "examples": [
+        "The job entails travel."
+      ],
+      "etymology": "en-（入）+ tail（切）+ -，切进去",
+      "prefix": "en-",
+      "prefixMeaning": "入"
+    }
+  ]
+}

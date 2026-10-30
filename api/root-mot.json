@@ -1,0 +1,116 @@
+{
+  "root": "mot",
+  "meaning": "动",
+  "words": [
+    {
+      "word": "motion",
+      "pronunciation": "/ˈməʊʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 运动，移动；动作，手势；提议，动议 v. 向...打手势，示意",
+      "collocations": [
+        "in motion",
+        "set in motion",
+        "motion sickness",
+        "pass a motion"
+      ],
+      "examples": [
+        "The machine is in motion.",
+        "He made a motion at the meeting."
+      ],
+      "etymology": "来自拉丁语 movere（移动）+ -ion 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "运动，移动；动作，手势；提议，动议"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "向...打手势，示意"
+        }
+      ],
+      "suffix": "-ion",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "motive",
+      "pronunciation": "/ˈməʊtɪv/",
+      "partOfSpeech": "n.",
+      "definition": "n. 动机，目的",
+      "collocations": [
+        "ulterior motive",
+        "motive for",
+        "unknown motive",
+        "profit motive"
+      ],
+      "examples": [
+        "The motive for the crime is unclear.",
+        "Profit is his main motive."
+      ],
+      "etymology": "来自拉丁语 movere（移动）+ -ive 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "动机，目的"
+        }
+      ],
+      "suffix": "-ive",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "motivate",
+      "pronunciation": "/ˈməʊtɪveɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 激励，激发；成为...的动机；促使",
+      "collocations": [
+        "motivate someone",
+        "motivate to do",
+        "highly motivated",
+        "motivate employees"
+      ],
+      "examples": [
+        "The teacher motivated her students.",
+        "He is motivated to succeed."
+      ],
+      "etymology": "来自拉丁语 movere（移动）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "激励，激发；成为...的动机；促使"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "emotion",
+      "pronunciation": "/ɪˈməʊʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 情绪，情感；激动，感情",
+      "collocations": [
+        "strong emotion",
+        "control emotion",
+        "mixed emotions",
+        "emotional support"
+      ],
+      "examples": [
+        "She showed no emotion.",
+        "The speech stirred strong emotions."
+      ],
+      "etymology": "来自拉丁语 e-（出）+ movere（移动）+ -ion 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "情绪，情感；激动，感情"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "情绪的，情感的"
+        }
+      ],
+      "suffix": "-ion",
+      "prefix": "e-",
+      "prefixMeaning": "出",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

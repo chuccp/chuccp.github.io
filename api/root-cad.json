@@ -1,0 +1,94 @@
+{
+  "root": "cad",
+  "meaning": "落下",
+  "words": [
+    {
+      "word": "cadence",
+      "pronunciation": "/ˈkeɪdns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 节奏，韵律；语调",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "节奏"
+        }
+      ],
+      "collocations": [
+        "rhythmic cadence"
+      ],
+      "examples": [
+        "The cadence of his speech."
+      ],
+      "etymology": "cad（落下）+ -ence",
+      "suffix": "-ence",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "decadent",
+      "pronunciation": "/ˈdekədənt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 颓废的，衰落的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "颓废的"
+        }
+      ],
+      "collocations": [
+        "decadent society"
+      ],
+      "examples": [
+        "A decadent culture."
+      ],
+      "etymology": "de-（下）+ cad（落）+ -ent",
+      "suffix": "-ent",
+      "prefix": "de-",
+      "prefixMeaning": "下",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "cascade",
+      "pronunciation": "/kæˈskeɪd/",
+      "partOfSpeech": "n.",
+      "definition": "n. 瀑布，倾泻",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "瀑布"
+        }
+      ],
+      "collocations": [
+        "water cascade"
+      ],
+      "examples": [
+        "A cascade of water."
+      ],
+      "etymology": "cas（落）+ -cade",
+      "suffix": "-cade",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "accident",
+      "pronunciation": "/ˈæksɪdənt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 事故，意外",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "事故"
+        }
+      ],
+      "collocations": [
+        "car accident"
+      ],
+      "examples": [
+        "He had an accident."
+      ],
+      "etymology": "ac-（向）+ cid（落）+ -ent",
+      "suffix": "-ent",
+      "prefix": "ac-",
+      "prefixMeaning": "向",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

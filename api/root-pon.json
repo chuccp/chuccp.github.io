@@ -1,0 +1,118 @@
+{
+  "root": "pon",
+  "meaning": "放置",
+  "words": [
+    {
+      "word": "postpone",
+      "pronunciation": "/ˌpəʊstˈpəʊn/",
+      "partOfSpeech": "v.",
+      "definition": "v. 推迟，延期；延缓，延迟",
+      "collocations": [
+        "postpone the meeting",
+        "postpone until",
+        "postpone indefinitely",
+        "postpone the decision"
+      ],
+      "examples": [
+        "The meeting was postponed to next week.",
+        "They postponed the trip."
+      ],
+      "etymology": "来自拉丁语 post-（后）+ ponere（放置）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "推迟，延期；延缓，延迟"
+        }
+      ],
+      "prefix": "post-",
+      "prefixMeaning": "后"
+    },
+    {
+      "word": "component",
+      "pronunciation": "/kəmˈpəʊnənt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 成分，组成部分，零部件 adj. 组成的，构成的",
+      "collocations": [
+        "key component",
+        "electronic component",
+        "component of",
+        "major component"
+      ],
+      "examples": [
+        "Trust is a key component of relationships.",
+        "The component needs replacement."
+      ],
+      "etymology": "来自拉丁语 com-（一起）+ ponere（放置）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "成分，组成部分，零部件"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "组成的，构成的"
+        }
+      ],
+      "prefix": "com-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "opponent",
+      "pronunciation": "/əˈpəʊnənt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 对手，反对者；敌手 adj. 对立的，反对的",
+      "collocations": [
+        "political opponent",
+        "strong opponent",
+        "defeat opponent",
+        "opponent team"
+      ],
+      "examples": [
+        "He debated his opponent.",
+        "The opponent scored a goal."
+      ],
+      "etymology": "来自拉丁语 ob-（对着）+ ponere（放置）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "对手，反对者；敌手"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "对立的，反对的"
+        }
+      ],
+      "prefix": "ob-",
+      "prefixMeaning": "对着"
+    },
+    {
+      "word": "propose",
+      "pronunciation": "/prəˈpəʊz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 提议，求婚；计划，打算；提名",
+      "collocations": [
+        "propose a plan",
+        "propose marriage",
+        "propose to",
+        "propose that"
+      ],
+      "examples": [
+        "He proposed a new strategy.",
+        "She proposed to him."
+      ],
+      "etymology": "来自拉丁语 pro-（前）+ ponere（放置）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "提议，求婚；计划，打算；提名"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "提议，计划"
+        }
+      ],
+      "prefix": "pro-",
+      "prefixMeaning": "前"
+    }
+  ]
+}

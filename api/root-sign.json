@@ -1,0 +1,124 @@
+{
+  "root": "sign",
+  "meaning": "标记，符号",
+  "words": [
+    {
+      "word": "sign",
+      "pronunciation": "/saɪn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 标志，符号；迹象，征兆；招牌，广告牌；手势，信号 v. 签名，签署；签字，签约；示意，打手势",
+      "collocations": [
+        "traffic sign",
+        "sign language",
+        "sign here",
+        "sign of"
+      ],
+      "examples": [
+        "The sign says Stop.",
+        "Please sign your name here."
+      ],
+      "etymology": "来自拉丁语 signum（标记）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "标志，符号；迹象，征兆；招牌，广告牌；手势，信号"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "签名，签署；签字，签约；示意，打手势"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "pronunciation": "/ˈsɪɡnəl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 信号，暗号；标志，表示；电信号 v. 发信号，示意；标志，表示 adj. 显著的，重大的；卓越的",
+      "collocations": [
+        "traffic signal",
+        "send a signal",
+        "signal flag",
+        "distress signal"
+      ],
+      "examples": [
+        "The traffic signal turned red.",
+        "She signaled her intention to turn."
+      ],
+      "etymology": "来自拉丁语 signum（标记）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "信号，暗号；标志，表示；电信号"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "发信号，示意；标志，表示"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "显著的，重大的；卓越的"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "design",
+      "pronunciation": "/dɪˈzaɪn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 设计，图案；构思，计划；设计艺术 v. 设计，构思；计划，谋划",
+      "collocations": [
+        "design plan",
+        "graphic design",
+        "design a website",
+        "interior design"
+      ],
+      "examples": [
+        "She designed the logo.",
+        "The design is elegant."
+      ],
+      "etymology": "来自拉丁语 de-（下）+ signare（标记）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "设计，图案；构思，计划；设计艺术，设计行业"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "设计，构思；计划，谋划"
+        }
+      ],
+      "prefix": "de-",
+      "prefixMeaning": "下"
+    },
+    {
+      "word": "assign",
+      "pronunciation": "/əˈsaɪn/",
+      "partOfSpeech": "v.",
+      "definition": "v. 分配，指派；指定，确定；转让",
+      "collocations": [
+        "assign a task",
+        "assign to",
+        "assign responsibility",
+        "assign homework"
+      ],
+      "examples": [
+        "The teacher assigned homework.",
+        "He was assigned to the project."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ signare（标记）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "分配，指派；指定，确定；转让"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "分配，指派"
+        }
+      ],
+      "prefix": "ad-",
+      "prefixMeaning": "向"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "root": "corp",
+  "meaning": "身体",
+  "words": [
+    {
+      "word": "corpse",
+      "pronunciation": "/kɔːps/",
+      "partOfSpeech": "n.",
+      "definition": "n. 尸体",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "尸体"
+        }
+      ],
+      "collocations": [
+        "dead corpse"
+      ],
+      "examples": [
+        "The corpse was found."
+      ],
+      "etymology": "corp（身体）+ -se",
+      "suffix": "-se",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "corps",
+      "pronunciation": "/kɔː/",
+      "partOfSpeech": "n.",
+      "definition": "n. 军团，部队；特种部队",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "军团"
+        }
+      ],
+      "collocations": [
+        "marine corps"
+      ],
+      "examples": [
+        "He joined the corps."
+      ],
+      "etymology": "corp（身体）+ -s，一群人",
+      "suffix": "-s",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "corporal",
+      "pronunciation": "/ˈkɔːpərəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 身体的，肉体的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "身体的"
+        }
+      ],
+      "collocations": [
+        "corporal punishment"
+      ],
+      "examples": [
+        "Corporal punishment is banned."
+      ],
+      "etymology": "corp（身体）+ -oral",
+      "suffix": "-oral",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "incorporate",
+      "pronunciation": "/ɪnˈkɔːpəreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 包含，吸收；合并",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "包含；合并"
+        }
+      ],
+      "collocations": [
+        "incorporate into"
+      ],
+      "examples": [
+        "Incorporate the changes."
+      ],
+      "etymology": "in-（入）+ corp（身体）+ -ate",
+      "suffix": "-ate",
+      "prefix": "in-",
+      "prefixMeaning": "入",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "root": "volv",
+  "meaning": "滚",
+  "words": [
+    {
+      "word": "revolve",
+      "pronunciation": "/rɪˈvɒlv/",
+      "partOfSpeech": "v.",
+      "definition": "v. 旋转，环绕；以...为中心；反复考虑",
+      "collocations": [
+        "revolve around",
+        "revolve on axis",
+        "revolve slowly",
+        "revolve completely"
+      ],
+      "examples": [
+        "The Earth revolves around the Sun.",
+        "The door revolves on its hinge."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ volvere（滚）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "旋转，环绕；以...为中心；反复考虑"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    },
+    {
+      "word": "involve",
+      "pronunciation": "/ɪnˈvɒlv/",
+      "partOfSpeech": "v.",
+      "definition": "v. 涉及，包含；使参与，使卷入；使陷入，连累",
+      "collocations": [
+        "involve in",
+        "involve someone",
+        "get involved",
+        "involve risk"
+      ],
+      "examples": [
+        "The project involves many people.",
+        "He was involved in the accident."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ volvere（滚）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "涉及，包含；使参与，使卷入；使陷入，连累"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "入"
+    },
+    {
+      "word": "evolve",
+      "pronunciation": "/iˈvɒlv/",
+      "partOfSpeech": "v.",
+      "definition": "v. 进化，演化；发展，逐渐发展；使进化",
+      "collocations": [
+        "evolve from",
+        "evolve into",
+        "gradually evolve",
+        "evolve over time"
+      ],
+      "examples": [
+        "Species evolve over millions of years.",
+        "The plan evolved into a major project."
+      ],
+      "etymology": "来自拉丁语 e-（出）+ volvere（滚）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "进化，演化；发展，逐渐发展；使进化"
+        }
+      ],
+      "prefix": "e-",
+      "prefixMeaning": "出"
+    },
+    {
+      "word": "volume",
+      "pronunciation": "/ˈvɒljuːm/",
+      "partOfSpeech": "n.",
+      "definition": "n. 体积，容量；音量；卷",
+      "collocations": [
+        "turn up volume",
+        "large volume",
+        "volume of",
+        "book volume"
+      ],
+      "examples": [
+        "Turn up the volume.",
+        "The volume of trade increased."
+      ],
+      "etymology": "来自拉丁语 volvere（滚）+ -ume 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "体积，容量；音量；卷"
+        }
+      ],
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

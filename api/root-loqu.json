@@ -1,0 +1,98 @@
+{
+  "root": "loqu",
+  "meaning": "说，言",
+  "words": [
+    {
+      "word": "eloquent",
+      "pronunciation": "/ˈeləkwənt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 雄辩的，有口才的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "雄辩的"
+        }
+      ],
+      "collocations": [
+        "eloquent speech",
+        "eloquent writer"
+      ],
+      "examples": [
+        "She gave an eloquent speech."
+      ],
+      "etymology": "e-（出）+ loqu（说）+ -ent",
+      "suffix": "-ent",
+      "prefix": "e-",
+      "prefixMeaning": "出",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "loquacious",
+      "pronunciation": "/ləˈkweɪʃəs/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 多话的，健谈的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "多话的"
+        }
+      ],
+      "collocations": [
+        "loquacious person",
+        "loquacious about"
+      ],
+      "examples": [
+        "He is very loquacious."
+      ],
+      "etymology": "loqu（说）+ -ac + -ious",
+      "suffix": "-ious",
+      "prefix": "ac-",
+      "suffixMeaning": "多…的",
+      "prefixMeaning": "向，朝"
+    },
+    {
+      "word": "soliloquy",
+      "pronunciation": "/səˈlɪləkwi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 独白，自言自语",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "独白"
+        }
+      ],
+      "collocations": [
+        "famous soliloquy",
+        "Hamlet soliloquy"
+      ],
+      "examples": [
+        "The soliloquy reveals his thoughts."
+      ],
+      "etymology": "soli-（独自）+ loqu（说）+ -y",
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "ventriloquist",
+      "pronunciation": "/venˈtrɪləkwɪst/",
+      "partOfSpeech": "n.",
+      "definition": "n. 口技表演者，腹语师",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "腹语师"
+        }
+      ],
+      "collocations": [
+        "ventriloquist act",
+        "famous ventriloquist"
+      ],
+      "examples": [
+        "The ventriloquist performed with a dummy."
+      ],
+      "etymology": "ventr-（腹）+ loqu（说）+ -ist",
+      "suffix": "-ist",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

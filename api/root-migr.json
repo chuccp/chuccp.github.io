@@ -1,0 +1,118 @@
+{
+  "root": "migr",
+  "meaning": "迁移",
+  "words": [
+    {
+      "word": "migrate",
+      "pronunciation": "/maɪˈɡreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 迁移，移居；（鸟类）迁徙；（数据）迁移",
+      "collocations": [
+        "migrate to",
+        "migrate from",
+        "seasonally migrate",
+        "migrate for work"
+      ],
+      "examples": [
+        "Birds migrate south for winter.",
+        "Many people migrate to cities."
+      ],
+      "etymology": "来自拉丁语 migrare（迁移）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "迁移，移居；（鸟类）迁徙；（数据）迁移"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "迁移，迁徙"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "migration",
+      "pronunciation": "/maɪˈɡreɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 迁移，移民；迁徙",
+      "collocations": [
+        "bird migration",
+        "mass migration",
+        "migration pattern",
+        "migration of"
+      ],
+      "examples": [
+        "The migration of birds is amazing.",
+        "Mass migration changed the demographics."
+      ],
+      "etymology": "来自拉丁语 migrare（迁移）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "迁移，移民；迁徙"
+        }
+      ],
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "immigrant",
+      "pronunciation": "/ˈɪmɪɡrənt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 移民，侨民 adj. 移民的，侨民的",
+      "collocations": [
+        "illegal immigrant",
+        "immigrant family",
+        "immigrant community",
+        "first-generation immigrant"
+      ],
+      "examples": [
+        "The immigrant worked hard to succeed.",
+        "Many immigrants came from Europe."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ migrare（迁移）+ -ant 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "移民，侨民"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "移民的，侨民的"
+        }
+      ],
+      "suffix": "-ant",
+      "prefix": "in-",
+      "prefixMeaning": "入",
+      "suffixMeaning": "形容词后缀"
+    },
+    {
+      "word": "emigrate",
+      "pronunciation": "/ˈemɪɡreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 移居国外，迁出",
+      "collocations": [
+        "emigrate to",
+        "emigrate from",
+        "plan to emigrate",
+        "emigrate permanently"
+      ],
+      "examples": [
+        "They emigrated to Australia.",
+        "Many people emigrated during the war."
+      ],
+      "etymology": "来自拉丁语 e-（出）+ migrare（迁移）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "移居国外，迁出"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "e-",
+      "prefixMeaning": "出",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

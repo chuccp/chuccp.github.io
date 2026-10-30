@@ -1,0 +1,89 @@
+{
+  "root": "clar",
+  "meaning": "清楚",
+  "words": [
+    {
+      "word": "clear",
+      "pronunciation": "/klɪər/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 清楚的，清晰的；晴朗的；清澈的；无罪的；畅通的 v. 清除，清理；通过，越过；澄清，证明无罪；净赚 adv. 清楚地，完全地；径直地",
+      "collocations": [
+        "clear water",
+        "clear sky",
+        "clear the table",
+        "make clear"
+      ],
+      "examples": [
+        "The water is very clear.",
+        "Please clear your desk."
+      ],
+      "etymology": "来自拉丁语 clarus（清楚，明亮）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "清楚的，清晰的；晴朗的；清澈的；无罪的；畅通的"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "清除，清理；通过，越过；澄清，证明无罪；净赚"
+        },
+        {
+          "partOfSpeech": "adv.",
+          "definition": "清楚地，完全地；径直地"
+        }
+      ],
+      "suffix": "-ar",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "clarify",
+      "pronunciation": "/ˈklærəfaɪ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 澄清，阐明；使清楚；使清澈",
+      "collocations": [
+        "clarify the issue",
+        "clarify the position",
+        "clarify butter",
+        "help clarify"
+      ],
+      "examples": [
+        "Let me clarify my position.",
+        "The statement clarified the situation."
+      ],
+      "etymology": "来自拉丁语 clarus（清楚）+ facere（做）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "澄清，阐明；使清楚；使清澈"
+        }
+      ],
+      "suffix": "-ify",
+      "suffixMeaning": "使…化"
+    },
+    {
+      "word": "clarity",
+      "pronunciation": "/ˈklærəti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 清楚，清晰；明确",
+      "collocations": [
+        "mental clarity",
+        "clarity of",
+        "bring clarity",
+        "lack clarity"
+      ],
+      "examples": [
+        "The clarity of the image is excellent.",
+        "She explained with great clarity."
+      ],
+      "etymology": "来自拉丁语 clarus（清楚）+ -ity 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "清楚，清晰；明确"
+        }
+      ],
+      "suffix": "-ity",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

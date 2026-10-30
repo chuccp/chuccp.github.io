@@ -1,0 +1,114 @@
+{
+  "root": "spect",
+  "meaning": "看",
+  "words": [
+    {
+      "word": "spectator",
+      "pronunciation": "/spekˈteɪtə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 观众，旁观者；观看者",
+      "collocations": [
+        "spectator sport",
+        "spectator stand",
+        "spectator view",
+        "silent spectator"
+      ],
+      "examples": [
+        "Thousands of spectators watched the game.",
+        "He was a spectator at the concert."
+      ],
+      "etymology": "来自拉丁语 spectare（看）+ -or 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "观众，旁观者；观看者"
+        }
+      ],
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "inspect",
+      "pronunciation": "/ɪnˈspekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 检查，视察；检阅，查看",
+      "collocations": [
+        "inspect the building",
+        "inspect thoroughly",
+        "inspect the goods",
+        "government inspect"
+      ],
+      "examples": [
+        "The officer inspected the documents.",
+        "We need to inspect the property."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ specere（看）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "检查，视察；检阅，查看"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "入"
+    },
+    {
+      "word": "respect",
+      "pronunciation": "/rɪˈspekt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 尊敬，尊重；敬意，问候；方面，着眼点 v. 尊敬，尊重；遵守，顾及",
+      "collocations": [
+        "show respect",
+        "respect for",
+        "gain respect",
+        "mutual respect"
+      ],
+      "examples": [
+        "Show respect for your elders.",
+        "I respect your opinion."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ specere（看）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "尊敬，尊重；敬意，问候；方面，着眼点"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "尊敬，尊重；遵守，顾及"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    },
+    {
+      "word": "prospect",
+      "pronunciation": "/ˈprɒspekt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 前景，前途；景象，景色；期望，希望 v. 勘探，勘察",
+      "collocations": [
+        "job prospect",
+        "bright prospect",
+        "prospect of",
+        "economic prospect"
+      ],
+      "examples": [
+        "The job prospects are good.",
+        "There is no prospect of rain."
+      ],
+      "etymology": "来自拉丁语 pro-（前）+ specere（看）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "前景，前途；景象，景色；期望，希望"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "勘探，勘察"
+        }
+      ],
+      "prefix": "pro-",
+      "prefixMeaning": "前"
+    }
+  ]
+}

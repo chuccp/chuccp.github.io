@@ -1,0 +1,172 @@
+{
+  "root": "circ",
+  "meaning": "环",
+  "words": [
+    {
+      "word": "circle",
+      "pronunciation": "/ˈsɜːkl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 圆，圆圈；圆形物；圈子，阶层；循环，周期 v. 环绕，盘旋；绕...运转；包围",
+      "collocations": [
+        "circle of friends",
+        "business circle",
+        "circle around",
+        "come full circle"
+      ],
+      "examples": [
+        "They sat in a circle on the floor.",
+        "The plane circled the airport before landing."
+      ],
+      "etymology": "来自拉丁语 circulus（圆）+ -cle 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "圆，圆圈；圆形物；圈子，阶层；循环，周期"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "环绕，盘旋；绕...运转；包围"
+        }
+      ],
+      "suffix": "-cle",
+      "suffixMeaning": "小东西"
+    },
+    {
+      "word": "circuit",
+      "pronunciation": "/ˈsɜːkɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 电路，回路；巡回，环行；一圈，周游 v. 绕回，循环；环行",
+      "collocations": [
+        "electrical circuit",
+        "circuit board",
+        "tour circuit",
+        "court circuit"
+      ],
+      "examples": [
+        "The circuit is complete.",
+        "The band is on a concert circuit this summer."
+      ],
+      "etymology": "来自拉丁语 circulus（圆）+ -it 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "电路，回路；巡回，环行；一圈，周游"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "绕回，循环；环行"
+        }
+      ],
+      "suffix": "-it",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "circulate",
+      "pronunciation": "/ˈsɜːkjʊleɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 循环，流通；传播；发行",
+      "collocations": [
+        "circulate blood",
+        "circulate information",
+        "circulate a petition"
+      ],
+      "examples": [
+        "Blood circulates through our bodies.",
+        "Please circulate the memo to all staff."
+      ],
+      "etymology": "来自拉丁语 circulus（圆）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "循环，流通；传播；发行"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "circumference",
+      "pronunciation": "/səˈkʌmfərəns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 圆周，周长",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "圆周，周长"
+        }
+      ],
+      "collocations": [
+        "circumference of"
+      ],
+      "examples": [
+        "The circumference is 2πr."
+      ],
+      "etymology": "circum-（环绕）+ fer（带）",
+      "prefix": "circum-",
+      "prefixMeaning": "环绕"
+    },
+    {
+      "word": "circumstance",
+      "pronunciation": "/ˈsɜːkməstəns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 环境，情况",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "环境，情况"
+        }
+      ],
+      "collocations": [
+        "under the circumstances"
+      ],
+      "examples": [
+        "Under the circumstances, I agree."
+      ],
+      "etymology": "circum-（环绕）+ st（站立）",
+      "prefix": "circum-",
+      "prefixMeaning": "环绕"
+    },
+    {
+      "word": "circumspect",
+      "pronunciation": "/ˈsɜːkəmspekt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 谨慎的，小心的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "谨慎的"
+        }
+      ],
+      "collocations": [
+        "circumspect approach"
+      ],
+      "examples": [
+        "Be circumspect in your dealings."
+      ],
+      "etymology": "circum-（环绕）+ spect（看）",
+      "prefix": "circum-",
+      "prefixMeaning": "环绕"
+    },
+    {
+      "word": "circumvent",
+      "pronunciation": "/ˌsɜːkəmˈvent/",
+      "partOfSpeech": "v.",
+      "definition": "v. 规避，绕过",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "规避，绕过"
+        }
+      ],
+      "collocations": [
+        "circumvent the rules"
+      ],
+      "examples": [
+        "They circumvented the regulations."
+      ],
+      "etymology": "circum-（环绕）+ vent（来）",
+      "prefix": "circum-",
+      "prefixMeaning": "环绕"
+    }
+  ]
+}

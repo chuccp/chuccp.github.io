@@ -1,0 +1,83 @@
+{
+  "root": "junct",
+  "meaning": "连接，结合",
+  "words": [
+    {
+      "word": "junction",
+      "pronunciation": "/ˈdʒʌŋkʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 连接，接合；交叉点，汇合处",
+      "collocations": [
+        "road junction",
+        "rail junction",
+        "at the junction",
+        "junction box"
+      ],
+      "examples": [
+        "Turn left at the junction.",
+        "The city is a major rail junction."
+      ],
+      "etymology": "来自拉丁语 jungere（连接）+ -tion 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "连接，接合；交叉点，汇合处"
+        }
+      ],
+      "suffix": "-tion",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "conjunction",
+      "pronunciation": "/kənˈdʒʌŋkʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 连接，联合；连词；同时发生，结合",
+      "collocations": [
+        "in conjunction with",
+        "grammatical conjunction",
+        "rare conjunction",
+        "conjunction of"
+      ],
+      "examples": [
+        "The drug is used in conjunction with therapy.",
+        "And is a common conjunction."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ jungere（连接）+ -tion 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "连接，联合；连词；同时发生，结合"
+        }
+      ],
+      "suffix": "-tion",
+      "prefix": "con-",
+      "prefixMeaning": "一起",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "disjunct",
+      "pronunciation": "/dɪsˈdʒʌŋkt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 分离的，不连贯的",
+      "collocations": [
+        "disjunct narrative",
+        "disjunct style",
+        "disjunct sequence",
+        "disjunct elements"
+      ],
+      "examples": [
+        "The story has a disjunct narrative structure.",
+        "The painting features disjunct shapes and colors."
+      ],
+      "etymology": "来自拉丁语 dis-（分开）+ jungere（连接）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "分离的，不连贯的"
+        }
+      ],
+      "prefix": "dis-",
+      "prefixMeaning": "分开"
+    }
+  ]
+}

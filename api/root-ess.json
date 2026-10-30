@@ -1,0 +1,90 @@
+{
+  "root": "ess",
+  "meaning": "存在",
+  "words": [
+    {
+      "word": "essence",
+      "pronunciation": "/ˈesns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 本质，实质；精华",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "本质"
+        }
+      ],
+      "collocations": [
+        "in essence"
+      ],
+      "examples": [
+        "The essence of life."
+      ],
+      "etymology": "ess（存在）+ -ence",
+      "suffix": "-ence",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "essential",
+      "pronunciation": "/ɪˈsenʃl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 必要的，本质的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "必要的"
+        }
+      ],
+      "collocations": [
+        "essential oil"
+      ],
+      "examples": [
+        "Essential nutrients."
+      ],
+      "etymology": "ess（存在）+ -ential",
+      "suffix": "-ential",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "interest",
+      "pronunciation": "/ˈɪntrəst/",
+      "partOfSpeech": "n.",
+      "definition": "n. 兴趣，利息；利益",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "兴趣"
+        }
+      ],
+      "collocations": [
+        "interest in"
+      ],
+      "examples": [
+        "Have an interest."
+      ],
+      "etymology": "inter-（在中间）+ est（存在）",
+      "prefix": "inter-",
+      "prefixMeaning": "在中间"
+    },
+    {
+      "word": "absent",
+      "pronunciation": "/ˈæbsənt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 缺席的，不在的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "缺席的"
+        }
+      ],
+      "collocations": [
+        "absent from"
+      ],
+      "examples": [
+        "He was absent."
+      ],
+      "etymology": "ab-（离开）+ sent（存在）",
+      "prefix": "ab-",
+      "prefixMeaning": "离开"
+    }
+  ]
+}

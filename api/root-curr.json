@@ -1,0 +1,94 @@
+{
+  "root": "curr",
+  "meaning": "跑，流",
+  "words": [
+    {
+      "word": "current",
+      "pronunciation": "/ˈkʌrənt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 当前的，流通的 n. 水流",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "当前的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "水流"
+        }
+      ],
+      "collocations": [
+        "current event"
+      ],
+      "examples": [
+        "The current situation."
+      ],
+      "etymology": "curr（流）+ -ent",
+      "suffix": "-ent",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "currency",
+      "pronunciation": "/ˈkʌrənsi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 货币，通货；流通",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "货币"
+        }
+      ],
+      "collocations": [
+        "foreign currency"
+      ],
+      "examples": [
+        "The currency is stable."
+      ],
+      "etymology": "curr（流）+ -ency",
+      "suffix": "-ency",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "occur",
+      "pronunciation": "/əˈkɜː/",
+      "partOfSpeech": "v.",
+      "definition": "v. 发生，出现；被想起",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "发生"
+        }
+      ],
+      "collocations": [
+        "occur to"
+      ],
+      "examples": [
+        "It occurred to me."
+      ],
+      "etymology": "oc-（向）+ curr（跑）",
+      "prefix": "oc-",
+      "prefixMeaning": "向"
+    },
+    {
+      "word": "recur",
+      "pronunciation": "/rɪˈkɜː/",
+      "partOfSpeech": "v.",
+      "definition": "v. 复发，重现",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "复发"
+        }
+      ],
+      "collocations": [
+        "recur frequently"
+      ],
+      "examples": [
+        "The problem recurred."
+      ],
+      "etymology": "re-（回）+ curr（跑）",
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    }
+  ]
+}

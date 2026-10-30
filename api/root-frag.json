@@ -1,0 +1,60 @@
+{
+  "root": "frag",
+  "meaning": "破碎，断裂",
+  "words": [
+    {
+      "word": "fragment",
+      "pronunciation": "/ˈfræɡmənt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 碎片，片段 v. 使破碎，使分裂；使成碎片",
+      "collocations": [
+        "broken fragment",
+        "fragment of",
+        "ancient fragment",
+        "scattered fragments"
+      ],
+      "examples": [
+        "Archaeologists found fragments of pottery.",
+        "I only heard fragments of their conversation."
+      ],
+      "etymology": "来自拉丁语 frangere（打破）的过去分词",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "碎片，片段，片段"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "使破碎，使分裂；使成碎片"
+        }
+      ],
+      "suffix": "-ment",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "fragile",
+      "pronunciation": "/ˈfrædʒaɪl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 易碎的，脆弱的；虚弱的，不牢固的",
+      "collocations": [
+        "fragile object",
+        "fragile economy",
+        "fragile state",
+        "handle with care - fragile"
+      ],
+      "examples": [
+        "The package is marked Fragile.",
+        "The ceasefire remains fragile."
+      ],
+      "etymology": "来自拉丁语 fragilis（易碎的），来自 frangere（打破）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "易碎的，脆弱的；虚弱的，不牢固的"
+        }
+      ],
+      "suffix": "-le",
+      "suffixMeaning": "小东西"
+    }
+  ]
+}

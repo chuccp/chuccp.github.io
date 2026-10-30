@@ -1,0 +1,114 @@
+{
+  "root": "lev",
+  "meaning": "举",
+  "words": [
+    {
+      "word": "elevate",
+      "pronunciation": "/ˈelɪveɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 提升，举起；提高，使升高；使振奋，使兴高采烈",
+      "collocations": [
+        "elevate the status",
+        "elevate to",
+        "elevate mood",
+        "elevate the discussion"
+      ],
+      "examples": [
+        "The platform was elevated above the ground.",
+        "Reading can elevate your mind."
+      ],
+      "etymology": "来自拉丁语 e-（出）+ levare（举起）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "提升，举起；提高，使升高；使振奋，使兴高采烈"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "e-",
+      "prefixMeaning": "出",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "lever",
+      "pronunciation": "/ˈliːvə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 杠杆，控制杆；手段，工具 v. 用杠杆撬动，用杠杆移动",
+      "collocations": [
+        "pull the lever",
+        "control lever",
+        "gear lever",
+        "use as a lever"
+      ],
+      "examples": [
+        "Pull the lever to start the machine.",
+        "The brake lever is on the handlebar."
+      ],
+      "etymology": "来自拉丁语 levare（举起）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "杠杆，控制杆；手段，工具"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "用杠杆撬动，用杠杆移动"
+        }
+      ],
+      "suffix": "-er",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "levitate",
+      "pronunciation": "/ˈlevɪteɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 使悬浮，飘浮",
+      "collocations": [
+        "levitate above",
+        "levitate in air",
+        "magically levitate",
+        "levitate objects"
+      ],
+      "examples": [
+        "The magician appeared to levitate.",
+        "The object levitated above the table."
+      ],
+      "etymology": "来自拉丁语 levis（轻）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "使悬浮，飘浮"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "alleviate",
+      "pronunciation": "/əˈliːvieɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 减轻，缓解",
+      "collocations": [
+        "alleviate pain",
+        "alleviate poverty",
+        "alleviate stress",
+        "help alleviate"
+      ],
+      "examples": [
+        "The medicine alleviated her pain.",
+        "Programs to alleviate poverty are needed."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ levis（轻）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "减轻，缓解"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "ad-",
+      "prefixMeaning": "向",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

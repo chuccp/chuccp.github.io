@@ -1,0 +1,89 @@
+{
+  "root": "pict",
+  "meaning": "画",
+  "words": [
+    {
+      "word": "picture",
+      "pronunciation": "/ˈpɪktʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 图片，照片；影片；画面；情况，局面 v. 想象，描绘；画",
+      "collocations": [
+        "take a picture",
+        "picture frame",
+        "picture book",
+        "big picture"
+      ],
+      "examples": [
+        "She took a picture of the view.",
+        "The picture is worth a thousand words."
+      ],
+      "etymology": "来自拉丁语 pictura（绘画），来自 pingere（画）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "图片，照片；影片；画面；情况，局面"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "想象，描绘；画"
+        }
+      ],
+      "suffix": "-ture",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "depict",
+      "pronunciation": "/dɪˈpɪkt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 描绘，描述；描写，刻画",
+      "collocations": [
+        "depict the scene",
+        "depict as",
+        "depict in",
+        "accurately depict"
+      ],
+      "examples": [
+        "The painting depicts a battle.",
+        "The novel depicts life in the city."
+      ],
+      "etymology": "来自拉丁语 de-（下）+ pingere（画）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "描绘，描述；描写，刻画"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "描绘，描述"
+        }
+      ],
+      "prefix": "de-",
+      "prefixMeaning": "下"
+    },
+    {
+      "word": "pictorial",
+      "pronunciation": "/pɪkˈtɔːriəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 图画的，绘画的",
+      "collocations": [
+        "pictorial representation",
+        "pictorial guide",
+        "pictorial art",
+        "pictorial history"
+      ],
+      "examples": [
+        "The book has pictorial illustrations.",
+        "A pictorial guide to birds."
+      ],
+      "etymology": "来自拉丁语 pictor（画家）+ -ial 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "图画的，绘画的"
+        }
+      ],
+      "suffix": "-ial",
+      "suffixMeaning": "…的"
+    }
+  ]
+}

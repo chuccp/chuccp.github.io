@@ -1,0 +1,85 @@
+{
+  "root": "par",
+  "meaning": "相等，准备",
+  "words": [
+    {
+      "word": "parallel",
+      "pronunciation": "/ˈpærəlel/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 平行的，类似的 n. 平行线，类似",
+      "collocations": [
+        "parallel lines",
+        "parallel processing",
+        "parallel universe",
+        "draw a parallel"
+      ],
+      "examples": [
+        "The roads run parallel to each other.",
+        "There are striking parallels between the two cases."
+      ],
+      "etymology": "来自希腊语 para-（旁边）+ allelos（彼此）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "平行的，类似的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "平行线，类似"
+        }
+      ],
+      "prefix": "para-",
+      "prefixMeaning": "旁边"
+    },
+    {
+      "word": "parachute",
+      "pronunciation": "/ˈpærəʃuːt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 降落伞",
+      "collocations": [
+        "open a parachute",
+        "bail out with parachute",
+        "parachute jump",
+        "emergency parachute"
+      ],
+      "examples": [
+        "The skydiver opened his parachute at 5000 feet.",
+        "She made her first parachute jump."
+      ],
+      "etymology": "来自法语 para-（防御）+ chute（落下）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "降落伞"
+        }
+      ],
+      "prefix": "para-",
+      "prefixMeaning": "防御"
+    },
+    {
+      "word": "parry",
+      "pronunciation": "/ˈpæri/",
+      "partOfSpeech": "v.",
+      "definition": "v. 挡开，避开；回避",
+      "collocations": [
+        "parry a blow",
+        "parry a question",
+        "parry an attack",
+        "skillfully parry"
+      ],
+      "examples": [
+        "The fencer parried the attack.",
+        "He skillfully parried the question."
+      ],
+      "etymology": "来自拉丁语 parare（准备）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "挡开，避开；回避"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

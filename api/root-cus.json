@@ -1,0 +1,100 @@
+{
+  "root": "cus",
+  "meaning": "关心",
+  "words": [
+    {
+      "word": "accuse",
+      "pronunciation": "/əˈkjuːz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 指责，控告",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "控告"
+        }
+      ],
+      "collocations": [
+        "accuse of"
+      ],
+      "examples": [
+        "He accused her."
+      ],
+      "etymology": "ac-（向）+ cus（关心）+ -e",
+      "suffix": "-e",
+      "prefix": "ac-",
+      "prefixMeaning": "向",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "excuse",
+      "pronunciation": "/ɪkˈskjuːz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 原谅 n. 借口",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "原谅"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "借口"
+        }
+      ],
+      "collocations": [
+        "excuse me"
+      ],
+      "examples": [
+        "Excuse me."
+      ],
+      "etymology": "ex-（出）+ cus（关心）+ -e",
+      "prefix": "ex-",
+      "prefixMeaning": "出",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "accusation",
+      "pronunciation": "/ˌækjuːˈzeɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 指控，控告",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "指控"
+        }
+      ],
+      "collocations": [
+        "false accusation"
+      ],
+      "examples": [
+        "The accusation was false."
+      ],
+      "etymology": "ac- + cus + -ation",
+      "suffix": "-ation",
+      "prefix": "ac-",
+      "suffixMeaning": "后缀",
+      "prefixMeaning": "向，朝"
+    },
+    {
+      "word": "inexcusable",
+      "pronunciation": "/ˌɪnɪkˈskjuːzəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 不可原谅的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "不可原谅的"
+        }
+      ],
+      "collocations": [
+        "inexcusable behavior"
+      ],
+      "examples": [
+        "His behavior was inexcusable."
+      ],
+      "etymology": "in-（不）+ excusable",
+      "prefix": "in-",
+      "prefixMeaning": "不"
+    }
+  ]
+}

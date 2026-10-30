@@ -1,0 +1,106 @@
+{
+  "root": "auto",
+  "meaning": "自己，自动",
+  "words": [
+    {
+      "word": "automatic",
+      "pronunciation": "/ˌɔːtəˈmætɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 自动的，无意识的",
+      "collocations": [
+        "automatic transmission",
+        "automatic door",
+        "automatic response",
+        "fully automatic"
+      ],
+      "examples": [
+        "The automatic doors opened as we approached.",
+        "Breathing is an automatic process."
+      ],
+      "etymology": "来自希腊语 autos（自己）+ matos（思考）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "自动的，无意识的"
+        }
+      ],
+      "suffix": "-ic",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "automobile",
+      "pronunciation": "/ˈɔːtəməbiːl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 汽车",
+      "collocations": [
+        "automobile industry",
+        "automobile manufacturer",
+        "automobile accident",
+        "automobile engine"
+      ],
+      "examples": [
+        "The automobile industry is rapidly changing.",
+        "He works in the automobile sector."
+      ],
+      "etymology": "来自希腊语 autos（自己）+ 拉丁语 mobilis（可移动的）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "汽车"
+        }
+      ],
+      "suffix": "-le",
+      "suffixMeaning": "小东西"
+    },
+    {
+      "word": "autonomy",
+      "pronunciation": "/ɔːˈtɒnəmi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 自治，自主权",
+      "collocations": [
+        "regional autonomy",
+        "personal autonomy",
+        "autonomy movement",
+        "grant autonomy"
+      ],
+      "examples": [
+        "The region was granted autonomy.",
+        "Personal autonomy is important."
+      ],
+      "etymology": "来自希腊语 autos（自己）+ nomos（法律）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "自治，自主权"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "autobiography",
+      "pronunciation": "/ˌɔːtəbaɪˈɒɡrəfi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 自传",
+      "collocations": [
+        "write autobiography",
+        "autobiography book",
+        "famous autobiography",
+        "autobiography of"
+      ],
+      "examples": [
+        "She wrote an autobiography about her life.",
+        "His autobiography became a bestseller."
+      ],
+      "etymology": "来自希腊语 autos（自己）+ bios（生命）+ graphein（写）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "自传"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    }
+  ]
+}

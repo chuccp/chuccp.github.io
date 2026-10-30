@@ -1,0 +1,92 @@
+{
+  "root": "cred",
+  "meaning": "相信",
+  "words": [
+    {
+      "word": "credit",
+      "pronunciation": "/ˈkredɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 信用，信贷；学分",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "信用；学分"
+        }
+      ],
+      "collocations": [
+        "credit card"
+      ],
+      "examples": [
+        "He has good credit."
+      ],
+      "etymology": "cred（相信）+ -it",
+      "suffix": "-it",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "credible",
+      "pronunciation": "/ˈkredəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 可信的，可靠的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "可信的"
+        }
+      ],
+      "collocations": [
+        "credible source"
+      ],
+      "examples": [
+        "A credible witness."
+      ],
+      "etymology": "cred（相信）+ -ible",
+      "suffix": "-ible",
+      "suffixMeaning": "能…的"
+    },
+    {
+      "word": "incredible",
+      "pronunciation": "/ɪnˈkredəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 难以置信的，惊人的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "难以置信的"
+        }
+      ],
+      "collocations": [
+        "incredible story"
+      ],
+      "examples": [
+        "An incredible performance."
+      ],
+      "etymology": "in-（不）+ cred（相信）+ -ible",
+      "suffix": "-ible",
+      "prefix": "in-",
+      "prefixMeaning": "不",
+      "suffixMeaning": "能…的"
+    },
+    {
+      "word": "creed",
+      "pronunciation": "/kriːd/",
+      "partOfSpeech": "n.",
+      "definition": "n. 信条，信纲",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "信条"
+        }
+      ],
+      "collocations": [
+        "religious creed"
+      ],
+      "examples": [
+        "His creed is simple."
+      ],
+      "etymology": "cred（相信）+ -，信仰",
+      "suffix": "-d",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

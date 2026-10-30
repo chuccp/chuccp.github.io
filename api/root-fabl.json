@@ -1,0 +1,92 @@
+{
+  "root": "fabl",
+  "meaning": "说",
+  "words": [
+    {
+      "word": "fable",
+      "pronunciation": "/ˈfeɪbl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 寓言，神话",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "寓言"
+        }
+      ],
+      "collocations": [
+        "Aesop fable"
+      ],
+      "examples": [
+        "Read a fable."
+      ],
+      "etymology": "fabl（说）+ -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "fabulous",
+      "pronunciation": "/ˈfæbjələs/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 极好的，寓言般的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "极好的"
+        }
+      ],
+      "collocations": [
+        "fabulous story"
+      ],
+      "examples": [
+        "A fabulous performance."
+      ],
+      "etymology": "fabl（说）+ -ous",
+      "suffix": "-ous",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "affable",
+      "pronunciation": "/ˈæfəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 和蔼可亲的，易接近的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "和蔼的"
+        }
+      ],
+      "collocations": [
+        "affable person"
+      ],
+      "examples": [
+        "An affable host."
+      ],
+      "etymology": "af-（向）+ fabl（说）+ -e，可与之交谈",
+      "suffix": "-e",
+      "prefix": "af-",
+      "prefixMeaning": "向",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "ineffable",
+      "pronunciation": "/ɪnˈefəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 难以言表的，不可言喻的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "难以言表的"
+        }
+      ],
+      "collocations": [
+        "ineffable beauty"
+      ],
+      "examples": [
+        "Ineffable joy."
+      ],
+      "etymology": "in-（不）+ effable（可说的）",
+      "prefix": "in-",
+      "prefixMeaning": "不"
+    }
+  ]
+}

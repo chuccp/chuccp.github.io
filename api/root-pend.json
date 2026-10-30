@@ -1,0 +1,114 @@
+{
+  "root": "pend",
+  "meaning": "悬挂",
+  "words": [
+    {
+      "word": "depend",
+      "pronunciation": "/dɪˈpend/",
+      "partOfSpeech": "v.",
+      "definition": "v. 依赖，依靠；取决于，随...而定；信赖，信任",
+      "collocations": [
+        "depend on",
+        "depend upon",
+        "depend from",
+        "depend entirely"
+      ],
+      "examples": [
+        "Children depend on their parents.",
+        "It depends on the weather."
+      ],
+      "etymology": "来自拉丁语 de-（下）+ pendere（悬挂）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "依赖，依靠；取决于，随...而定；信赖，信任"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "依赖，依靠"
+        }
+      ],
+      "prefix": "de-",
+      "prefixMeaning": "下"
+    },
+    {
+      "word": "suspend",
+      "pronunciation": "/səˈspend/",
+      "partOfSpeech": "v.",
+      "definition": "v. 暂停，中止；悬挂，吊；暂令停职/停学",
+      "collocations": [
+        "suspend judgment",
+        "suspend from",
+        "suspend operations",
+        "temporarily suspend"
+      ],
+      "examples": [
+        "The game was suspended due to rain.",
+        "He was suspended from school."
+      ],
+      "etymology": "来自拉丁语 sub-（下）+ pendere（悬挂）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "暂停，中止；悬挂，吊；暂令停职/停学"
+        }
+      ],
+      "prefix": "sub-",
+      "prefixMeaning": "下"
+    },
+    {
+      "word": "pendulum",
+      "pronunciation": "/ˈpendʒələm/",
+      "partOfSpeech": "n.",
+      "definition": "n. 钟摆，摆锤",
+      "collocations": [
+        "pendulum swing",
+        "pendulum clock",
+        "pendulum motion",
+        "swing like a pendulum"
+      ],
+      "examples": [
+        "The pendulum swings back and forth.",
+        "The clock has a brass pendulum."
+      ],
+      "etymology": "来自拉丁语 pendere（悬挂）+ -ulum 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "钟摆，摆锤"
+        }
+      ],
+      "suffix": "-um",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "pending",
+      "pronunciation": "/ˈpendɪŋ/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 待定的，未决的 prep. 在...期间；直到",
+      "collocations": [
+        "pending approval",
+        "pending decision",
+        "pending investigation",
+        "pending arrival"
+      ],
+      "examples": [
+        "The decision is still pending.",
+        "Pending further information, we wait."
+      ],
+      "etymology": "来自拉丁语 pendere（悬挂）+ -ing 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "待定的，未决的"
+        },
+        {
+          "partOfSpeech": "prep.",
+          "definition": "在...期间；直到"
+        }
+      ],
+      "suffix": "-ing",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "root": "tain",
+  "meaning": "保持",
+  "words": [
+    {
+      "word": "maintain",
+      "pronunciation": "/meɪnˈteɪn/",
+      "partOfSpeech": "v.",
+      "definition": "v. 维持，保持；维修，保养；赡养，负担；主张，断言",
+      "collocations": [
+        "maintain order",
+        "maintain contact",
+        "maintain that",
+        "maintain the machine"
+      ],
+      "examples": [
+        "We must maintain discipline.",
+        "He maintains that he is innocent."
+      ],
+      "etymology": "来自拉丁语 manu（手）+ tenere（保持）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "维持，保持；维修，保养；赡养，负担；主张，断言"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "维持，保持"
+        }
+      ],
+      "suffix": "-tain",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "contain",
+      "pronunciation": "/kənˈteɪn/",
+      "partOfSpeech": "v.",
+      "definition": "v. 包含，容纳；抑制，控制；持有，占有",
+      "collocations": [
+        "contain information",
+        "contain the fire",
+        "contain oneself",
+        "box contains"
+      ],
+      "examples": [
+        "The box contains books.",
+        "She could not contain her excitement."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ tenere（保持）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "包含，容纳；抑制，控制；持有，占有"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "含量，容量"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "obtain",
+      "pronunciation": "/əbˈteɪn/",
+      "partOfSpeech": "v.",
+      "definition": "v. 获得，得到；流行，存在",
+      "collocations": [
+        "obtain permission",
+        "obtain information",
+        "obtain a degree",
+        "easily obtain"
+      ],
+      "examples": [
+        "He obtained a passport.",
+        "Permission was obtained from the authorities."
+      ],
+      "etymology": "来自拉丁语 ob-（向）+ tenere（保持）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "获得，得到；流行，存在"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "获得，得到"
+        }
+      ],
+      "prefix": "ob-",
+      "prefixMeaning": "向"
+    },
+    {
+      "word": "sustain",
+      "pronunciation": "/səˈsteɪn/",
+      "partOfSpeech": "v.",
+      "definition": "v. 维持，支撑；遭受，经受；供养",
+      "collocations": [
+        "sustain life",
+        "sustain damage",
+        "sustain growth",
+        "sustain the family"
+      ],
+      "examples": [
+        "The company sustained heavy losses.",
+        "Plants sustain life on Earth."
+      ],
+      "etymology": "来自拉丁语 sub-（下）+ tenere（保持）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "维持，支撑；遭受，经受；供养"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "维持，支撑"
+        }
+      ],
+      "prefix": "sub-",
+      "prefixMeaning": "下"
+    }
+  ]
+}

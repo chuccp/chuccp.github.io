@@ -1,0 +1,88 @@
+{
+  "root": "cell",
+  "meaning": "小房间，细胞",
+  "words": [
+    {
+      "word": "cell",
+      "pronunciation": "/sel/",
+      "partOfSpeech": "n.",
+      "definition": "n. 细胞；小房间；电池",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "细胞；电池"
+        }
+      ],
+      "collocations": [
+        "blood cell"
+      ],
+      "examples": [
+        "The cell divides."
+      ],
+      "etymology": "cell（小房间）"
+    },
+    {
+      "word": "cellar",
+      "pronunciation": "/ˈselə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 地窖，地下室",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "地窖"
+        }
+      ],
+      "collocations": [
+        "wine cellar"
+      ],
+      "examples": [
+        "The wine is in the cellar."
+      ],
+      "etymology": "cell（房间）+ -ar",
+      "suffix": "-ar",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "cellphone",
+      "pronunciation": "/ˈselfəʊn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 手机，移动电话",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "手机"
+        }
+      ],
+      "collocations": [
+        "use cellphone"
+      ],
+      "examples": [
+        "My cellphone rang."
+      ],
+      "etymology": "cell（蜂窝）+ phone",
+      "suffix": "-phone",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "cancel",
+      "pronunciation": "/ˈkænsl/",
+      "partOfSpeech": "v.",
+      "definition": "v. 取消，撤销",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "取消"
+        }
+      ],
+      "collocations": [
+        "cancel plan"
+      ],
+      "examples": [
+        "They canceled the meeting."
+      ],
+      "etymology": "cell（小格子）+ -，划掉格子",
+      "suffix": "-el",
+      "suffixMeaning": "小东西"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "root": "vert",
+  "meaning": "转，转动",
+  "words": [
+    {
+      "word": "convert",
+      "pronunciation": "/kənˈvɜːt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 转变，转换",
+      "collocations": [
+        "convert to",
+        "convert currency",
+        "convert files",
+        "convert someone"
+      ],
+      "examples": [
+        "She converted to Buddhism.",
+        "Convert the file to PDF."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ vertere（转）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "转变，转换"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "divert",
+      "pronunciation": "/daɪˈvɜːt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 转移，使分心",
+      "collocations": [
+        "divert attention",
+        "divert traffic",
+        "divert funds",
+        "divert from"
+      ],
+      "examples": [
+        "The scandal diverted attention from the issue.",
+        "Traffic was diverted around the accident."
+      ],
+      "etymology": "来自拉丁语 di-（分开）+ vertere（转）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "转移，使分心"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "reverse",
+      "pronunciation": "/rɪˈvɜːs/",
+      "partOfSpeech": "v.",
+      "definition": "v. 颠倒，反转；撤销，废除 adj. 相反的，颠倒的 n. 相反，反面；挫折，失败",
+      "collocations": [
+        "reverse the decision",
+        "reverse gear",
+        "reverse order",
+        "in reverse"
+      ],
+      "examples": [
+        "The court reversed the decision.",
+        "Put the car in reverse."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ vertere（转）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "颠倒，反转；撤销，废除；使倒退，使反向"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "相反的，颠倒的；背面的，反面的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "相反，反面；挫折，失败；倒退，逆向"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    }
+  ]
+}

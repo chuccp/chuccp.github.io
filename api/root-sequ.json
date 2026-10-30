@@ -1,0 +1,122 @@
+{
+  "root": "sequ",
+  "meaning": "跟随，继续",
+  "words": [
+    {
+      "word": "sequence",
+      "pronunciation": "/ˈsiːkwəns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 顺序，序列；连续，一连串 v. 按顺序排列",
+      "collocations": [
+        "in sequence",
+        "DNA sequence",
+        "sequence of",
+        "correct sequence"
+      ],
+      "examples": [
+        "The events occurred in sequence.",
+        "Scientists decoded the DNA sequence."
+      ],
+      "etymology": "来自拉丁语 sequi（跟随）+ -ence 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "顺序，序列；连续，一连串"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "按顺序排列"
+        }
+      ],
+      "suffix": "-ence",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "consequence",
+      "pronunciation": "/ˈkɒnsɪkwəns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 结果，后果；重要性，重大",
+      "collocations": [
+        "face the consequences",
+        "serious consequence",
+        "as a consequence",
+        "unintended consequence"
+      ],
+      "examples": [
+        "You must face the consequences of your actions.",
+        "The consequence was severe."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ sequi（跟随）+ -ence 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "结果，后果；重要性，重大"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "重要的，结果的"
+        }
+      ],
+      "suffix": "-ence",
+      "prefix": "con-",
+      "prefixMeaning": "一起",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "subsequent",
+      "pronunciation": "/ˈsʌbsɪkwənt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 随后的，后来的；接着发生的",
+      "collocations": [
+        "subsequent events",
+        "subsequent years",
+        "subsequent to",
+        "subsequent development"
+      ],
+      "examples": [
+        "Subsequent events proved him right.",
+        "In subsequent years, she became famous."
+      ],
+      "etymology": "来自拉丁语 sub-（后）+ sequi（跟随）+ -ent 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "随后的，后来的；接着发生的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "随后发生的事"
+        }
+      ],
+      "suffix": "-ent",
+      "prefix": "sub-",
+      "prefixMeaning": "后",
+      "suffixMeaning": "形容词后缀"
+    },
+    {
+      "word": "sequel",
+      "pronunciation": "/ˈsiːkwəl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 续集，续篇；后果",
+      "collocations": [
+        "movie sequel",
+        "direct sequel",
+        "sequel to",
+        "release a sequel"
+      ],
+      "examples": [
+        "The sequel was even better than the original.",
+        "This book is a sequel to the first novel."
+      ],
+      "etymology": "来自拉丁语 sequi（跟随）+ -el 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "续集，续篇；后果"
+        }
+      ],
+      "suffix": "-el",
+      "suffixMeaning": "小东西"
+    }
+  ]
+}

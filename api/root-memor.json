@@ -1,0 +1,116 @@
+{
+  "root": "memor",
+  "meaning": "记忆",
+  "words": [
+    {
+      "word": "memory",
+      "pronunciation": "/ˈmeməri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 记忆，记忆力；回忆，纪念；存储（器）",
+      "collocations": [
+        "good memory",
+        "memory loss",
+        "in memory of",
+        "childhood memory"
+      ],
+      "examples": [
+        "She has an excellent memory.",
+        "The monument is in memory of the victims."
+      ],
+      "etymology": "来自拉丁语 memor（记得）+ -y 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "记忆，记忆力；回忆，纪念；存储（器）"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "记忆的，存储的"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "memorial",
+      "pronunciation": "/məˈmɔːriəl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 纪念碑，纪念物；纪念仪式 adj. 纪念的，悼念的",
+      "collocations": [
+        "war memorial",
+        "memorial service",
+        "memorial park",
+        "memorial day"
+      ],
+      "examples": [
+        "They built a memorial to the heroes.",
+        "The memorial service was held yesterday."
+      ],
+      "etymology": "来自拉丁语 memor（记得）+ -ial 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "纪念碑，纪念物；纪念仪式"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "纪念的，悼念的"
+        }
+      ],
+      "suffix": "-ial",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "memorize",
+      "pronunciation": "/ˈmeməraɪz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 记住，记忆",
+      "collocations": [
+        "memorize the text",
+        "memorize names",
+        "memorize formulas",
+        "help memorize"
+      ],
+      "examples": [
+        "Students must memorize the poem.",
+        "She memorized all the capitals."
+      ],
+      "etymology": "来自拉丁语 memor（记得）+ -ize 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "记住，记忆"
+        }
+      ],
+      "suffix": "-ize",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "commemorate",
+      "pronunciation": "/kəˈmeməreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 纪念，庆祝",
+      "collocations": [
+        "commemorate the event",
+        "commemorate the anniversary",
+        "commemorate the victory",
+        "commemorate someone"
+      ],
+      "examples": [
+        "The ceremony commemorates the fallen soldiers.",
+        "The stamp commemorates the occasion."
+      ],
+      "etymology": "来自拉丁语 com-（共同）+ memor（记得）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "纪念，庆祝"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "com-",
+      "prefixMeaning": "共同",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

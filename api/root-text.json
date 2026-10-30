@@ -1,0 +1,81 @@
+{
+  "root": "text",
+  "meaning": "编织",
+  "words": [
+    {
+      "word": "text",
+      "pronunciation": "/tekst/",
+      "partOfSpeech": "n.",
+      "definition": "n. 文本，课文；原文，正文；短信；版本，文本",
+      "collocations": [
+        "read the text",
+        "text message",
+        "source text",
+        "text analysis"
+      ],
+      "examples": [
+        "Read the text carefully.",
+        "She sent me a text message."
+      ],
+      "etymology": "来自拉丁语 textus（编织）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "文本，课文；原文，正文；短信；版本，文本"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "context",
+      "pronunciation": "/ˈkɒntekst/",
+      "partOfSpeech": "n.",
+      "definition": "n. 上下文，语境；背景，环境；来龙去脉",
+      "collocations": [
+        "in context",
+        "out of context",
+        "historical context",
+        "context of"
+      ],
+      "examples": [
+        "The quote was taken out of context.",
+        "You need to understand the historical context."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ texere（编织）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "上下文，语境；背景，环境；来龙去脉"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "texture",
+      "pronunciation": "/ˈtekstʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 质地，纹理；结构",
+      "collocations": [
+        "smooth texture",
+        "rough texture",
+        "texture of",
+        "skin texture"
+      ],
+      "examples": [
+        "The fabric has a smooth texture.",
+        "The cake has a light texture."
+      ],
+      "etymology": "来自拉丁语 texere（编织）+ -ure 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "质地，纹理；结构"
+        }
+      ],
+      "suffix": "-ture",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

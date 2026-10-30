@@ -1,0 +1,214 @@
+{
+  "root": "un",
+  "meaning": "一",
+  "words": [
+    {
+      "word": "union",
+      "pronunciation": "/ˈjuːnjən/",
+      "partOfSpeech": "n.",
+      "definition": "n. 联合，联盟；工会",
+      "collocations": [
+        "trade union",
+        "European Union",
+        "labor union",
+        "union membership"
+      ],
+      "examples": [
+        "The union negotiated better wages.",
+        "The European Union has 27 members."
+      ],
+      "etymology": "来自拉丁语 unus（一）+ -ion 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "联合，联盟；工会"
+        }
+      ],
+      "suffix": "-ion",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "unique",
+      "pronunciation": "/juˈniːk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 独特的，唯一的",
+      "collocations": [
+        "unique opportunity",
+        "unique style",
+        "truly unique",
+        "unique feature"
+      ],
+      "examples": [
+        "Each person has unique fingerprints.",
+        "This is a unique opportunity."
+      ],
+      "etymology": "来自拉丁语 unus（一）+ -ique 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "独特的，唯一的"
+        }
+      ],
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "unify",
+      "pronunciation": "/ˈjuːnɪfaɪ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 统一，使联合",
+      "collocations": [
+        "unify the country",
+        "unify theory",
+        "unify standards",
+        "unify efforts"
+      ],
+      "examples": [
+        "The leader sought to unify the nation.",
+        "Scientists try to unify the theories."
+      ],
+      "etymology": "来自拉丁语 unus（一）+ facere（做）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "统一，使联合"
+        }
+      ],
+      "suffix": "-ify",
+      "suffixMeaning": "使…化"
+    },
+    {
+      "word": "unite",
+      "pronunciation": "/juˈnaɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 联合，团结；统一，合并",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "联合，团结；统一，合并"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "联合的，统一的"
+        }
+      ],
+      "collocations": [
+        "unite with",
+        "unite against",
+        "unite the country",
+        "united effort"
+      ],
+      "examples": [
+        "We must unite to fight the enemy.",
+        "The two companies united last year."
+      ],
+      "etymology": "un-（一）+ ite（动词后缀），使成为一体",
+      "prefix": "un-",
+      "prefixMeaning": "一"
+    },
+    {
+      "word": "universal",
+      "pronunciation": "/ˌjuːnɪˈvɜːsl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 普遍的，全体的；通用的；宇宙的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "普遍的，全体的；通用的；宇宙的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "普遍原则；通用事物"
+        }
+      ],
+      "collocations": [
+        "universal truth",
+        "universal language",
+        "universal suffrage",
+        "universal access"
+      ],
+      "examples": [
+        "Love is a universal language.",
+        "The law has universal application."
+      ],
+      "etymology": "un-（一）+ vers（转）+ al（形容词后缀），转向一体的",
+      "prefix": "un-",
+      "prefixMeaning": "一"
+    },
+    {
+      "word": "universe",
+      "pronunciation": "/ˈjuːnɪvɜːs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 宇宙，万物；领域，范围",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "宇宙，万物；领域，范围"
+        }
+      ],
+      "collocations": [
+        "the universe",
+        "parallel universe",
+        "known universe",
+        "expand the universe"
+      ],
+      "examples": [
+        "The universe is vast and mysterious.",
+        "He lives in his own universe."
+      ],
+      "etymology": "un-（一）+ vers（转）+ e（名词后缀），转成一体的东西",
+      "prefix": "un-",
+      "prefixMeaning": "一"
+    },
+    {
+      "word": "university",
+      "pronunciation": "/ˌjuːnɪˈvɜːsəti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 大学，综合性大学",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "大学，综合性大学"
+        }
+      ],
+      "collocations": [
+        "attend university",
+        "university student",
+        "university professor",
+        "research university"
+      ],
+      "examples": [
+        "She studies at Beijing University.",
+        "The university has 20000 students."
+      ],
+      "etymology": "univers（宇宙，全部）+ ity（名词后缀），知识的全部",
+      "suffix": "-ity",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "unanimous",
+      "pronunciation": "/juˈnænɪməs/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 全体一致的，无异议的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "全体一致的，无异议的"
+        }
+      ],
+      "collocations": [
+        "unanimous decision",
+        "unanimous vote",
+        "unanimous consent",
+        "unanimous agreement"
+      ],
+      "examples": [
+        "The jury reached a unanimous verdict.",
+        "The motion was passed unanimously."
+      ],
+      "etymology": "un-（一）+ anim（生命，精神）+ ous（形容词后缀），精神一致的",
+      "prefix": "un-",
+      "prefixMeaning": "一"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "root": "geo",
+  "meaning": "地球",
+  "words": [
+    {
+      "word": "geography",
+      "pronunciation": "/dʒiˈɒɡrəfi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 地理，地理学；地形，地貌",
+      "collocations": [
+        "study geography",
+        "physical geography",
+        "human geography",
+        "world geography"
+      ],
+      "examples": [
+        "She studied geography at university.",
+        "The geography of the region is diverse."
+      ],
+      "etymology": "来自希腊语 ge（地球）+ graphein（写）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "地理，地理学；地形，地貌"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "geology",
+      "pronunciation": "/dʒiˈɒlədʒi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 地质学，地质；地质情况，地质特征",
+      "collocations": [
+        "study geology",
+        "regional geology",
+        "geology of",
+        "engineering geology"
+      ],
+      "examples": [
+        "The geology of this area is complex.",
+        "He works as a professor of geology."
+      ],
+      "etymology": "来自希腊语 ge（地球）+ logos（学科）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "地质学，地质；地质情况，地质特征"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "geometry",
+      "pronunciation": "/dʒiˈɒmətri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 几何，几何学",
+      "collocations": [
+        "study geometry",
+        "Euclidean geometry",
+        "analytic geometry",
+        "geometry problem"
+      ],
+      "examples": [
+        "We learned geometry in high school.",
+        "The building has interesting geometric shapes."
+      ],
+      "etymology": "来自希腊语 ge（地球）+ metron（测量）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "几何，几何学"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "root": "don",
+  "meaning": "给予",
+  "words": [
+    {
+      "word": "donate",
+      "pronunciation": "/dəʊˈneɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 捐赠，捐献",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "捐赠"
+        }
+      ],
+      "collocations": [
+        "donate money"
+      ],
+      "examples": [
+        "Donate to charity."
+      ],
+      "etymology": "don（给予）+ -ate",
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "donor",
+      "pronunciation": "/ˈdəʊnə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 捐赠者，供血者",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "捐赠者"
+        }
+      ],
+      "collocations": [
+        "blood donor"
+      ],
+      "examples": [
+        "He is a donor."
+      ],
+      "etymology": "don（给予）+ -or",
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "pardon",
+      "pronunciation": "/ˈpɑːdn/",
+      "partOfSpeech": "v.",
+      "definition": "v. 原谅，宽恕",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "原谅"
+        }
+      ],
+      "collocations": [
+        "pardon me"
+      ],
+      "examples": [
+        "Pardon my mistake."
+      ],
+      "etymology": "par-（完全）+ don（给予）",
+      "suffix": "-on",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "condone",
+      "pronunciation": "/kənˈdəʊn/",
+      "partOfSpeech": "v.",
+      "definition": "v. 宽恕，纵容",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "宽恕"
+        }
+      ],
+      "collocations": [
+        "condone violence"
+      ],
+      "examples": [
+        "Cannot condone this."
+      ],
+      "etymology": "con-（完全）+ done（给予）",
+      "prefix": "con-",
+      "prefixMeaning": "完全"
+    }
+  ]
+}

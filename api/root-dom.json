@@ -1,0 +1,90 @@
+{
+  "root": "dom",
+  "meaning": "屋，家",
+  "words": [
+    {
+      "word": "dome",
+      "pronunciation": "/dəʊm/",
+      "partOfSpeech": "n.",
+      "definition": "n. 圆屋顶，穹顶",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "圆屋顶"
+        }
+      ],
+      "collocations": [
+        "dome roof"
+      ],
+      "examples": [
+        "The dome is large."
+      ],
+      "etymology": "dom（屋）+ -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "domestic",
+      "pronunciation": "/dəˈmestɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 家庭的，国内的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "家庭的"
+        }
+      ],
+      "collocations": [
+        "domestic violence"
+      ],
+      "examples": [
+        "Domestic affairs."
+      ],
+      "etymology": "dom（屋）+ -estic",
+      "suffix": "-estic",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "domain",
+      "pronunciation": "/dəˈmeɪn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 领域，领土；域名",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "领域"
+        }
+      ],
+      "collocations": [
+        "public domain"
+      ],
+      "examples": [
+        "In my domain."
+      ],
+      "etymology": "dom（屋）+ -ain",
+      "suffix": "-ain",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "dominate",
+      "pronunciation": "/ˈdɒmɪneɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 支配，统治",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "支配"
+        }
+      ],
+      "collocations": [
+        "dominate market"
+      ],
+      "examples": [
+        "They dominate the industry."
+      ],
+      "etymology": "dom（屋）+ -inate，家主",
+      "suffix": "-inate",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

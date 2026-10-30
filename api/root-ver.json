@@ -1,0 +1,94 @@
+{
+  "root": "ver",
+  "meaning": "真实",
+  "words": [
+    {
+      "word": "verify",
+      "pronunciation": "/ˈverɪfaɪ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 核实，验证",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "核实"
+        }
+      ],
+      "collocations": [
+        "verify the information",
+        "verify identity"
+      ],
+      "examples": [
+        "Please verify your email."
+      ],
+      "etymology": "ver（真实）+ -ify（使）",
+      "suffix": "-ify",
+      "suffixMeaning": "使"
+    },
+    {
+      "word": "verdict",
+      "pronunciation": "/ˈvɜːdɪkt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 裁决，判决；定论",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "裁决"
+        }
+      ],
+      "collocations": [
+        "guilty verdict",
+        "reach a verdict"
+      ],
+      "examples": [
+        "The jury reached a verdict."
+      ],
+      "etymology": "ver（真实）+ dict（说）",
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "verify",
+      "pronunciation": "/ˈverɪfaɪ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 证实，证明",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "证实"
+        }
+      ],
+      "collocations": [
+        "verify the facts",
+        "verify claim"
+      ],
+      "examples": [
+        "The evidence verified his story."
+      ],
+      "etymology": "ver（真实）+ -ify",
+      "suffix": "-ify",
+      "suffixMeaning": "使…化"
+    },
+    {
+      "word": "veritable",
+      "pronunciation": "/ˈverɪtəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 真正的，名副其实的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "真正的"
+        }
+      ],
+      "collocations": [
+        "veritable feast",
+        "veritable treasure"
+      ],
+      "examples": [
+        "It was a veritable feast."
+      ],
+      "etymology": "ver（真实）+ -it + -able",
+      "suffix": "-able",
+      "suffixMeaning": "能…的"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "root": "scope",
+  "meaning": "看，观察",
+  "words": [
+    {
+      "word": "telescope",
+      "pronunciation": "/ˈtelɪskəʊp/",
+      "partOfSpeech": "n.",
+      "definition": "n. 望远镜 v. 使套叠，使缩成筒状",
+      "collocations": [
+        "space telescope",
+        "look through telescope",
+        "powerful telescope",
+        "Hubble telescope"
+      ],
+      "examples": [
+        "He looked at the stars through a telescope.",
+        "The Hubble telescope has sent amazing images."
+      ],
+      "etymology": "来自希腊语 tele-（远）+ skopein（看）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "望远镜"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "使套叠，使缩成筒状；把...叠成筒状"
+        }
+      ],
+      "suffix": "-scope",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "microscope",
+      "pronunciation": "/ˈmaɪkrəskəʊp/",
+      "partOfSpeech": "n.",
+      "definition": "n. 显微镜",
+      "collocations": [
+        "look under microscope",
+        "electron microscope",
+        "powerful microscope",
+        "microscope slide"
+      ],
+      "examples": [
+        "The cells were examined under a microscope.",
+        "The electron microscope reveals tiny details."
+      ],
+      "etymology": "来自希腊语 mikros（小）+ skopein（看）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "显微镜"
+        }
+      ],
+      "suffix": "-scope",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "periscope",
+      "pronunciation": "/ˈperɪskəʊp/",
+      "partOfSpeech": "n.",
+      "definition": "n. 潜望镜",
+      "collocations": [
+        "submarine periscope",
+        "look through periscope",
+        "raise the periscope",
+        "periscope view"
+      ],
+      "examples": [
+        "The captain looked through the periscope.",
+        "The submarine raised its periscope."
+      ],
+      "etymology": "来自希腊语 peri-（周围）+ skopein（看）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "潜望镜"
+        }
+      ],
+      "prefix": "peri-",
+      "prefixMeaning": "周围"
+    }
+  ]
+}

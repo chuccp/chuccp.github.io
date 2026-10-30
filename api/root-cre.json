@@ -1,0 +1,90 @@
+{
+  "root": "cre",
+  "meaning": "生长，创造",
+  "words": [
+    {
+      "word": "create",
+      "pronunciation": "/kriˈeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 创造，创建；造成",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "创造"
+        }
+      ],
+      "collocations": [
+        "create art"
+      ],
+      "examples": [
+        "She created a masterpiece."
+      ],
+      "etymology": "cre（生长）+ -ate",
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "creature",
+      "pronunciation": "/ˈkriːtʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 生物，动物；人",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "生物"
+        }
+      ],
+      "collocations": [
+        "strange creature"
+      ],
+      "examples": [
+        "A strange creature."
+      ],
+      "etymology": "cre（生长）+ -ature",
+      "suffix": "-ature",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "recreate",
+      "pronunciation": "/ˌriːkriˈeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 再创造，重建；娱乐",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "再创造"
+        }
+      ],
+      "collocations": [
+        "recreate the scene"
+      ],
+      "examples": [
+        "Recreate the experiment."
+      ],
+      "etymology": "re-（再）+ create",
+      "prefix": "re-",
+      "prefixMeaning": "再"
+    },
+    {
+      "word": "procreate",
+      "pronunciation": "/ˈprəʊkrieɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 生育，繁殖",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "生育"
+        }
+      ],
+      "collocations": [
+        "procreate offspring"
+      ],
+      "examples": [
+        "Animals procreate."
+      ],
+      "etymology": "pro-（前）+ create",
+      "prefix": "pro-",
+      "prefixMeaning": "前"
+    }
+  ]
+}

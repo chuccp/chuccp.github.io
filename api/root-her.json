@@ -1,0 +1,98 @@
+{
+  "root": "her",
+  "meaning": "粘附",
+  "words": [
+    {
+      "word": "adhere",
+      "pronunciation": "/ədˈhɪə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 粘附，附着；遵守",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "粘附；遵守"
+        }
+      ],
+      "collocations": [
+        "adhere to",
+        "adhere to the rules"
+      ],
+      "examples": [
+        "The sticker adheres to the wall."
+      ],
+      "etymology": "ad-（向）+ her（粘）+ -e",
+      "prefix": "ad-",
+      "prefixMeaning": "向",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "cohere",
+      "pronunciation": "/kəʊˈhɪə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 连贯，一致；粘合",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "连贯，一致"
+        }
+      ],
+      "collocations": [
+        "cohere with",
+        "cohere together"
+      ],
+      "examples": [
+        "The argument does not cohere."
+      ],
+      "etymology": "co-（共同）+ here（粘）",
+      "prefix": "co-",
+      "prefixMeaning": "共同"
+    },
+    {
+      "word": "inherit",
+      "pronunciation": "/ɪnˈherɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 继承，遗传而得",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "继承"
+        }
+      ],
+      "collocations": [
+        "inherit from",
+        "inherit money"
+      ],
+      "examples": [
+        "She inherited the house."
+      ],
+      "etymology": "in-（入）+ her（粘）+ -it",
+      "prefix": "in-",
+      "prefixMeaning": "入",
+      "suffix": "-it",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "hesitate",
+      "pronunciation": "/ˈhezɪteɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 犹豫，踌躇",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "犹豫"
+        }
+      ],
+      "collocations": [
+        "hesitate to",
+        "hesitate about"
+      ],
+      "examples": [
+        "Do not hesitate to ask."
+      ],
+      "etymology": "her（粘）+ -sit + -ate，粘住不动",
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

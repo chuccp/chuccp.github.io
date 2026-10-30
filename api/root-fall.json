@@ -1,0 +1,71 @@
+{
+  "root": "fall",
+  "meaning": "欺骗",
+  "words": [
+    {
+      "word": "fallacy",
+      "pronunciation": "/ˈfæləsi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 谬误，谬论",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "谬误"
+        }
+      ],
+      "collocations": [
+        "logical fallacy"
+      ],
+      "examples": [
+        "A common fallacy."
+      ],
+      "etymology": "fall（欺骗）+ -acy",
+      "suffix": "-acy",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "fallacious",
+      "pronunciation": "/fəˈleɪʃəs/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 谬误的，错误的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "谬误的"
+        }
+      ],
+      "collocations": [
+        "fallacious argument"
+      ],
+      "examples": [
+        "A fallacious claim."
+      ],
+      "etymology": "fall（欺骗）+ -acious",
+      "suffix": "-acious",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "infallible",
+      "pronunciation": "/ɪnˈfæləbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 不会犯错的，绝对可靠的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "不会犯错的"
+        }
+      ],
+      "collocations": [
+        "infallible method"
+      ],
+      "examples": [
+        "No one is infallible."
+      ],
+      "etymology": "in-（不）+ fall（欺骗）+ -ible",
+      "suffix": "-ible",
+      "prefix": "in-",
+      "prefixMeaning": "不",
+      "suffixMeaning": "能…的"
+    }
+  ]
+}

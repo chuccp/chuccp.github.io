@@ -1,0 +1,126 @@
+{
+  "root": "it",
+  "meaning": "走",
+  "words": [
+    {
+      "word": "initial",
+      "pronunciation": "/ɪˈnɪʃl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 最初的，开始的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "最初的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "首字母"
+        }
+      ],
+      "collocations": [
+        "initial stage",
+        "initial reaction"
+      ],
+      "examples": [
+        "My initial reaction was surprise."
+      ],
+      "etymology": "in-（入）+ it（走）+ -ial",
+      "suffix": "-ial",
+      "prefix": "in-",
+      "prefixMeaning": "入",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "circuit",
+      "pronunciation": "/ˈsɜːkɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 电路，回路；巡回",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "电路；巡回"
+        }
+      ],
+      "collocations": [
+        "electric circuit",
+        "circuit breaker"
+      ],
+      "examples": [
+        "The circuit is complete."
+      ],
+      "etymology": "circum-（环绕）+ it（走）",
+      "prefix": "circum-",
+      "prefixMeaning": "环绕"
+    },
+    {
+      "word": "exit",
+      "pronunciation": "/ˈeɡzɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 出口，通道 v. 离开",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "出口"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "离开"
+        }
+      ],
+      "collocations": [
+        "emergency exit",
+        "exit the building"
+      ],
+      "examples": [
+        "Use the emergency exit."
+      ],
+      "etymology": "ex-（出）+ it（走）",
+      "prefix": "ex-",
+      "prefixMeaning": "出"
+    },
+    {
+      "word": "transit",
+      "pronunciation": "/ˈtrænzɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 运输，运送；过境",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "运输；过境"
+        }
+      ],
+      "collocations": [
+        "in transit",
+        "public transit"
+      ],
+      "examples": [
+        "The goods are in transit."
+      ],
+      "etymology": "trans-（穿过）+ it（走）",
+      "prefix": "trans-",
+      "prefixMeaning": "穿过"
+    },
+    {
+      "word": "ambition",
+      "pronunciation": "/æmˈbɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 野心，抱负；雄心",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "野心，抱负"
+        }
+      ],
+      "collocations": [
+        "have ambition",
+        "achieve ambition"
+      ],
+      "examples": [
+        "She has great ambition."
+      ],
+      "etymology": "amb-（周围）+ it（走）+ -ion，到处走动求票",
+      "suffix": "-ion",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

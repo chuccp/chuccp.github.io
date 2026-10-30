@@ -1,0 +1,81 @@
+{
+  "root": "path",
+  "meaning": "感情",
+  "words": [
+    {
+      "word": "sympathy",
+      "pronunciation": "/ˈsɪmpəθi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 同情，同情心",
+      "collocations": [
+        "express sympathy",
+        "sympathy for",
+        "sympathy card",
+        "deep sympathy"
+      ],
+      "examples": [
+        "I feel sympathy for the victims.",
+        "She expressed her sympathy."
+      ],
+      "etymology": "来自希腊语 syn-（一起）+ pathos（感情）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "同情，同情心"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "empathy",
+      "pronunciation": "/ˈempəθi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 共情，移情",
+      "collocations": [
+        "show empathy",
+        "empathy for",
+        "empathy skill",
+        "cognitive empathy"
+      ],
+      "examples": [
+        "She showed great empathy for the patient.",
+        "Empathy is important in relationships."
+      ],
+      "etymology": "来自希腊语 en-（入）+ pathos（感情）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "共情，移情"
+        }
+      ],
+      "prefix": "en-",
+      "prefixMeaning": "入"
+    },
+    {
+      "word": "apathy",
+      "pronunciation": "/ˈæpəθi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 冷漠，无兴趣",
+      "collocations": [
+        "public apathy",
+        "political apathy",
+        "apathy toward",
+        "complete apathy"
+      ],
+      "examples": [
+        "There is public apathy toward the election.",
+        "His apathy was concerning."
+      ],
+      "etymology": "来自希腊语 a-（无）+ pathos（感情）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "冷漠，无兴趣"
+        }
+      ],
+      "prefix": "a-",
+      "prefixMeaning": "无"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "root": "sent",
+  "meaning": "感觉",
+  "words": [
+    {
+      "word": "sentiment",
+      "pronunciation": "/ˈsentɪmənt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 情感，情绪；观点",
+      "collocations": [
+        "public sentiment",
+        "sentiment analysis",
+        "romantic sentiment",
+        "sentiment of"
+      ],
+      "examples": [
+        "Public sentiment turned against the war.",
+        "The sentiment is widely shared."
+      ],
+      "etymology": "来自拉丁语 sentire（感觉）+ -ment 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "情感，情绪；观点"
+        }
+      ],
+      "suffix": "-ment",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "consent",
+      "pronunciation": "/kənˈsent/",
+      "partOfSpeech": "n.",
+      "definition": "n. 同意，准许，赞同 v. 同意，准许，赞同",
+      "collocations": [
+        "give consent",
+        "informed consent",
+        "consent to",
+        "without consent"
+      ],
+      "examples": [
+        "She gave her consent.",
+        "He consented to the procedure."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ sentire（感觉）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "同意，准许，赞同"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "同意，准许，赞同"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "dissent",
+      "pronunciation": "/dɪˈsent/",
+      "partOfSpeech": "n.",
+      "definition": "n. 异议，不同意；异端，异见 v. 持异议，不同意",
+      "collocations": [
+        "voice dissent",
+        "dissent from",
+        "dissent opinion",
+        "lone dissent"
+      ],
+      "examples": [
+        "There was dissent among the members.",
+        "He dissented from the majority."
+      ],
+      "etymology": "来自拉丁语 dis-（分开）+ sentire（感觉）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "异议，不同意；异端，异见"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "持异议，不同意"
+        }
+      ],
+      "prefix": "dis-",
+      "prefixMeaning": "分开"
+    },
+    {
+      "word": "sentence",
+      "pronunciation": "/ˈsentəns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 句子；判决，宣判；刑期 v. 判决，宣判；判刑",
+      "collocations": [
+        "complete sentence",
+        "prison sentence",
+        "sentence structure",
+        "life sentence"
+      ],
+      "examples": [
+        "Write a complete sentence.",
+        "He received a life sentence."
+      ],
+      "etymology": "来自拉丁语 sentire（感觉）+ -ence 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "句子；判决，宣判；刑期"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "判决，宣判；判刑"
+        }
+      ],
+      "suffix": "-ence",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

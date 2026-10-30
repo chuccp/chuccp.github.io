@@ -1,0 +1,89 @@
+{
+  "root": "mort",
+  "meaning": "死",
+  "words": [
+    {
+      "word": "mortal",
+      "pronunciation": "/ˈmɔːtl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 终有一死的，致命的；不共戴天的 n. 凡人，人类",
+      "collocations": [
+        "mortal danger",
+        "mortal enemy",
+        "mortal sin",
+        "mere mortal"
+      ],
+      "examples": [
+        "All humans are mortal.",
+        "The wound was mortal."
+      ],
+      "etymology": "来自拉丁语 mors（死亡）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "终有一死的，致命的；不共戴天的；极度的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "凡人，人类"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "mortgage",
+      "pronunciation": "/ˈmɔːɡɪdʒ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 抵押贷款，按揭；抵押，质押 v. 抵押，按揭；以...作抵押",
+      "collocations": [
+        "home mortgage",
+        "mortgage rate",
+        "pay off mortgage",
+        "mortgage the house"
+      ],
+      "examples": [
+        "They took out a mortgage.",
+        "He mortgaged his house to pay debts."
+      ],
+      "etymology": "来自拉丁语 mors（死亡）+ gage（担保），意为死担保",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "抵押贷款，按揭；抵押，质押"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "抵押，按揭；以...作抵押"
+        }
+      ],
+      "suffix": "-age",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "mortuary",
+      "pronunciation": "/ˈmɔːtʃuəri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 停尸房，殡仪馆",
+      "collocations": [
+        "hospital mortuary",
+        "mortuary van",
+        "mortuary services",
+        "mortuary science"
+      ],
+      "examples": [
+        "The body was taken to the mortuary.",
+        "She works at the mortuary."
+      ],
+      "etymology": "来自拉丁语 mors（死亡）+ -uary 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "停尸房，殡仪馆"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

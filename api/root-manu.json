@@ -1,0 +1,85 @@
+{
+  "root": "manu",
+  "meaning": "手",
+  "words": [
+    {
+      "word": "manure",
+      "pronunciation": "/məˈnjʊə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 肥料，粪肥",
+      "collocations": [
+        "organic manure",
+        "animal manure",
+        "spread manure",
+        "natural manure"
+      ],
+      "examples": [
+        "Farmers spread manure on the fields.",
+        "Organic manure improves soil quality."
+      ],
+      "etymology": "来自拉丁语 manus（手）+ operari（工作）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "肥料，粪肥"
+        }
+      ],
+      "suffix": "-ure",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "manicure",
+      "pronunciation": "/ˈmænɪkjʊə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 修指甲，美甲 v. 给...修指甲",
+      "collocations": [
+        "get a manicure",
+        "manicure set",
+        "manicure salon",
+        "professional manicure"
+      ],
+      "examples": [
+        "She got a manicure at the salon.",
+        "He manicured his nails carefully."
+      ],
+      "etymology": "来自拉丁语 manus（手）+ cura（护理）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "修指甲，美甲"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "给...修指甲"
+        }
+      ],
+      "suffix": "-ure",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "manipulate",
+      "pronunciation": "/məˈnɪpjuleɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 操纵，操控；巧妙地处理",
+      "collocations": [
+        "manipulate data",
+        "manipulate the market",
+        "manipulate people",
+        "skillfully manipulate"
+      ],
+      "examples": [
+        "He manipulated the stock prices.",
+        "She can manipulate the system."
+      ],
+      "etymology": "来自拉丁语 manus（手）+ plere（装满）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "操纵，操控；巧妙地处理"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

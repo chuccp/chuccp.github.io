@@ -1,0 +1,120 @@
+{
+  "root": "fer",
+  "meaning": "携带，运送",
+  "words": [
+    {
+      "word": "transfer",
+      "pronunciation": "/trænsˈfɜː/",
+      "partOfSpeech": "v.",
+      "definition": "v. 转移，调动；转让",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "转移，调动"
+        }
+      ],
+      "collocations": [
+        "transfer to",
+        "transfer money"
+      ],
+      "examples": [
+        "He transferred to another department."
+      ],
+      "etymology": "trans-（穿过）+ fer（携带）",
+      "prefix": "trans-",
+      "prefixMeaning": "穿过"
+    },
+    {
+      "word": "refer",
+      "pronunciation": "/rɪˈfɜː/",
+      "partOfSpeech": "v.",
+      "definition": "v. 参考，查阅；提到",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "参考；提到"
+        }
+      ],
+      "collocations": [
+        "refer to",
+        "refer a patient"
+      ],
+      "examples": [
+        "Please refer to the manual."
+      ],
+      "etymology": "re-（回）+ fer（携带）",
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    },
+    {
+      "word": "prefer",
+      "pronunciation": "/prɪˈfɜː/",
+      "partOfSpeech": "v.",
+      "definition": "v. 更喜欢，宁愿",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "更喜欢"
+        }
+      ],
+      "collocations": [
+        "prefer to",
+        "prefer A to B"
+      ],
+      "examples": [
+        "I prefer tea to coffee."
+      ],
+      "etymology": "pre-（在前）+ fer（携带）",
+      "prefix": "pre-",
+      "prefixMeaning": "在前"
+    },
+    {
+      "word": "suffer",
+      "pronunciation": "/ˈsʌfə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 遭受，忍受；受苦",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "遭受，忍受"
+        }
+      ],
+      "collocations": [
+        "suffer from",
+        "suffer pain"
+      ],
+      "examples": [
+        "He suffers from headaches."
+      ],
+      "etymology": "sub-（下）+ fer（携带）",
+      "prefix": "sub-",
+      "prefixMeaning": "下"
+    },
+    {
+      "word": "offer",
+      "pronunciation": "/ˈɒfə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 提供，给予；提议",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "提供；提议"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "提议"
+        }
+      ],
+      "collocations": [
+        "offer help",
+        "job offer"
+      ],
+      "examples": [
+        "She offered to help."
+      ],
+      "etymology": "ob-（向）+ fer（携带）",
+      "prefix": "ob-",
+      "prefixMeaning": "向"
+    }
+  ]
+}

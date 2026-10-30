@@ -1,0 +1,114 @@
+{
+  "root": "tract",
+  "meaning": "拉",
+  "words": [
+    {
+      "word": "tract",
+      "pronunciation": "/trækt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 地带，道； tract",
+      "collocations": [
+        "residential tract",
+        "digestive tract",
+        "tract of land",
+        "housing tract"
+      ],
+      "examples": [
+        "The digestive tract processes food.",
+        "They built houses on the tract."
+      ],
+      "etymology": "来自拉丁语 trahere（拉）+ -t 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "地带，道； tract"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "attract",
+      "pronunciation": "/əˈtrækt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 吸引，引起...的注意；诱惑，招引",
+      "collocations": [
+        "attract attention",
+        "attract customers",
+        "attract investment",
+        "attract visitors"
+      ],
+      "examples": [
+        "The flower attracts bees.",
+        "The city attracts millions of tourists."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ trahere（拉）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "吸引，引起...的注意；诱惑，招引"
+        }
+      ],
+      "prefix": "ad-",
+      "prefixMeaning": "向"
+    },
+    {
+      "word": "contract",
+      "pronunciation": "/ˈkɒntrækt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 合同，契约；婚约，合约 v. 订合同，订契约；收缩，缩小；感染，染上",
+      "collocations": [
+        "sign a contract",
+        "contract a disease",
+        "contract out",
+        "employment contract"
+      ],
+      "examples": [
+        "They signed a contract.",
+        "Muscles contract when exercised."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ trahere（拉）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "合同，契约；婚约，合约"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "订合同，订契约；收缩，缩小；感染，染上"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "extract",
+      "pronunciation": "/ˈekstrækt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 提取，榨取；拔出，取出；摘录，引用 n. 提取物，精华；摘录，引用；榨出物，汁",
+      "collocations": [
+        "extract information",
+        "extract teeth",
+        "vanilla extract",
+        "extract resources"
+      ],
+      "examples": [
+        "The dentist extracted the tooth.",
+        "Vanilla extract is used in baking."
+      ],
+      "etymology": "来自拉丁语 ex-（出）+ trahere（拉）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "提取，榨取；拔出，取出；摘录，引用"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "提取物，精华；摘录，引用；榨出物，汁"
+        }
+      ],
+      "prefix": "ex-",
+      "prefixMeaning": "出"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "root": "phon",
+  "meaning": "声音",
+  "words": [
+    {
+      "word": "phone",
+      "pronunciation": "/fəʊn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 电话，电话机；听筒，耳机；语音，音素 v. 打电话",
+      "collocations": [
+        "phone call",
+        "phone number",
+        "answer the phone",
+        "cell phone"
+      ],
+      "examples": [
+        "The phone is ringing.",
+        "I will phone you later."
+      ],
+      "etymology": "来自希腊语 phone（声音）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "电话，电话机；听筒，耳机；语音，音素"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "打电话"
+        }
+      ],
+      "suffix": "-phone",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "symphony",
+      "pronunciation": "/ˈsɪmfəni/",
+      "partOfSpeech": "n.",
+      "definition": "n. 交响乐，交响曲",
+      "collocations": [
+        "symphony orchestra",
+        "symphony hall",
+        "symphony no.",
+        "conduct a symphony"
+      ],
+      "examples": [
+        "The orchestra played a symphony.",
+        "Beethovens Ninth Symphony is famous."
+      ],
+      "etymology": "来自希腊语 syn-（一起）+ phone（声音）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "交响乐，交响曲"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "microphone",
+      "pronunciation": "/ˈmaɪkrəfəʊn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 麦克风，话筒",
+      "collocations": [
+        "speak into microphone",
+        "microphone stand",
+        "wireless microphone",
+        "adjust the microphone"
+      ],
+      "examples": [
+        "She spoke into the microphone.",
+        "The microphone amplified his voice."
+      ],
+      "etymology": "来自希腊语 mikro-（小）+ phone（声音）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "麦克风，话筒"
+        }
+      ],
+      "suffix": "-phone",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "telephone",
+      "pronunciation": "/ˈtelɪfəʊn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 电话，电话机；电话系统 v. 打电话",
+      "collocations": [
+        "telephone number",
+        "telephone call",
+        "telephone line",
+        "mobile telephone"
+      ],
+      "examples": [
+        "What is your telephone number?",
+        "I will telephone you later."
+      ],
+      "etymology": "来自希腊语 tele-（远）+ phone（声音）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "电话，电话机；电话系统；电话学"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "打电话"
+        }
+      ],
+      "suffix": "-phone",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

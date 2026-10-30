@@ -1,0 +1,90 @@
+{
+  "root": "cap",
+  "meaning": "头，拿",
+  "words": [
+    {
+      "word": "capital",
+      "pronunciation": "/ˈkæpɪtl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 首都，资本；大写字母",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "首都；资本"
+        }
+      ],
+      "collocations": [
+        "capital city"
+      ],
+      "examples": [
+        "Beijing is the capital."
+      ],
+      "etymology": "cap（头）+ -ital",
+      "suffix": "-ital",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "captain",
+      "pronunciation": "/ˈkæptɪn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 队长，船长；上尉",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "队长"
+        }
+      ],
+      "collocations": [
+        "team captain"
+      ],
+      "examples": [
+        "He is the captain."
+      ],
+      "etymology": "cap（头）+ -tain",
+      "suffix": "-tain",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "capture",
+      "pronunciation": "/ˈkæptʃə/",
+      "partOfSpeech": "v.",
+      "definition": "v. 捕获，俘获；夺取",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "捕获"
+        }
+      ],
+      "collocations": [
+        "capture attention"
+      ],
+      "examples": [
+        "They captured the city."
+      ],
+      "etymology": "cap（拿）+ -ture",
+      "suffix": "-ture",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "escape",
+      "pronunciation": "/ɪˈskeɪp/",
+      "partOfSpeech": "v.",
+      "definition": "v. 逃跑，逃脱",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "逃跑"
+        }
+      ],
+      "collocations": [
+        "escape from"
+      ],
+      "examples": [
+        "He escaped from prison."
+      ],
+      "etymology": "e-（出）+ cap（头）+ -，出头",
+      "prefix": "e-",
+      "prefixMeaning": "出"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "root": "carn",
+  "meaning": "肉",
+  "words": [
+    {
+      "word": "carnival",
+      "pronunciation": "/ˈkɑːnɪvl/",
+      "partOfSpeech": "n.",
+      "definition": "n. 嘉年华，狂欢节",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "狂欢节"
+        }
+      ],
+      "collocations": [
+        "carnival celebration"
+      ],
+      "examples": [
+        "The carnival was fun."
+      ],
+      "etymology": "carn（肉）+ -ival，告别肉食",
+      "suffix": "-ival",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "carnivore",
+      "pronunciation": "/ˈkɑːnɪvɔː/",
+      "partOfSpeech": "n.",
+      "definition": "n. 食肉动物",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "食肉动物"
+        }
+      ],
+      "collocations": [
+        "large carnivore"
+      ],
+      "examples": [
+        "Lions are carnivores."
+      ],
+      "etymology": "carn（肉）+ -vore（吃）",
+      "suffix": "-re",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "carnal",
+      "pronunciation": "/ˈkɑːnl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 肉体的，性欲的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "肉体的"
+        }
+      ],
+      "collocations": [
+        "carnal desire"
+      ],
+      "examples": [
+        "Carnal pleasures."
+      ],
+      "etymology": "carn（肉）+ -al",
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "incarnate",
+      "pronunciation": "/ɪnˈkɑːneɪt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 化身的，具象化的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "化身的"
+        }
+      ],
+      "collocations": [
+        "evil incarnate"
+      ],
+      "examples": [
+        "He is evil incarnate."
+      ],
+      "etymology": "in-（入）+ carn（肉）+ -ate",
+      "suffix": "-ate",
+      "prefix": "in-",
+      "prefixMeaning": "入",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

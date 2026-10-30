@@ -1,0 +1,110 @@
+{
+  "root": "astr",
+  "meaning": "星",
+  "words": [
+    {
+      "word": "astronomy",
+      "pronunciation": "/əˈstrɒnəmi/",
+      "partOfSpeech": "n.",
+      "definition": "n. 天文学",
+      "collocations": [
+        "study astronomy",
+        "astronomy class",
+        "observatory astronomy",
+        "amateur astronomy"
+      ],
+      "examples": [
+        "She studied astronomy at university.",
+        "Astronomy explores the universe."
+      ],
+      "etymology": "来自希腊语 astron（星）+ nomos（法则）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "天文学"
+        }
+      ],
+      "suffix": "-y",
+      "suffixMeaning": "多…的"
+    },
+    {
+      "word": "astronaut",
+      "pronunciation": "/ˈæstrənɔːt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 宇航员，航天员；太空旅行者",
+      "collocations": [
+        "astronaut training",
+        "astronaut mission",
+        "astronaut corps",
+        "astronaut suit"
+      ],
+      "examples": [
+        "The astronaut walked on the moon.",
+        "She trained to become an astronaut."
+      ],
+      "etymology": "来自希腊语 astron（星）+ nautes（航行员）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "宇航员，航天员；太空旅行者"
+        }
+      ],
+      "suffix": "-aut",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "asteroid",
+      "pronunciation": "/ˈæstərɔɪd/",
+      "partOfSpeech": "n.",
+      "definition": "n. 小行星",
+      "collocations": [
+        "asteroid belt",
+        "asteroid impact",
+        "near-earth asteroid",
+        "asteroid mining"
+      ],
+      "examples": [
+        "The asteroid belt is between Mars and Jupiter.",
+        "An asteroid hit Earth millions of years ago."
+      ],
+      "etymology": "来自希腊语 astron（星）+ -oid（像）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "小行星"
+        }
+      ],
+      "suffix": "-oid",
+      "suffixMeaning": "像"
+    },
+    {
+      "word": "disaster",
+      "pronunciation": "/dɪˈzɑːstə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 灾难，灾害；惨败，彻底失败",
+      "collocations": [
+        "natural disaster",
+        "disaster relief",
+        "disaster area",
+        "disaster strikes"
+      ],
+      "examples": [
+        "The earthquake was a disaster.",
+        "Disaster relief efforts are underway."
+      ],
+      "etymology": "来自希腊语 dis-（不）+ astron（星），意为星位不正带来的灾祸",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "灾难，灾害；惨败，彻底失败"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "灾难性的"
+        }
+      ],
+      "prefix": "dis-",
+      "prefixMeaning": "不"
+    }
+  ]
+}

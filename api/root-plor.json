@@ -1,0 +1,101 @@
+{
+  "root": "plor",
+  "meaning": "哭，喊",
+  "words": [
+    {
+      "word": "explore",
+      "pronunciation": "/ɪkˈsplɔː/",
+      "partOfSpeech": "v.",
+      "definition": "v. 探索，探险；探究",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "探索；探究"
+        }
+      ],
+      "collocations": [
+        "explore the world",
+        "explore options"
+      ],
+      "examples": [
+        "They explored the cave."
+      ],
+      "etymology": "ex-（出）+ plor（喊）+ -e，猎人喊出猎物",
+      "prefix": "ex-",
+      "prefixMeaning": "出",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "explore",
+      "pronunciation": "/ɪkˈsplɔː/",
+      "partOfSpeech": "n.",
+      "definition": "n. 探索，探险",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "探索"
+        }
+      ],
+      "collocations": [
+        "space exploration",
+        "exploration of"
+      ],
+      "examples": [
+        "Space exploration is important."
+      ],
+      "etymology": "ex- + plor + -ation",
+      "suffix": "-ation",
+      "prefix": "ex-",
+      "suffixMeaning": "后缀",
+      "prefixMeaning": "出，外"
+    },
+    {
+      "word": "deplore",
+      "pronunciation": "/dɪˈplɔː/",
+      "partOfSpeech": "v.",
+      "definition": "v. 哀悼，悲痛；谴责",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "哀悼；谴责"
+        }
+      ],
+      "collocations": [
+        "deplore the loss",
+        "deplore violence"
+      ],
+      "examples": [
+        "We deplore the violence."
+      ],
+      "etymology": "de-（加强）+ plor（哭）+ -e",
+      "prefix": "de-",
+      "prefixMeaning": "加强",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "implorable",
+      "pronunciation": "/ɪmˈplɔːrəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 可哀求的，可怜的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "可哀求的"
+        }
+      ],
+      "collocations": [
+        "implorable situation"
+      ],
+      "examples": [
+        "An implorable plea."
+      ],
+      "etymology": "im-（入）+ plor（哭）+ -able",
+      "suffix": "-able",
+      "prefix": "im-",
+      "prefixMeaning": "入",
+      "suffixMeaning": "能…的"
+    }
+  ]
+}

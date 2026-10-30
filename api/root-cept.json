@@ -1,0 +1,93 @@
+{
+  "root": "cept",
+  "meaning": "拿",
+  "words": [
+    {
+      "word": "accept",
+      "pronunciation": "/əkˈsept/",
+      "partOfSpeech": "v.",
+      "definition": "v. 接受，收受；同意，答应；承认，认可；相信，认为",
+      "collocations": [
+        "accept responsibility",
+        "accept an invitation",
+        "accept terms",
+        "accept payment"
+      ],
+      "examples": [
+        "Please accept my sincere apologies.",
+        "She accepted the job offer yesterday."
+      ],
+      "etymology": "来自拉丁语 capere（拿）+ ac-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "接受，收受；同意，答应；承认，认可；相信，认为"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "接受，承诺"
+        }
+      ],
+      "prefix": "ac-",
+      "prefixMeaning": "向，朝"
+    },
+    {
+      "word": "concept",
+      "pronunciation": "/ˈkɒnsept/",
+      "partOfSpeech": "n.",
+      "definition": "n. 概念，观念；设想，想法；构思，创意",
+      "collocations": [
+        "basic concept",
+        "key concept",
+        "new concept",
+        "abstract concept"
+      ],
+      "examples": [
+        "The concept of democracy varies across cultures.",
+        "He introduced a revolutionary new concept."
+      ],
+      "etymology": "来自拉丁语 capere（拿）+ con-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "概念，观念；设想，想法；构思，创意"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "共同"
+    },
+    {
+      "word": "except",
+      "pronunciation": "/ɪkˈsept/",
+      "partOfSpeech": "prep.",
+      "definition": "prep. 除...之外，不包括 conj. 除了，要不是 v. 把...除外，不包括",
+      "collocations": [
+        "except for",
+        "except when",
+        "no exception",
+        "with the exception of"
+      ],
+      "examples": [
+        "Everyone passed the exam except John.",
+        "All the rooms are occupied except one."
+      ],
+      "etymology": "来自拉丁语 capere（拿）+ ex-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "prep.",
+          "definition": "除...之外，不包括"
+        },
+        {
+          "partOfSpeech": "conj.",
+          "definition": "除了，要不是"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "把...除外，不包括"
+        }
+      ],
+      "prefix": "ex-",
+      "prefixMeaning": "出，外"
+    }
+  ]
+}

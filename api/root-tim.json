@@ -1,0 +1,98 @@
+{
+  "root": "tim",
+  "meaning": "害怕",
+  "words": [
+    {
+      "word": "timid",
+      "pronunciation": "/ˈtɪmɪd/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 胆小的，羞怯的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "胆小的"
+        }
+      ],
+      "collocations": [
+        "timid person",
+        "timid smile"
+      ],
+      "examples": [
+        "She is very timid."
+      ],
+      "etymology": "tim（害怕）+ -id",
+      "suffix": "-id",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "timidity",
+      "pronunciation": "/tɪˈmɪdəti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 胆怯，羞怯",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "胆怯"
+        }
+      ],
+      "collocations": [
+        "overcome timidity",
+        "show timidity"
+      ],
+      "examples": [
+        "His timidity held him back."
+      ],
+      "etymology": "timid + -ity",
+      "suffix": "-ity",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "intimidate",
+      "pronunciation": "/ɪnˈtɪmɪdeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 恐吓，威胁",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "恐吓"
+        }
+      ],
+      "collocations": [
+        "intimidate someone",
+        "intimidate into"
+      ],
+      "examples": [
+        "They tried to intimidate him."
+      ],
+      "etymology": "in-（入）+ timid（害怕）+ -ate",
+      "suffix": "-ate",
+      "prefix": "in-",
+      "prefixMeaning": "入",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "intimidation",
+      "pronunciation": "/ɪnˌtɪmɪˈdeɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 恐吓，威胁",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "恐吓"
+        }
+      ],
+      "collocations": [
+        "voter intimidation",
+        "tactic of intimidation"
+      ],
+      "examples": [
+        "Voter intimidation is illegal."
+      ],
+      "etymology": "in- + timid + -ation",
+      "suffix": "-ation",
+      "prefix": "in-",
+      "suffixMeaning": "后缀",
+      "prefixMeaning": "入，内"
+    }
+  ]
+}

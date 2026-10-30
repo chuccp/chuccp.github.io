@@ -1,0 +1,88 @@
+{
+  "root": "coron",
+  "meaning": "王冠",
+  "words": [
+    {
+      "word": "crown",
+      "pronunciation": "/kraʊn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 王冠，皇冠；王位",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "王冠"
+        }
+      ],
+      "collocations": [
+        "wear crown"
+      ],
+      "examples": [
+        "The king wore the crown."
+      ],
+      "etymology": "coron（王冠）的变体"
+    },
+    {
+      "word": "coronation",
+      "pronunciation": "/ˌkɒrəˈneɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 加冕礼",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "加冕礼"
+        }
+      ],
+      "collocations": [
+        "coronation ceremony"
+      ],
+      "examples": [
+        "The coronation was grand."
+      ],
+      "etymology": "coron（王冠）+ -ation",
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "coronet",
+      "pronunciation": "/ˈkɒrənɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 小冠，贵族冠",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "小冠"
+        }
+      ],
+      "collocations": [
+        "wear coronet"
+      ],
+      "examples": [
+        "She wore a coronet."
+      ],
+      "etymology": "coron（王冠）+ -et",
+      "suffix": "-et",
+      "suffixMeaning": "小东西"
+    },
+    {
+      "word": "corona",
+      "pronunciation": "/kəˈrəʊnə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 日冕，冠状体",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "日冕"
+        }
+      ],
+      "collocations": [
+        "solar corona"
+      ],
+      "examples": [
+        "The corona is visible during eclipse."
+      ],
+      "etymology": "coron（王冠）+ -a",
+      "suffix": "-a",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

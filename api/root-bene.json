@@ -1,0 +1,110 @@
+{
+  "root": "bene",
+  "meaning": "好，善",
+  "words": [
+    {
+      "word": "benefit",
+      "pronunciation": "/ˈbenɪfɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 利益，好处，益处；津贴，补助金；保险金 v. 有益于，对...有益；受益，得到好处",
+      "collocations": [
+        "benefit from",
+        "health benefits",
+        "mutual benefit",
+        "benefit package"
+      ],
+      "examples": [
+        "Exercise has many health benefits.",
+        "The new policy will benefit everyone."
+      ],
+      "etymology": "来自拉丁语 bene（好）+ facere（做）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "利益，好处，益处；津贴，补助金；保险金"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "有益于，对...有益；受益，得到好处"
+        }
+      ],
+      "suffix": "-it",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "benevolent",
+      "pronunciation": "/bəˈnevələnt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 仁慈的，慈善的",
+      "collocations": [
+        "benevolent organization",
+        "benevolent dictator",
+        "benevolent smile",
+        "benevolent donor"
+      ],
+      "examples": [
+        "The benevolent donor gave millions to charity.",
+        "She had a benevolent expression on her face."
+      ],
+      "etymology": "来自拉丁语 bene（好）+ volens（愿意的）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "仁慈的，慈善的"
+        }
+      ],
+      "suffix": "-ent",
+      "suffixMeaning": "形容词后缀"
+    },
+    {
+      "word": "beneficial",
+      "pronunciation": "/ˌbenɪˈfɪʃl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 有益的，有利的；受益的",
+      "collocations": [
+        "beneficial effect",
+        "beneficial to",
+        "mutually beneficial",
+        "highly beneficial"
+      ],
+      "examples": [
+        "Fresh air is beneficial to health.",
+        "The program has been beneficial to students."
+      ],
+      "etymology": "来自拉丁语 bene（好）+ facere（做）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "有益的，有利的；受益的"
+        }
+      ],
+      "suffix": "-ial",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "benign",
+      "pronunciation": "/bɪˈnaɪn/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 良性的，和蔼的",
+      "collocations": [
+        "benign tumor",
+        "benign climate",
+        "benign neglect",
+        "benign smile"
+      ],
+      "examples": [
+        "The doctor said the tumor was benign.",
+        "She gave him a benign smile."
+      ],
+      "etymology": "来自拉丁语 bene（好）+ genus（种类）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "良性的，和蔼的"
+        }
+      ],
+      "prefix": "bene-",
+      "prefixMeaning": "好"
+    }
+  ]
+}

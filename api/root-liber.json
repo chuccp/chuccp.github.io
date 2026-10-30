@@ -1,0 +1,89 @@
+{
+  "root": "liber",
+  "meaning": "自由",
+  "words": [
+    {
+      "word": "liberty",
+      "pronunciation": "/ˈlɪbəti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 自由，自由权；许可，准许；过于随便，放肆",
+      "collocations": [
+        "personal liberty",
+        "take liberties",
+        "at liberty",
+        "Statue of Liberty"
+      ],
+      "examples": [
+        "Freedom and liberty are important values.",
+        "You are at liberty to leave."
+      ],
+      "etymology": "来自拉丁语 liber（自由）+ -ty 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "自由，自由权；许可，准许；过于随便，放肆"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "自由的，自由的"
+        }
+      ],
+      "suffix": "-ty",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "liberal",
+      "pronunciation": "/ˈlɪbərəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 自由的，开明的；慷慨的；自由主义的 n. 自由主义者",
+      "collocations": [
+        "liberal arts",
+        "liberal democracy",
+        "liberal interpretation",
+        "liberal with"
+      ],
+      "examples": [
+        "She has liberal views on education.",
+        "He was liberal with his money."
+      ],
+      "etymology": "来自拉丁语 liber（自由）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "自由的，开明的；慷慨的；自由主义的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "自由主义者；开明人士"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "liberate",
+      "pronunciation": "/ˈlɪbəreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 解放，释放；使自由；游离，析出",
+      "collocations": [
+        "liberate the country",
+        "liberate from",
+        "liberate the prisoners",
+        "liberate energy"
+      ],
+      "examples": [
+        "The army liberated the city.",
+        "The therapy liberated her from fear."
+      ],
+      "etymology": "来自拉丁语 liber（自由）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "解放，释放；使自由；游离，析出"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

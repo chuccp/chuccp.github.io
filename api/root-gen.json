@@ -1,0 +1,118 @@
+{
+  "root": "gen",
+  "meaning": "产生，出生",
+  "words": [
+    {
+      "word": "generate",
+      "pronunciation": "/ˈdʒenəreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 产生，发生；引起，导致；生殖，繁殖",
+      "collocations": [
+        "generate electricity",
+        "generate income",
+        "generate interest",
+        "generate power"
+      ],
+      "examples": [
+        "The solar panels generate electricity.",
+        "The announcement generated a lot of interest."
+      ],
+      "etymology": "来自拉丁语 generare（产生），来自 genus（种类）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "产生，发生；引起，导致；生殖，繁殖"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "发生，产生"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "generation",
+      "pronunciation": "/ˌdʒenəˈreɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 一代人；产生，发生；一代，一代人",
+      "collocations": [
+        "younger generation",
+        "current generation",
+        "power generation",
+        "next generation"
+      ],
+      "examples": [
+        "The younger generation embraces new technology.",
+        "This is a new generation of smartphones."
+      ],
+      "etymology": "来自拉丁语 generare（产生）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "一代人；产生，发生；一代，一代人"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "一代的，同代的"
+        }
+      ],
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "genetic",
+      "pronunciation": "/dʒəˈnetɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 基因的，遗传的；起源的，发生的",
+      "collocations": [
+        "genetic disorder",
+        "genetic engineering",
+        "genetic makeup",
+        "genetic testing"
+      ],
+      "examples": [
+        "The disease has a genetic cause.",
+        "Genetic engineering raises ethical questions."
+      ],
+      "etymology": "来自希腊语 genesis（起源）+ -etic 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "基因的，遗传的；起源的，发生的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "遗传学"
+        }
+      ],
+      "suffix": "-ic",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "genius",
+      "pronunciation": "/ˈdʒiːniəs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 天才，天赋",
+      "collocations": [
+        "genius for",
+        "pure genius",
+        "marketing genius",
+        "recognize genius"
+      ],
+      "examples": [
+        "Einstein was a mathematical genius.",
+        "She has a genius for languages."
+      ],
+      "etymology": "来自拉丁语 genius（守护神，天赋）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "天才，天赋"
+        }
+      ],
+      "suffix": "-us",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

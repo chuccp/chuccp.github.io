@@ -1,0 +1,85 @@
+{
+  "root": "mon",
+  "meaning": "警告，提醒",
+  "words": [
+    {
+      "word": "monitor",
+      "pronunciation": "/ˈmɒnɪtə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 监视器，显示器；监听器；班长，监督员 v. 监控，监测；监听，监视",
+      "collocations": [
+        "computer monitor",
+        "monitor progress",
+        "heart rate monitor",
+        "monitor the situation"
+      ],
+      "examples": [
+        "She stared at the computer monitor.",
+        "We need to monitor his condition closely."
+      ],
+      "etymology": "来自拉丁语 monere（警告）+ -or 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "监视器，显示器；监听器；班长，监督员"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "监控，监测；监听，监视"
+        }
+      ],
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "admonish",
+      "pronunciation": "/ədˈmɒnɪʃ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 告诫，劝告；责备",
+      "collocations": [
+        "admonish someone to",
+        "admonish for",
+        "gently admonish",
+        "severely admonish"
+      ],
+      "examples": [
+        "The teacher admonished him for being late.",
+        "I must admonish you against this course of action."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ monere（警告）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "告诫，劝告；责备"
+        }
+      ],
+      "prefix": "ad-",
+      "prefixMeaning": "向"
+    },
+    {
+      "word": "summon",
+      "pronunciation": "/ˈsʌmən/",
+      "partOfSpeech": "v.",
+      "definition": "v. 召唤，召集；鼓起（勇气）",
+      "collocations": [
+        "summon courage",
+        "summon a meeting",
+        "summon witnesses",
+        "summon help"
+      ],
+      "examples": [
+        "He summoned all his courage to speak.",
+        "The king summoned his advisors."
+      ],
+      "etymology": "来自拉丁语 sub-（下）+ monere（提醒）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "召唤，召集；鼓起（勇气）"
+        }
+      ],
+      "prefix": "sub-",
+      "prefixMeaning": "下"
+    }
+  ]
+}

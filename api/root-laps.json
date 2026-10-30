@@ -1,0 +1,102 @@
+{
+  "root": "laps",
+  "meaning": "滑，落",
+  "words": [
+    {
+      "word": "collapse",
+      "pronunciation": "/kəˈlæps/",
+      "partOfSpeech": "v.",
+      "definition": "v. 倒塌，崩溃；晕倒",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "倒塌；崩溃"
+        }
+      ],
+      "collocations": [
+        "collapse from",
+        "building collapse"
+      ],
+      "examples": [
+        "The building collapsed."
+      ],
+      "etymology": "col-（共同）+ laps（滑）+ -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "elapse",
+      "pronunciation": "/ɪˈlæps/",
+      "partOfSpeech": "v.",
+      "definition": "v. （时间）流逝，过去",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "（时间）流逝"
+        }
+      ],
+      "collocations": [
+        "time elapse",
+        "elapse since"
+      ],
+      "examples": [
+        "Several years elapsed."
+      ],
+      "etymology": "e-（出）+ laps（滑）+ -e",
+      "suffix": "-e",
+      "prefix": "e-",
+      "prefixMeaning": "出",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "lapse",
+      "pronunciation": "/læps/",
+      "partOfSpeech": "n.",
+      "definition": "n. 失误，疏忽；流逝",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "失误；流逝"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "失效"
+        }
+      ],
+      "collocations": [
+        "memory lapse",
+        "lapse of time"
+      ],
+      "examples": [
+        "A lapse of concentration."
+      ],
+      "etymology": "laps（滑）+ -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "relapse",
+      "pronunciation": "/rɪˈlæps/",
+      "partOfSpeech": "v.",
+      "definition": "v. 复发，旧病复发",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "复发"
+        }
+      ],
+      "collocations": [
+        "relapse into",
+        "relapse after"
+      ],
+      "examples": [
+        "He relapsed into old habits."
+      ],
+      "etymology": "re-（回）+ laps（滑）+ -e",
+      "prefix": "re-",
+      "prefixMeaning": "回",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

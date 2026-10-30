@@ -1,0 +1,90 @@
+{
+  "root": "aud",
+  "meaning": "听",
+  "words": [
+    {
+      "word": "audience",
+      "pronunciation": "/ˈɔːdiəns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 观众，听众",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "观众，听众"
+        }
+      ],
+      "collocations": [
+        "large audience"
+      ],
+      "examples": [
+        "The audience applauded."
+      ],
+      "etymology": "aud（听）+ -ience",
+      "suffix": "-ience",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "audio",
+      "pronunciation": "/ˈɔːdiəʊ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 音频，声音",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "音频"
+        }
+      ],
+      "collocations": [
+        "audio system"
+      ],
+      "examples": [
+        "The audio quality is good."
+      ],
+      "etymology": "aud（听）+ -io",
+      "suffix": "-io",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "audit",
+      "pronunciation": "/ˈɔːdɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 审计，查账；旁听",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "审计；旁听"
+        }
+      ],
+      "collocations": [
+        "audit accounts"
+      ],
+      "examples": [
+        "They audit the company."
+      ],
+      "etymology": "aud（听）+ -it，听审",
+      "suffix": "-it",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "auditorium",
+      "pronunciation": "/ˌɔːdɪˈtɔːriəm/",
+      "partOfSpeech": "n.",
+      "definition": "n. 礼堂，观众席",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "礼堂"
+        }
+      ],
+      "collocations": [
+        "school auditorium"
+      ],
+      "examples": [
+        "The concert was in the auditorium."
+      ],
+      "etymology": "aud（听）+ -itorium（场所）",
+      "suffix": "-itorium",
+      "suffixMeaning": "场所"
+    }
+  ]
+}

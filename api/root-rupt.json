@@ -1,0 +1,114 @@
+{
+  "root": "rupt",
+  "meaning": "破",
+  "words": [
+    {
+      "word": "rupture",
+      "pronunciation": "/ˈrʌptʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 破裂，断裂；决裂，破裂 v. 使破裂，使断裂；使决裂",
+      "collocations": [
+        "rupture the pipe",
+        "rupture of",
+        "suffer a rupture",
+        "rupture the relationship"
+      ],
+      "examples": [
+        "The pipe ruptured under pressure.",
+        "He suffered a ruptured disc."
+      ],
+      "etymology": "来自拉丁语 rumpere（破）+ -ure 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "破裂，断裂；决裂，破裂；疝气"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "使破裂，使断裂；使决裂"
+        }
+      ],
+      "suffix": "-ture",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "interrupt",
+      "pronunciation": "/ˌɪntəˈrʌpt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 打断，中断；妨碍",
+      "collocations": [
+        "interrupt someone",
+        "interrupt the meeting",
+        "interrupt the flow",
+        "constantly interrupt"
+      ],
+      "examples": [
+        "Dont interrupt me.",
+        "The storm interrupted power."
+      ],
+      "etymology": "来自拉丁语 inter-（在...之间）+ rumpere（破）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "打断，中断；妨碍"
+        }
+      ],
+      "prefix": "inter-",
+      "prefixMeaning": "在...之间"
+    },
+    {
+      "word": "erupt",
+      "pronunciation": "/ɪˈrʌpt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 爆发，喷发",
+      "collocations": [
+        "volcano erupts",
+        "erupt into",
+        "erupt with",
+        "violently erupt"
+      ],
+      "examples": [
+        "The volcano erupted last year.",
+        "Violence erupted in the streets."
+      ],
+      "etymology": "来自拉丁语 e-（出）+ rumpere（破）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "爆发，喷发"
+        }
+      ],
+      "prefix": "e-",
+      "prefixMeaning": "出"
+    },
+    {
+      "word": "corrupt",
+      "pronunciation": "/kəˈrʌpt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 腐败的，贪污的；堕落的，道德败坏的 v. 使腐败，使堕落；腐蚀，贿赂",
+      "collocations": [
+        "corrupt official",
+        "corrupt system",
+        "corrupt the data",
+        "highly corrupt"
+      ],
+      "examples": [
+        "The official was corrupt.",
+        "The file is corrupt."
+      ],
+      "etymology": "来自拉丁语 cor-（完全）+ rumpere（破）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "腐败的，贪污的；堕落的，道德败坏的"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "使腐败，使堕落；腐蚀，贿赂"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "root": "alt",
+  "meaning": "高",
+  "words": [
+    {
+      "word": "altitude",
+      "pronunciation": "/ˈæltɪtjuːd/",
+      "partOfSpeech": "n.",
+      "definition": "n. 高度，海拔；高地",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "高度，海拔"
+        }
+      ],
+      "collocations": [
+        "high altitude",
+        "altitude sickness"
+      ],
+      "examples": [
+        "The plane flew at high altitude."
+      ],
+      "etymology": "alt（高）+ -itude（名词后缀）",
+      "suffix": "-itude",
+      "suffixMeaning": "名词"
+    },
+    {
+      "word": "alto",
+      "pronunciation": "/ˈæltəʊ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 女低音，男高音",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "女低音"
+        }
+      ],
+      "collocations": [
+        "alto singer"
+      ],
+      "examples": [
+        "She sings alto."
+      ],
+      "etymology": "alt（高）+ -o",
+      "suffix": "-o",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "altar",
+      "pronunciation": "/ˈɔːltə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 祭坛，圣坛",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "祭坛"
+        }
+      ],
+      "collocations": [
+        "at the altar"
+      ],
+      "examples": [
+        "They married at the altar."
+      ],
+      "etymology": "alt（高）+ -ar，高的地方",
+      "suffix": "-ar",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "exalt",
+      "pronunciation": "/ɪɡˈzɔːlt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 提升，提拔；赞美",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "提升；赞美"
+        }
+      ],
+      "collocations": [
+        "exalt someone"
+      ],
+      "examples": [
+        "He was exalted to the throne."
+      ],
+      "etymology": "ex-（出）+ alt（高）+ -，使升高",
+      "prefix": "ex-",
+      "prefixMeaning": "出"
+    }
+  ]
+}

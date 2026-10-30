@@ -1,0 +1,89 @@
+{
+  "root": "ced",
+  "meaning": "走",
+  "words": [
+    {
+      "word": "precede",
+      "pronunciation": "/prɪˈsiːd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 领先于，优于；在...之前；高于（在级别上）",
+      "collocations": [
+        "precede by",
+        "precede with",
+        "preceding chapter",
+        "precedent case"
+      ],
+      "examples": [
+        "The meeting will be preceded by a brief presentation.",
+        "Lightning precedes thunder."
+      ],
+      "etymology": "来自拉丁语 cedere（走）+ pre-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "领先于，优于；在...之前；高于（在级别上）"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "在前的，在先的"
+        }
+      ],
+      "prefix": "pre-",
+      "prefixMeaning": "前，预先"
+    },
+    {
+      "word": "recede",
+      "pronunciation": "/rɪˈsiːd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 后退，减弱；逐渐远离",
+      "collocations": [
+        "recede from",
+        "receding tide",
+        "receding hairline",
+        "memory recedes"
+      ],
+      "examples": [
+        "The flood waters finally receded.",
+        "His hairline is receding."
+      ],
+      "etymology": "来自拉丁语 cedere（走）+ re-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "后退，减弱；逐渐远离"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "回，再"
+    },
+    {
+      "word": "proceed",
+      "pronunciation": "/prəˈsiːd/",
+      "partOfSpeech": "v.",
+      "definition": "v. 继续进行，继续下去；前进，行进；进行，开展；起诉，诉讼 n. 收益，收入",
+      "collocations": [
+        "proceed with",
+        "proceed to",
+        "proceeding from",
+        "proceedings"
+      ],
+      "examples": [
+        "Please proceed with your plan.",
+        "Let us proceed to the next topic."
+      ],
+      "etymology": "来自拉丁语 cedere（走）+ pro-前缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "继续进行，继续下去；前进，行进；进行，开展；起诉，诉讼"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "收益，收入"
+        }
+      ],
+      "prefix": "pro-",
+      "prefixMeaning": "前，向前"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "root": "ann",
+  "meaning": "年",
+  "words": [
+    {
+      "word": "annual",
+      "pronunciation": "/ˈænjuəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 每年的，年度的；一年生的 n. 年刊，年鉴；一年生植物",
+      "collocations": [
+        "annual meeting",
+        "annual report",
+        "annual income",
+        "annual rainfall"
+      ],
+      "examples": [
+        "The company holds an annual meeting.",
+        "The annual rainfall is 1000mm."
+      ],
+      "etymology": "来自拉丁语 annus（年）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "每年的，年度的；一年生的；全年的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "年刊，年鉴；一年生植物；年度比赛"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "anniversary",
+      "pronunciation": "/ˌænɪˈvɜːsəri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 周年纪念，周年纪念日 adj. 周年的",
+      "collocations": [
+        "wedding anniversary",
+        "anniversary celebration",
+        "anniversary party",
+        "golden anniversary"
+      ],
+      "examples": [
+        "Today is our wedding anniversary.",
+        "They celebrated their 50th anniversary."
+      ],
+      "etymology": "来自拉丁语 annus（年）+ versarius（转向）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "周年纪念，周年纪念日"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "周年的，周年纪念的"
+        }
+      ],
+      "suffix": "-ry",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "annuity",
+      "pronunciation": "/əˈnjuːɪti/",
+      "partOfSpeech": "n.",
+      "definition": "n. 年金，年金保险",
+      "collocations": [
+        "purchase annuity",
+        "annuity payment",
+        "fixed annuity",
+        "annuity plan"
+      ],
+      "examples": [
+        "He purchased an annuity for retirement.",
+        "The annuity provides monthly income."
+      ],
+      "etymology": "来自拉丁语 annus（年）+ -ity 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "年金，年金保险"
+        }
+      ],
+      "suffix": "-ity",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "perennial",
+      "pronunciation": "/pəˈreniəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 多年的，持久的；四季不断的",
+      "collocations": [
+        "perennial plant",
+        "perennial problem",
+        "perennial favorite",
+        "perennial issue"
+      ],
+      "examples": [
+        "Roses are perennial plants.",
+        "This is a perennial problem."
+      ],
+      "etymology": "来自拉丁语 per-（贯穿）+ annus（年）+ -ial 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "多年的，持久的；四季不断的"
+        }
+      ],
+      "suffix": "-ial",
+      "prefix": "per-",
+      "prefixMeaning": "贯穿",
+      "suffixMeaning": "…的"
+    }
+  ]
+}

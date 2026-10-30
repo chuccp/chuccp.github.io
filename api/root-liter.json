@@ -1,0 +1,116 @@
+{
+  "root": "liter",
+  "meaning": "文字",
+  "words": [
+    {
+      "word": "literature",
+      "pronunciation": "/ˈlɪtrətʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 文学，文学作品；文献，图书资料；印刷品",
+      "collocations": [
+        "classic literature",
+        "English literature",
+        "scientific literature",
+        "children literature"
+      ],
+      "examples": [
+        "She studied English literature at university.",
+        "The scientific literature on this topic is extensive."
+      ],
+      "etymology": "来自拉丁语 littera（字母）+ -ature 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "文学，文学作品；文献，图书资料；印刷品"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "从事文学，研究文学"
+        }
+      ],
+      "suffix": "-ature",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "literal",
+      "pronunciation": "/ˈlɪtərəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 字面的，照字义的；确实的，实际的 n. 字面意义",
+      "collocations": [
+        "literal meaning",
+        "literal translation",
+        "literal interpretation",
+        "not a literal"
+      ],
+      "examples": [
+        "Take the words in their literal sense.",
+        "This is a literal translation."
+      ],
+      "etymology": "来自拉丁语 littera（字母）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "字面的，照字义的；确实的，实际的；逐字的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "字面意义，字面解释"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "literate",
+      "pronunciation": "/ˈlɪtərət/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 有文化的，识字的；精通的",
+      "collocations": [
+        "computer literate",
+        "financially literate",
+        "literate person",
+        "become literate"
+      ],
+      "examples": [
+        "Most adults in the country are literate.",
+        "He is computer literate."
+      ],
+      "etymology": "来自拉丁语 littera（字母）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "有文化的，识字的；精通的"
+        }
+      ],
+      "suffix": "-ate",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "obliterate",
+      "pronunciation": "/əˈblɪtəreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 抹去，消灭；毁灭",
+      "collocations": [
+        "obliterate completely",
+        "obliterate the evidence",
+        "obliterate from memory",
+        "obliterate the city"
+      ],
+      "examples": [
+        "The bomb obliterated the building.",
+        "Time has obliterated the inscription."
+      ],
+      "etymology": "来自拉丁语 ob-（对）+ littera（字母）+ -ate 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "抹去，消灭；毁灭"
+        }
+      ],
+      "suffix": "-ate",
+      "prefix": "ob-",
+      "prefixMeaning": "对",
+      "suffixMeaning": "动词后缀"
+    }
+  ]
+}

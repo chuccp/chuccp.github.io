@@ -1,0 +1,114 @@
+{
+  "root": "pet",
+  "meaning": "追求",
+  "words": [
+    {
+      "word": "compete",
+      "pronunciation": "/kəmˈpiːt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 竞争，比赛；对抗",
+      "collocations": [
+        "compete with",
+        "compete for",
+        "compete against",
+        "compete in"
+      ],
+      "examples": [
+        "Athletes compete for medals.",
+        "Companies compete for customers."
+      ],
+      "etymology": "来自拉丁语 com-（一起）+ petere（追求）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "竞争，比赛；对抗"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "竞争，比赛"
+        }
+      ],
+      "prefix": "com-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "petition",
+      "pronunciation": "/pəˈtɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 请愿书，申请书；诉状 v. 请愿，请求",
+      "collocations": [
+        "sign a petition",
+        "petition for",
+        "petition the government",
+        "online petition"
+      ],
+      "examples": [
+        "They started a petition.",
+        "Workers petitioned for better conditions."
+      ],
+      "etymology": "来自拉丁语 petere（追求）+ -ition 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "请愿书，申请书；诉状"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "请愿，请求"
+        }
+      ],
+      "suffix": "-ition",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "appetite",
+      "pronunciation": "/ˈæpɪtaɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 食欲，胃口；欲望",
+      "collocations": [
+        "good appetite",
+        "lose appetite",
+        "appetite for",
+        "whet the appetite"
+      ],
+      "examples": [
+        "Exercise improves appetite.",
+        "He has an appetite for adventure."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ petere（追求）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "食欲，胃口；欲望"
+        }
+      ],
+      "prefix": "ad-",
+      "prefixMeaning": "向"
+    },
+    {
+      "word": "impetus",
+      "pronunciation": "/ˈɪmpɪtəs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 动力，推动力；冲力",
+      "collocations": [
+        "give impetus to",
+        "gain impetus",
+        "impetus for",
+        "impetus behind"
+      ],
+      "examples": [
+        "The grant gave impetus to the research.",
+        "The impetus for change was strong."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ petere（追求）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "动力，推动力；冲力"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "入"
+    }
+  ]
+}

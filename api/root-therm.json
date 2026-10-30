@@ -1,0 +1,79 @@
+{
+  "root": "therm",
+  "meaning": "热",
+  "words": [
+    {
+      "word": "thermal",
+      "pronunciation": "/ˈθɜːml/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 热的，热量的；保暖的；温泉的",
+      "collocations": [
+        "thermal energy",
+        "thermal expansion",
+        "thermal imaging",
+        "thermal power"
+      ],
+      "examples": [
+        "Thermal energy can be converted to electricity.",
+        "The thermal imaging camera detected heat."
+      ],
+      "etymology": "来自希腊语 thermē（热）+ -al 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "热的，热量的；保暖的；温泉的"
+        }
+      ],
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "thermometer",
+      "pronunciation": "/θəˈmɒmɪtə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 温度计",
+      "collocations": [
+        "digital thermometer",
+        "mercury thermometer",
+        "read thermometer",
+        "clinical thermometer"
+      ],
+      "examples": [
+        "The thermometer shows 38 degrees.",
+        "She took her temperature with a thermometer."
+      ],
+      "etymology": "来自希腊语 thermē（热）+ metron（测量）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "温度计"
+        }
+      ],
+      "suffix": "-meter",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "thermos",
+      "pronunciation": "/ˈθɜːmɒs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 保温瓶",
+      "collocations": [
+        "thermos flask",
+        "thermos bottle",
+        "fill thermos",
+        "bring thermos"
+      ],
+      "examples": [
+        "He brought coffee in a thermos.",
+        "The thermos kept the soup warm."
+      ],
+      "etymology": "来自希腊语 thermē（热），商标名",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "保温瓶"
+        }
+      ]
+    }
+  ]
+}

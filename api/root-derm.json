@@ -1,0 +1,92 @@
+{
+  "root": "derm",
+  "meaning": "皮肤",
+  "words": [
+    {
+      "word": "dermis",
+      "pronunciation": "/ˈdɜːmɪs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 真皮",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "真皮"
+        }
+      ],
+      "collocations": [
+        "skin dermis"
+      ],
+      "examples": [
+        "The dermis is below epidermis."
+      ],
+      "etymology": "derm（皮肤）+ -is",
+      "suffix": "-is",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "dermatitis",
+      "pronunciation": "/ˌdɜːməˈtaɪtɪs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 皮炎",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "皮炎"
+        }
+      ],
+      "collocations": [
+        "skin dermatitis"
+      ],
+      "examples": [
+        "He has dermatitis."
+      ],
+      "etymology": "derm（皮肤）+ -itis（炎症）",
+      "suffix": "-itis",
+      "suffixMeaning": "炎症"
+    },
+    {
+      "word": "epidermis",
+      "pronunciation": "/ˌepɪˈdɜːmɪs/",
+      "partOfSpeech": "n.",
+      "definition": "n. 表皮",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "表皮"
+        }
+      ],
+      "collocations": [
+        "skin epidermis"
+      ],
+      "examples": [
+        "The epidermis is outer layer."
+      ],
+      "etymology": "epi-（上）+ derm（皮肤）+ -is",
+      "suffix": "-is",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "hypodermic",
+      "pronunciation": "/ˌhaɪpəˈdɜːmɪk/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 皮下的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "皮下的"
+        }
+      ],
+      "collocations": [
+        "hypodermic needle"
+      ],
+      "examples": [
+        "A hypodermic injection."
+      ],
+      "etymology": "hypo-（下）+ derm（皮肤）+ -ic",
+      "suffix": "-ic",
+      "prefix": "hypo-",
+      "prefixMeaning": "下",
+      "suffixMeaning": "…的"
+    }
+  ]
+}

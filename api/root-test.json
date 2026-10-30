@@ -1,0 +1,114 @@
+{
+  "root": "test",
+  "meaning": "证据，证明",
+  "words": [
+    {
+      "word": "test",
+      "pronunciation": "/test/",
+      "partOfSpeech": "n.",
+      "definition": "n. 测试，试验；检验 v. 测试，试验；检验",
+      "collocations": [
+        "take a test",
+        "test result",
+        "blood test",
+        "test the theory"
+      ],
+      "examples": [
+        "She passed the driving test.",
+        "We need to test the hypothesis."
+      ],
+      "etymology": "来自拉丁语 testum（容器，证据）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "测试，试验；检验"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "测试，试验；检验"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "testify",
+      "pronunciation": "/ˈtestɪfaɪ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 作证，证明",
+      "collocations": [
+        "testify in court",
+        "testify against",
+        "testify to",
+        "witness testify"
+      ],
+      "examples": [
+        "She testified against the defendant.",
+        "His success testifies to his skill."
+      ],
+      "etymology": "来自拉丁语 testis（证人）+ facere（做）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "作证，证明"
+        }
+      ],
+      "suffix": "-ify",
+      "suffixMeaning": "使…化"
+    },
+    {
+      "word": "testament",
+      "pronunciation": "/ˈtestəmənt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 遗嘱，证明",
+      "collocations": [
+        "last testament",
+        "New Testament",
+        "Old Testament",
+        "testament to"
+      ],
+      "examples": [
+        "The building is a testament to his vision.",
+        "The Old Testament is part of the Bible."
+      ],
+      "etymology": "来自拉丁语 testari（作证）+ -ment 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "遗嘱，证明"
+        }
+      ],
+      "suffix": "-ment",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "contest",
+      "pronunciation": "/ˈkɒntest/",
+      "partOfSpeech": "n./v.",
+      "definition": "n. 比赛，竞争 v. 争辩，质疑",
+      "collocations": [
+        "beauty contest",
+        "contest the decision",
+        "contest the election",
+        "close contest"
+      ],
+      "examples": [
+        "She entered a singing contest.",
+        "He contested the election results."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ testari（作证）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "比赛，竞争"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "争辩，质疑"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "一起"
+    }
+  ]
+}

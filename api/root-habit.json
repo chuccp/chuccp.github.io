@@ -1,0 +1,89 @@
+{
+  "root": "habit",
+  "meaning": "居住，习惯",
+  "words": [
+    {
+      "word": "habit",
+      "pronunciation": "/ˈhæbɪt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 习惯，习性；嗜好 v. 使习惯于",
+      "collocations": [
+        "bad habit",
+        "good habit",
+        "get into the habit",
+        "break a habit"
+      ],
+      "examples": [
+        "He has a habit of biting his nails.",
+        "Exercise is a good habit to develop."
+      ],
+      "etymology": "来自拉丁语 habitus（状态，习惯），来自 habere（拥有）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "习惯，习性；嗜好；（宗教）僧袍"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "使习惯于"
+        }
+      ],
+      "suffix": "-it",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "habitat",
+      "pronunciation": "/ˈhæbɪtæt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 栖息地，居住地",
+      "collocations": [
+        "natural habitat",
+        "wildlife habitat",
+        "habitat destruction",
+        "protect habitat"
+      ],
+      "examples": [
+        "The panda natural habitat is the bamboo forest.",
+        "Urban development threatens animal habitats."
+      ],
+      "etymology": "来自拉丁语 habitare（居住）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "栖息地，居住地；动物栖息地"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "栖息，居住"
+        }
+      ],
+      "suffix": "-t",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "inhabit",
+      "pronunciation": "/ɪnˈhæbɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 居住于，栖息于",
+      "collocations": [
+        "inhabit the island",
+        "inhabit the region",
+        "heavily inhabited",
+        "inhabit the earth"
+      ],
+      "examples": [
+        "The island is inhabited by rare birds.",
+        "Humans have inhabited this area for thousands of years."
+      ],
+      "etymology": "来自拉丁语 in-（在）+ habitare（居住）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "居住于，栖息于"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "在"
+    }
+  ]
+}

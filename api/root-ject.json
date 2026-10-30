@@ -1,0 +1,118 @@
+{
+  "root": "ject",
+  "meaning": "投掷",
+  "words": [
+    {
+      "word": "reject",
+      "pronunciation": "/rɪˈdʒekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 拒绝，回绝；丢弃，淘汰；驳回，否决 n. 被拒货物，不合格产品",
+      "collocations": [
+        "reject an offer",
+        "reject a proposal",
+        "flatly reject",
+        "reject the idea"
+      ],
+      "examples": [
+        "She rejected his job offer.",
+        "The body may reject the transplanted organ."
+      ],
+      "etymology": "来自拉丁语 re-（回）+ jacere（投掷）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "拒绝，回绝；丢弃，淘汰；驳回，否决"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "被拒货物，不合格产品"
+        }
+      ],
+      "prefix": "re-",
+      "prefixMeaning": "回"
+    },
+    {
+      "word": "project",
+      "pronunciation": "/ˈprɒdʒekt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 项目，计划；工程，课题 v. 投射，放映；规划，计划；突出，伸出；发射",
+      "collocations": [
+        "research project",
+        "project plan",
+        "project confidence",
+        "project growth"
+      ],
+      "examples": [
+        "She is managing a construction project.",
+        "The movie was projected on a large screen."
+      ],
+      "etymology": "来自拉丁语 pro-（向前）+ jacere（投掷）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "项目，计划；工程，课题；方案，规划"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "投射，放映；规划，计划；突出，伸出；发射"
+        }
+      ],
+      "prefix": "pro-",
+      "prefixMeaning": "向前"
+    },
+    {
+      "word": "inject",
+      "pronunciation": "/ɪnˈdʒekt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 注射，注入",
+      "collocations": [
+        "inject medicine",
+        "inject funds",
+        "inject humor",
+        "inject into"
+      ],
+      "examples": [
+        "The nurse injected the medicine into his arm.",
+        "We need to inject new ideas into the project."
+      ],
+      "etymology": "来自拉丁语 in-（入）+ jacere（投掷）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "注射，注入"
+        }
+      ],
+      "prefix": "in-",
+      "prefixMeaning": "入"
+    },
+    {
+      "word": "object",
+      "pronunciation": "/ˈɒbdʒɪkt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 物体，对象；目标，目的；客体，宾语 v. 反对，不赞成；提出异议",
+      "collocations": [
+        "physical object",
+        "object of study",
+        "object to",
+        "main object"
+      ],
+      "examples": [
+        "The object is made of glass.",
+        "I object to that statement."
+      ],
+      "etymology": "来自拉丁语 ob-（对着）+ jacere（投掷）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "物体，对象；目标，目的；客体，宾语"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "反对，不赞成；提出异议"
+        }
+      ],
+      "prefix": "ob-",
+      "prefixMeaning": "对着"
+    }
+  ]
+}

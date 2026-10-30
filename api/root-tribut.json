@@ -1,0 +1,110 @@
+{
+  "root": "tribut",
+  "meaning": "给予，赠予",
+  "words": [
+    {
+      "word": "contribute",
+      "pronunciation": "/kənˈtrɪbjuːt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 贡献，捐献；投稿；有助于，促成",
+      "collocations": [
+        "contribute to",
+        "contribute money",
+        "contribute articles",
+        "contribute ideas"
+      ],
+      "examples": [
+        "She contributed to the charity.",
+        "He contributes articles to the magazine."
+      ],
+      "etymology": "来自拉丁语 con-（一起）+ tribuere（给予）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "贡献，捐献；投稿；有助于，促成"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "一起"
+    },
+    {
+      "word": "distribute",
+      "pronunciation": "/dɪˈstrɪbjuːt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 分配，分发，散布",
+      "collocations": [
+        "distribute food",
+        "distribute evenly",
+        "distribute information",
+        "distribute products"
+      ],
+      "examples": [
+        "Volunteers distributed food to the homeless.",
+        "The company distributes products worldwide."
+      ],
+      "etymology": "来自拉丁语 dis-（分开）+ tribuere（给予）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "分配，分发，散布"
+        }
+      ],
+      "prefix": "dis-",
+      "prefixMeaning": "分开"
+    },
+    {
+      "word": "attribute",
+      "pronunciation": "/əˈtrɪbjuːt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 把...归因于，归属于；认为...是 n. 属性，特性；标志，象征",
+      "collocations": [
+        "attribute to",
+        "attribute success",
+        "key attribute",
+        "personality attribute"
+      ],
+      "examples": [
+        "She attributes her success to hard work.",
+        "Leadership is a key attribute."
+      ],
+      "etymology": "来自拉丁语 ad-（向）+ tribuere（给予）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "把...归因于，归属于；认为...是"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "属性，特性；标志，象征"
+        }
+      ],
+      "prefix": "ad-",
+      "prefixMeaning": "向"
+    },
+    {
+      "word": "tribute",
+      "pronunciation": "/ˈtrɪbjuːt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 贡品，礼物，颂词",
+      "collocations": [
+        "pay tribute",
+        "tribute to",
+        "tribute concert",
+        "tribute band"
+      ],
+      "examples": [
+        "The concert was a tribute to the singer.",
+        "Nations paid tribute to the king."
+      ],
+      "etymology": "来自拉丁语 tribuere（给予）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "贡品，礼物，颂词"
+        }
+      ],
+      "suffix": "-te",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "root": "dent",
+  "meaning": "牙齿",
+  "words": [
+    {
+      "word": "dentist",
+      "pronunciation": "/ˈdentɪst/",
+      "partOfSpeech": "n.",
+      "definition": "n. 牙医",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "牙医"
+        }
+      ],
+      "collocations": [
+        "visit dentist"
+      ],
+      "examples": [
+        "See the dentist."
+      ],
+      "etymology": "dent（牙齿）+ -ist",
+      "suffix": "-ist",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "dental",
+      "pronunciation": "/ˈdentl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 牙齿的，牙科的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "牙齿的"
+        }
+      ],
+      "collocations": [
+        "dental care"
+      ],
+      "examples": [
+        "Dental hygiene is important."
+      ],
+      "etymology": "dent（牙齿）+ -al",
+      "suffix": "-al",
+      "suffixMeaning": "…的"
+    },
+    {
+      "word": "denture",
+      "pronunciation": "/ˈdentʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 假牙",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "假牙"
+        }
+      ],
+      "collocations": [
+        "wear denture"
+      ],
+      "examples": [
+        "He wears dentures."
+      ],
+      "etymology": "dent（牙齿）+ -ure",
+      "suffix": "-ure",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "trident",
+      "pronunciation": "/ˈtraɪdnt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 三叉戟",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "三叉戟"
+        }
+      ],
+      "collocations": [
+        "Poseidon trident"
+      ],
+      "examples": [
+        "The trident is sharp."
+      ],
+      "etymology": "tri-（三）+ dent（牙齿）",
+      "prefix": "tri-",
+      "prefixMeaning": "三"
+    }
+  ]
+}

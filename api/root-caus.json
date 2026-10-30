@@ -1,0 +1,98 @@
+{
+  "root": "caus",
+  "meaning": "原因",
+  "words": [
+    {
+      "word": "cause",
+      "pronunciation": "/kɔːz/",
+      "partOfSpeech": "n.",
+      "definition": "n. 原因，起因；事业",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "原因；事业"
+        }
+      ],
+      "collocations": [
+        "root cause"
+      ],
+      "examples": [
+        "What was the cause?"
+      ],
+      "etymology": "caus（原因）+ -e",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "because",
+      "pronunciation": "/bɪˈkɒz/",
+      "partOfSpeech": "conj.",
+      "definition": "conj. 因为，由于",
+      "meanings": [
+        {
+          "partOfSpeech": "conj.",
+          "definition": "因为"
+        }
+      ],
+      "collocations": [
+        "because of"
+      ],
+      "examples": [
+        "Because it rained."
+      ],
+      "etymology": "by + cause",
+      "suffix": "-se",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "accuse",
+      "pronunciation": "/əˈkjuːz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 指责，控告",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "指责"
+        }
+      ],
+      "collocations": [
+        "accuse of"
+      ],
+      "examples": [
+        "He accused her of theft."
+      ],
+      "etymology": "ac-（向）+ cus（原因）+ -e",
+      "suffix": "-e",
+      "prefix": "ac-",
+      "prefixMeaning": "向",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "excuse",
+      "pronunciation": "/ɪkˈskjuːz/",
+      "partOfSpeech": "v.",
+      "definition": "v. 原谅，宽恕 n. 借口",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "原谅"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "借口"
+        }
+      ],
+      "collocations": [
+        "excuse me"
+      ],
+      "examples": [
+        "Excuse me for being late."
+      ],
+      "etymology": "ex-（出）+ cus（原因）+ -e",
+      "prefix": "ex-",
+      "prefixMeaning": "出",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

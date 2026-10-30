@@ -1,0 +1,114 @@
+{
+  "root": "merg",
+  "meaning": "浸，沉，融合",
+  "words": [
+    {
+      "word": "merge",
+      "pronunciation": "/mɜːdʒ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 合并，融合；兼并，吸收；消失，渐渐融入",
+      "collocations": [
+        "merge with",
+        "merge into",
+        "merge companies",
+        "merge lanes"
+      ],
+      "examples": [
+        "The two companies merged last year.",
+        "The road merges into a highway ahead."
+      ],
+      "etymology": "来自拉丁语 mergere（浸，沉）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "合并，融合；兼并，吸收；消失，渐渐融入"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "合并，融合"
+        }
+      ],
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "merger",
+      "pronunciation": "/ˈmɜːdʒə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 合并，兼并",
+      "collocations": [
+        "company merger",
+        "merger agreement",
+        "hostile merger",
+        "announce a merger"
+      ],
+      "examples": [
+        "The merger was approved by shareholders.",
+        "The merger created the largest bank in the country."
+      ],
+      "etymology": "来自 merge + -er 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "合并，兼并"
+        }
+      ],
+      "suffix": "-er",
+      "suffixMeaning": "人或物"
+    },
+    {
+      "word": "emerge",
+      "pronunciation": "/iˈmɜːdʒ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 浮现，出现；暴露，显露；兴起",
+      "collocations": [
+        "emerge from",
+        "emerge as",
+        "newly emerged",
+        "emerge victorious"
+      ],
+      "examples": [
+        "The sun emerged from behind the clouds.",
+        "She emerged as a leader in the field."
+      ],
+      "etymology": "来自拉丁语 e-（出）+ mergere（沉入）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "浮现，出现；暴露，显露；兴起"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "出现，浮现"
+        }
+      ],
+      "prefix": "e-",
+      "prefixMeaning": "出"
+    },
+    {
+      "word": "submerge",
+      "pronunciation": "/səbˈmɜːdʒ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 淹没，潜入水中",
+      "collocations": [
+        "submerge in water",
+        "submerged submarine",
+        "partially submerged",
+        "submerge yourself"
+      ],
+      "examples": [
+        "The flood submerged the entire village.",
+        "The submarine submerged to avoid detection."
+      ],
+      "etymology": "来自拉丁语 sub-（下）+ mergere（沉）",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "淹没，潜入水中"
+        }
+      ],
+      "prefix": "sub-",
+      "prefixMeaning": "下"
+    }
+  ]
+}

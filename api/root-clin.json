@@ -1,0 +1,96 @@
+{
+  "root": "clin",
+  "meaning": "倾斜",
+  "words": [
+    {
+      "word": "incline",
+      "pronunciation": "/ɪnˈklaɪn/",
+      "partOfSpeech": "v.",
+      "definition": "v. 倾斜，倾向于",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "倾斜"
+        }
+      ],
+      "collocations": [
+        "incline to"
+      ],
+      "examples": [
+        "I incline to agree."
+      ],
+      "etymology": "in-（向）+ clin（倾斜）+ -e",
+      "prefix": "in-",
+      "prefixMeaning": "向",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "decline",
+      "pronunciation": "/dɪˈklaɪn/",
+      "partOfSpeech": "v.",
+      "definition": "v. 下降，衰退；拒绝",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "下降；拒绝"
+        }
+      ],
+      "collocations": [
+        "decline offer"
+      ],
+      "examples": [
+        "Sales declined."
+      ],
+      "etymology": "de-（下）+ clin（倾斜）+ -e",
+      "prefix": "de-",
+      "prefixMeaning": "下",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "recline",
+      "pronunciation": "/rɪˈklaɪn/",
+      "partOfSpeech": "v.",
+      "definition": "v. 斜倚，躺",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "斜倚"
+        }
+      ],
+      "collocations": [
+        "recline chair"
+      ],
+      "examples": [
+        "He reclined on the sofa."
+      ],
+      "etymology": "re-（回）+ clin（倾斜）+ -e",
+      "prefix": "re-",
+      "prefixMeaning": "回",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "clinic",
+      "pronunciation": "/ˈklɪnɪk/",
+      "partOfSpeech": "n.",
+      "definition": "n. 诊所，门诊部",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "诊所"
+        }
+      ],
+      "collocations": [
+        "health clinic"
+      ],
+      "examples": [
+        "She works at a clinic."
+      ],
+      "etymology": "clin（倾斜）+ -ic，病床",
+      "suffix": "-ic",
+      "suffixMeaning": "…的"
+    }
+  ]
+}

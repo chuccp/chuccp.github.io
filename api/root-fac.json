@@ -1,0 +1,50 @@
+{
+  "root": "fac",
+  "meaning": "做，制作",
+  "words": [
+    {
+      "word": "factory",
+      "pronunciation": "/ˈfæktri/",
+      "partOfSpeech": "n.",
+      "definition": "n. 工厂，制造厂",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "工厂"
+        }
+      ],
+      "collocations": [
+        "car factory",
+        "factory worker"
+      ],
+      "examples": [
+        "He works in a car factory."
+      ],
+      "etymology": "fac（做）+ -tory（场所）",
+      "suffix": "-tory",
+      "suffixMeaning": "场所"
+    },
+    {
+      "word": "factor",
+      "pronunciation": "/ˈfæktə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 因素，要素；因数",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "因素；因数"
+        }
+      ],
+      "collocations": [
+        "key factor",
+        "risk factor"
+      ],
+      "examples": [
+        "Cost is a major factor."
+      ],
+      "etymology": "fac（做）+ -or",
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    }
+  ]
+}

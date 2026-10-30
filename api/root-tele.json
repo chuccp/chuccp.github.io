@@ -1,0 +1,89 @@
+{
+  "root": "tele",
+  "meaning": "远",
+  "words": [
+    {
+      "word": "television",
+      "pronunciation": "/ˈtelɪvɪʒn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 电视，电视机；电视业",
+      "collocations": [
+        "watch television",
+        "television show",
+        "television series",
+        "on television"
+      ],
+      "examples": [
+        "She watches television every evening.",
+        "The show aired on national television."
+      ],
+      "etymology": "来自希腊语 tele-（远）+ visio（看）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "电视，电视机；电视业"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "看电视，用电视播放"
+        }
+      ],
+      "suffix": "-sion",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "telephone",
+      "pronunciation": "/ˈtelɪfəʊn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 电话，电话机；电话系统 v. 打电话",
+      "collocations": [
+        "telephone number",
+        "telephone call",
+        "telephone line",
+        "mobile telephone"
+      ],
+      "examples": [
+        "What is your telephone number?",
+        "I will telephone you later."
+      ],
+      "etymology": "来自希腊语 tele-（远）+ phone（声音）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "电话，电话机；电话系统；电话学"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "打电话"
+        }
+      ],
+      "suffix": "-phone",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "telescope",
+      "pronunciation": "/ˈtelɪskəʊp/",
+      "partOfSpeech": "n.",
+      "definition": "n. 望远镜",
+      "collocations": [
+        "space telescope",
+        "look through telescope",
+        "powerful telescope",
+        "Hubble telescope"
+      ],
+      "examples": [
+        "He observed the moon through a telescope.",
+        "The telescope magnifies distant objects."
+      ],
+      "etymology": "来自希腊语 tele-（远）+ skopein（看）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "望远镜"
+        }
+      ],
+      "suffix": "-scope",
+      "suffixMeaning": "后缀"
+    }
+  ]
+}

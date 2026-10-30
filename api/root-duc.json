@@ -1,0 +1,128 @@
+{
+  "root": "duc",
+  "meaning": "引导，带领",
+  "words": [
+    {
+      "word": "conduct",
+      "pronunciation": "/kənˈdʌkt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 进行，实施；指挥 n. 行为",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "进行，实施"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "行为"
+        }
+      ],
+      "collocations": [
+        "conduct research",
+        "conduct a meeting"
+      ],
+      "examples": [
+        "They conducted an experiment."
+      ],
+      "etymology": "con-（共同）+ duct（引导）",
+      "prefix": "con-",
+      "prefixMeaning": "共同"
+    },
+    {
+      "word": "educate",
+      "pronunciation": "/ˈedʒukeɪt/",
+      "partOfSpeech": "v.",
+      "definition": "v. 教育，培养",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "教育，培养"
+        }
+      ],
+      "collocations": [
+        "educate children",
+        "educate the public"
+      ],
+      "examples": [
+        "Parents educate their children."
+      ],
+      "etymology": "e-（出）+ duc（引导）+ -ate",
+      "suffix": "-ate",
+      "prefix": "e-",
+      "prefixMeaning": "出",
+      "suffixMeaning": "动词后缀"
+    },
+    {
+      "word": "introduce",
+      "pronunciation": "/ˌɪntrəˈdjuːs/",
+      "partOfSpeech": "v.",
+      "definition": "v. 介绍，引见；引进",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "介绍；引进"
+        }
+      ],
+      "collocations": [
+        "introduce to",
+        "introduce a product"
+      ],
+      "examples": [
+        "Let me introduce you to my friend."
+      ],
+      "etymology": "intro-（入）+ duc（引导）+ -e",
+      "prefix": "intro-",
+      "prefixMeaning": "入",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "produce",
+      "pronunciation": "/prəˈdjuːs/",
+      "partOfSpeech": "v.",
+      "definition": "v. 生产，制造；产生",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "生产；产生"
+        }
+      ],
+      "collocations": [
+        "produce goods",
+        "produce results"
+      ],
+      "examples": [
+        "The factory produces cars."
+      ],
+      "etymology": "pro-（向前）+ duc（引导）+ -e",
+      "prefix": "pro-",
+      "prefixMeaning": "向前",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "reduce",
+      "pronunciation": "/rɪˈdjuːs/",
+      "partOfSpeech": "v.",
+      "definition": "v. 减少，缩小；降低",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "减少，降低"
+        }
+      ],
+      "collocations": [
+        "reduce costs",
+        "reduce weight"
+      ],
+      "examples": [
+        "We need to reduce expenses."
+      ],
+      "etymology": "re-（回）+ duc（引导）+ -e",
+      "prefix": "re-",
+      "prefixMeaning": "回",
+      "suffix": "-e",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

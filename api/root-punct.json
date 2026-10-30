@@ -1,0 +1,110 @@
+{
+  "root": "punct",
+  "meaning": "点",
+  "words": [
+    {
+      "word": "punctual",
+      "pronunciation": "/ˈpʌŋktʃuəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 准时的， punctual",
+      "collocations": [
+        "punctual arrival",
+        "punctual person",
+        "always punctual",
+        "punctual payment"
+      ],
+      "examples": [
+        "She is always punctual.",
+        "Please be punctual for the meeting."
+      ],
+      "etymology": "来自拉丁语 punctum（点）+ -ual 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "准时的， punctual"
+        }
+      ],
+      "suffix": "-ual",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "punctuation",
+      "pronunciation": "/ˌpʌŋktʃuˈeɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 标点，标点符号",
+      "collocations": [
+        "punctuation mark",
+        "correct punctuation",
+        "punctuation error",
+        "punctuation rules"
+      ],
+      "examples": [
+        "Check your punctuation.",
+        "The punctuation is incorrect."
+      ],
+      "etymology": "来自拉丁语 punctum（点）+ -ation 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "标点，标点符号"
+        }
+      ],
+      "suffix": "-ation",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "puncture",
+      "pronunciation": "/ˈpʌŋktʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 刺孔，刺痕 v. 刺穿，戳破",
+      "collocations": [
+        "tire puncture",
+        "puncture wound",
+        "puncture the tire",
+        "puncture the balloon"
+      ],
+      "examples": [
+        "The tire has a puncture.",
+        "The nail punctured the tire."
+      ],
+      "etymology": "来自拉丁语 punctum（点）+ -ure 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "刺孔，刺痕"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "刺穿，戳破"
+        }
+      ],
+      "suffix": "-ture",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "acupuncture",
+      "pronunciation": "/ˈækjupʌŋktʃə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 针灸",
+      "collocations": [
+        "acupuncture treatment",
+        "acupuncture therapy",
+        "acupuncture point",
+        "traditional acupuncture"
+      ],
+      "examples": [
+        "She tried acupuncture for pain relief.",
+        "Acupuncture is an ancient practice."
+      ],
+      "etymology": "来自拉丁语 acus（针）+ punctura（刺）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "针灸"
+        }
+      ],
+      "suffix": "-ture",
+      "suffixMeaning": "名词后缀"
+    }
+  ]
+}

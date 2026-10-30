@@ -1,0 +1,98 @@
+{
+  "root": "jud",
+  "meaning": "判断",
+  "words": [
+    {
+      "word": "judge",
+      "pronunciation": "/dʒʌdʒ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 法官，审判员；裁判员",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "法官；裁判员"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "判断"
+        }
+      ],
+      "collocations": [
+        "judge a case",
+        "judge a competition"
+      ],
+      "examples": [
+        "The judge sentenced him."
+      ],
+      "etymology": "jud（判断）+ -ge",
+      "suffix": "-ge",
+      "suffixMeaning": "后缀"
+    },
+    {
+      "word": "judgment",
+      "pronunciation": "/ˈdʒʌdʒmənt/",
+      "partOfSpeech": "n.",
+      "definition": "n. 判断，判决；看法",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "判断，判决"
+        }
+      ],
+      "collocations": [
+        "pass judgment",
+        "use judgment"
+      ],
+      "examples": [
+        "The judgment was fair."
+      ],
+      "etymology": "judg + -ment",
+      "suffix": "-ment",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "prejudge",
+      "pronunciation": "/ˌpriːˈdʒʌdʒ/",
+      "partOfSpeech": "v.",
+      "definition": "v. 预先判断，有成见",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "预先判断"
+        }
+      ],
+      "collocations": [
+        "prejudge a case",
+        "prejudge someone"
+      ],
+      "examples": [
+        "Do not prejudge the situation."
+      ],
+      "etymology": "pre-（预先）+ judge",
+      "prefix": "pre-",
+      "prefixMeaning": "预先"
+    },
+    {
+      "word": "judicial",
+      "pronunciation": "/dʒuˈdɪʃl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 司法的，法庭的；公正的",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "司法的；公正的"
+        }
+      ],
+      "collocations": [
+        "judicial system",
+        "judicial review"
+      ],
+      "examples": [
+        "The judicial system is independent."
+      ],
+      "etymology": "jud（判断）+ -ic + -ial",
+      "suffix": "-ial",
+      "suffixMeaning": "…的"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "root": "sec",
+  "meaning": "跟随",
+  "words": [
+    {
+      "word": "second",
+      "pronunciation": "/ˈsekənd/",
+      "partOfSpeech": "num.",
+      "definition": "num. 第二 n. 秒；第二名",
+      "collocations": [
+        "second place",
+        "per second",
+        "in second",
+        "second chance"
+      ],
+      "examples": [
+        "He finished in second place.",
+        "Wait a second."
+      ],
+      "etymology": "来自拉丁语 sequi（跟随）+ -und 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "num.",
+          "definition": "第二"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "秒；第二名"
+        }
+      ],
+      "suffix": "-d",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "sector",
+      "pronunciation": "/ˈsektə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 部门，领域；扇形，扇区",
+      "collocations": [
+        "private sector",
+        "public sector",
+        "sector of",
+        "economic sector"
+      ],
+      "examples": [
+        "The tech sector is growing.",
+        "This sector of the economy is strong."
+      ],
+      "etymology": "来自拉丁语 secare（切）+ -tor 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "部门，领域；扇形，扇区"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "把...分成扇形"
+        }
+      ],
+      "suffix": "-or",
+      "suffixMeaning": "人或物"
+    }
+  ]
+}

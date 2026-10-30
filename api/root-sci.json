@@ -1,0 +1,116 @@
+{
+  "root": "sci",
+  "meaning": "知道",
+  "words": [
+    {
+      "word": "science",
+      "pronunciation": "/ˈsaɪəns/",
+      "partOfSpeech": "n.",
+      "definition": "n. 科学，理科；学科，学问",
+      "collocations": [
+        "study science",
+        "science fiction",
+        "natural science",
+        "science teacher"
+      ],
+      "examples": [
+        "She studies science at university.",
+        "Science advances knowledge."
+      ],
+      "etymology": "来自拉丁语 scire（知道）+ -ence 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "科学，理科；学科，学问"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "研究科学"
+        }
+      ],
+      "suffix": "-ence",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "conscious",
+      "pronunciation": "/ˈkɒnʃəs/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 意识到的，自觉的；神志清醒的；有意识的",
+      "collocations": [
+        "conscious decision",
+        "conscious of",
+        "stay conscious",
+        "self-conscious"
+      ],
+      "examples": [
+        "He was conscious of the risk.",
+        "The patient is conscious."
+      ],
+      "etymology": "来自拉丁语 con-（完全）+ scire（知道）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "意识到的，自觉的；神志清醒的；有意识的"
+        },
+        {
+          "partOfSpeech": "n.",
+          "definition": "意识，知觉"
+        }
+      ],
+      "prefix": "con-",
+      "prefixMeaning": "完全"
+    },
+    {
+      "word": "prescient",
+      "pronunciation": "/ˈpriːʃnt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 预知的，有先见之明的",
+      "collocations": [
+        "prescient prediction",
+        "prescient about",
+        "prescient statement",
+        "remarkably prescient"
+      ],
+      "examples": [
+        "His prescient prediction came true.",
+        "She was prescient about the crisis."
+      ],
+      "etymology": "来自拉丁语 pre-（前）+ scire（知道）+ -ent 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "预知的，有先见之明的"
+        }
+      ],
+      "suffix": "-ent",
+      "prefix": "pre-",
+      "prefixMeaning": "前",
+      "suffixMeaning": "形容词后缀"
+    },
+    {
+      "word": "omniscient",
+      "pronunciation": "/ɒmˈnɪʃnt/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 全知的，无所不知的",
+      "collocations": [
+        "omniscient narrator",
+        "omniscient being",
+        "omniscient God",
+        "omniscient perspective"
+      ],
+      "examples": [
+        "The novel has an omniscient narrator.",
+        "God is omniscient."
+      ],
+      "etymology": "来自拉丁语 omni-（全部）+ scire（知道）+ -ent 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "全知的，无所不知的"
+        }
+      ],
+      "suffix": "-ent",
+      "suffixMeaning": "形容词后缀"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "root": "fess",
+  "meaning": "说，言",
+  "words": [
+    {
+      "word": "confess",
+      "pronunciation": "/kənˈfes/",
+      "partOfSpeech": "v.",
+      "definition": "v. 承认，坦白；忏悔",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "承认，坦白"
+        }
+      ],
+      "collocations": [
+        "confess to",
+        "confess a crime"
+      ],
+      "examples": [
+        "He confessed to the murder."
+      ],
+      "etymology": "con-（共同）+ fess（说）",
+      "prefix": "con-",
+      "prefixMeaning": "共同"
+    },
+    {
+      "word": "profess",
+      "pronunciation": "/prəˈfes/",
+      "partOfSpeech": "v.",
+      "definition": "v. 声称，宣称；教授",
+      "meanings": [
+        {
+          "partOfSpeech": "v.",
+          "definition": "声称；教授"
+        }
+      ],
+      "collocations": [
+        "profess to",
+        "profess ignorance"
+      ],
+      "examples": [
+        "He professed to be an expert."
+      ],
+      "etymology": "pro-（公开）+ fess（说）",
+      "prefix": "pro-",
+      "prefixMeaning": "公开"
+    },
+    {
+      "word": "profession",
+      "pronunciation": "/prəˈfeʃn/",
+      "partOfSpeech": "n.",
+      "definition": "n. 职业，专业；声明",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "职业，专业"
+        }
+      ],
+      "collocations": [
+        "legal profession",
+        "by profession"
+      ],
+      "examples": [
+        "Teaching is a respected profession."
+      ],
+      "etymology": "pro- + fess + -ion",
+      "suffix": "-ion",
+      "prefix": "pro-",
+      "suffixMeaning": "名词后缀",
+      "prefixMeaning": "前，向前"
+    },
+    {
+      "word": "professor",
+      "pronunciation": "/prəˈfesə/",
+      "partOfSpeech": "n.",
+      "definition": "n. 教授",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "教授"
+        }
+      ],
+      "collocations": [
+        "professor of",
+        "associate professor"
+      ],
+      "examples": [
+        "She is a professor of physics."
+      ],
+      "etymology": "pro- + fess + -or",
+      "suffix": "-or",
+      "prefix": "pro-",
+      "suffixMeaning": "人或物",
+      "prefixMeaning": "前，向前"
+    }
+  ]
+}

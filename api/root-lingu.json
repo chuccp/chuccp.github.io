@@ -1,0 +1,89 @@
+{
+  "root": "lingu",
+  "meaning": "语言",
+  "words": [
+    {
+      "word": "language",
+      "pronunciation": "/ˈlæŋɡwɪdʒ/",
+      "partOfSpeech": "n.",
+      "definition": "n. 语言，语文；措辞，用语；术语，行话",
+      "collocations": [
+        "native language",
+        "body language",
+        "programming language",
+        "language barrier"
+      ],
+      "examples": [
+        "She speaks three languages.",
+        "The language of the report is technical."
+      ],
+      "etymology": "来自拉丁语 lingua（舌头，语言）",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "语言，语文；措辞，用语；术语，行话"
+        },
+        {
+          "partOfSpeech": "v.",
+          "definition": "用语言表达"
+        }
+      ],
+      "suffix": "-age",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "linguist",
+      "pronunciation": "/ˈlɪŋɡwɪst/",
+      "partOfSpeech": "n.",
+      "definition": "n. 语言学家；通晓多种语言的人",
+      "collocations": [
+        "famous linguist",
+        "professional linguist",
+        "linguist study",
+        "expert linguist"
+      ],
+      "examples": [
+        "The linguist studies ancient languages.",
+        "She is an accomplished linguist."
+      ],
+      "etymology": "来自拉丁语 lingua（语言）+ -ist 后缀",
+      "meanings": [
+        {
+          "partOfSpeech": "n.",
+          "definition": "语言学家；通晓多种语言的人"
+        },
+        {
+          "partOfSpeech": "adj.",
+          "definition": "语言的，语言学的"
+        }
+      ],
+      "suffix": "-ist",
+      "suffixMeaning": "名词后缀"
+    },
+    {
+      "word": "bilingual",
+      "pronunciation": "/ˌbaɪˈlɪŋɡwəl/",
+      "partOfSpeech": "adj.",
+      "definition": "adj. 双语的，能说两种语言的",
+      "collocations": [
+        "bilingual education",
+        "bilingual dictionary",
+        "bilingual child",
+        "bilingual program"
+      ],
+      "examples": [
+        "She is bilingual in English and French.",
+        "The school offers bilingual education."
+      ],
+      "etymology": "来自拉丁语 bi-（二）+ lingua（语言）",
+      "meanings": [
+        {
+          "partOfSpeech": "adj.",
+          "definition": "双语的，能说两种语言的"
+        }
+      ],
+      "prefix": "bi-",
+      "prefixMeaning": "二"
+    }
+  ]
+}
